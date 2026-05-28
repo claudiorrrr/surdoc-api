@@ -62,7 +62,7 @@ Outputs under `data/`:
 | `facets.json` | every facet group + counts |
 | `institutions.json` | museum list + counts |
 | `index.json` | `{recordNumber, title, institution, category, thumbnail, url}[]` |
-| `records/<id>.json` | full detail (only with `DETAIL=1`) |
+| `records/<institutionId>.ndjson` | full detail, one record per line, sharded per museum (only with `DETAIL=1`) |
 
 The GitHub Action (`.github/workflows/dataset.yml`) runs daily, crawls a slice,
 **accumulates** the committed index across runs (so it converges to full

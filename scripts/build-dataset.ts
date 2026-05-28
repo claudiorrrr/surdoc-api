@@ -11,13 +11,15 @@
 //   facets.json        all facet groups
 //   institutions.json  museum list + counts
 //   index.json         [{recordNumber,title,institution,category,thumbnail,url}]
-//   records/<id>.json  full detail (only when DETAIL=1)
+//   records/<institutionId>.ndjson  full detail, one record per line
+//                                   (only when DETAIL=1; sharded per museum so
+//                                    the repo holds ~45 files, not ~54k)
 
 import { mkdir, writeFile, readFile } from "node:fs/promises";
 import { existsSync } from "node:fs";
 import { Surdoc } from "../src/scraper.ts";
 import { Fetcher } from "../src/client.ts";
-import { NotPublicError, type SearchResult } from "../src/types.ts";
+import { NotPublicError, type SearchResult, type SurdocRecord } from "../src/types.ts";
 
 const DATA = new URL("../data/", import.meta.url).pathname;
 const MAX_PAGES = Number(process.env.MAX_PAGES ?? 25); // 0 = all
@@ -37,6 +39,28 @@ async function loadIndex(): Promise<SearchResult[]> {
   } catch {
     return [];
   }
+}
+
+/** Load an existing NDJSON shard into a recordNumber → record map. */
+async function loadShard(file: string): Promise<Map<string, SurdocRecord>> {
+  const m = new Map<string, SurdocRecord>();
+  if (!existsSync(DATA + file)) return m;
+  const text = await readFile(DATA + file, "utf8");
+  for (const line of text.split("\n")) {
+    if (!line.trim()) continue;
+    try {
+      const rec = JSON.parse(line) as SurdocRecord;
+      m.set(rec.recordNumber, rec);
+    } catch {
+      // skip malformed line
+    }
+  }
+  return m;
+}
+
+async function writeShard(file: string, recs: Map<string, SurdocRecord>) {
+  const lines = [...recs.values()].map((r) => JSON.stringify(r)).join("\n");
+  await writeFile(DATA + file, lines + (lines ? "\n" : ""));
 }
 
 async function main() {
@@ -72,17 +96,33 @@ async function main() {
   let detailFetched = 0;
   let notPublic = 0;
   if (DETAIL) {
-    console.log(`→ detail for ${index.length} records (skipping existing)`);
+    // Shard detail per museum. institution name → id from the facet list.
+    const instId = new Map<string, string>();
+    for (const f of facets.institution ?? []) instId.set(f.label, f.id);
+    const shards = new Map<string, SearchResult[]>();
     for (const row of index) {
-      const out = `records/${row.recordNumber}.json`;
-      if (existsSync(DATA + out)) continue;
-      try {
-        await writeJson(out, await sd.record(row.recordNumber));
-        detailFetched++;
-      } catch (e) {
-        if (e instanceof NotPublicError) notPublic++;
-        else console.warn(`  ${row.recordNumber}: ${e}`);
+      const id = instId.get(row.institution ?? "") ?? "unknown";
+      (shards.get(id) ?? shards.set(id, []).get(id)!).push(row);
+    }
+    console.log(`→ detail for ${index.length} records across ${shards.size} shards`);
+    for (const [shardId, rows] of shards) {
+      const file = `records/${shardId}.ndjson`;
+      const recs = await loadShard(file); // resume: keep already-fetched
+      let fetchedThisShard = 0;
+      for (const row of rows) {
+        if (recs.has(row.recordNumber)) continue;
+        try {
+          recs.set(row.recordNumber, await sd.record(row.recordNumber));
+          detailFetched++;
+          fetchedThisShard++;
+        } catch (e) {
+          if (e instanceof NotPublicError) notPublic++;
+          else console.warn(`  ${row.recordNumber}: ${e}`);
+        }
+        // Flush periodically so a crashed/timed-out run keeps progress.
+        if (fetchedThisShard % 50 === 0 && fetchedThisShard) await writeShard(file, recs);
       }
+      await writeShard(file, recs);
     }
   }
 
