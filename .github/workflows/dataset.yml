@@ -1,0 +1,62 @@
+name: Build SURDOC dataset
+
+# Incremental open-data export of surdoc.cl, published to GitHub Pages.
+# Each run crawls a slice (MAX_PAGES), accumulates the committed index, and
+# republishes data/ as static JSON. Over a few days it reaches full coverage.
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # daily 06:00 UTC
+  workflow_dispatch:
+    inputs:
+      max_pages:
+        description: "Pages to crawl this run (0 = all ~3700)"
+        default: "200"
+      detail:
+        description: "Also fetch full record detail (1/0)"
+        default: "0"
+
+permissions:
+  contents: write # commit the accumulated dataset back
+  pages: write
+  id-token: write
+
+concurrency:
+  group: surdoc-dataset
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: oven-sh/setup-bun@v2
+      - run: bun install --frozen-lockfile
+
+      - name: Build dataset slice
+        env:
+          MAX_PAGES: ${{ github.event.inputs.max_pages || '200' }}
+          DETAIL: ${{ github.event.inputs.detail || '0' }}
+        run: bun run build:dataset
+
+      - name: Commit dataset
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || git commit -m "data: refresh SURDOC dataset slice [skip ci]"
+          git push
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: data
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

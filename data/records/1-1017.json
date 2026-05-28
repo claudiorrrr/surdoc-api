@@ -1,0 +1,32 @@
+{
+  "recordNumber": "1-1017",
+  "inventoryNumbers": "22951",
+  "title": "Jarro (arqueológico y etnográfico)",
+  "institution": "Museo Nacional de Historia Natural",
+  "classification": "Antropología, Arqueología y Etnografía - Utensilios, Herramientas y Equipos",
+  "category": "archaeology",
+  "collection": "Emil de Bruyne",
+  "dimensions": "Diámetro 6.8 cm - Alto 5.9 cm",
+  "techniqueMaterial": [
+    {
+      "technique": "Modelado de cerámica",
+      "material": "Cerámica",
+      "aat": [
+        "https://www.aatespanol.cl/terminos/300235507",
+        "https://www.aatespanol.cl/terminos/300235507"
+      ]
+    }
+  ],
+  "description": "Pequeño ceramio globular. Base plana, boca y asa fragmentadas. Incisiones verticales en el cuerpo, alusión a una calabaza. Superficie alisada sin decoración, restos de pintura roja",
+  "conservationState": "Regular",
+  "location": "En depósito - Museo Nacional de Historia Natural",
+  "ingressMode": "Donación",
+  "images": [
+    "https://www.surdoc.cl/sites/default/files/record_images/000000161598-original.jpg",
+    "https://www.surdoc.cl/sites/default/files/record_images/000000161599-original.jpg",
+    "https://www.surdoc.cl/sites/default/files/record_images/000000161600-original.jpg",
+    "https://www.surdoc.cl/sites/default/files/record_images/000000161601-original.jpg",
+    "https://www.surdoc.cl/sites/default/files/record_images/000000161602-original.jpg"
+  ],
+  "url": "https://www.surdoc.cl/registro/1-1017"
+}

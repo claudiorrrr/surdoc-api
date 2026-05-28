@@ -1,0 +1,227 @@
+[
+  {
+    "id": "4",
+    "label": "Museo Histórico Nacional",
+    "count": 25254
+  },
+  {
+    "id": "3",
+    "label": "Museo Nacional de Bellas Artes",
+    "count": 6060
+  },
+  {
+    "id": "9",
+    "label": "Museo Arqueológico de La Serena",
+    "count": 4244
+  },
+  {
+    "id": "5",
+    "label": "Museo Historia Natural de Valparaíso",
+    "count": 4190
+  },
+  {
+    "id": "23",
+    "label": "Museo de Artes Decorativas",
+    "count": 3383
+  },
+  {
+    "id": "16",
+    "label": "Museo Regional de Magallanes",
+    "count": 2898
+  },
+  {
+    "id": "11",
+    "label": "Museo Regional de Rancagua",
+    "count": 2742
+  },
+  {
+    "id": "6",
+    "label": "Museo Historia Natural de Concepción",
+    "count": 2497
+  },
+  {
+    "id": "2",
+    "label": "Museo Nacional de Historia Natural",
+    "count": 2421
+  },
+  {
+    "id": "26",
+    "label": "Museo Histórico Gabriel González Videla",
+    "count": 1848
+  },
+  {
+    "id": "18",
+    "label": "Museo Gabriela Mistral de Vicuña",
+    "count": 1773
+  },
+  {
+    "id": "14",
+    "label": "Museo de Arte y Artesanía de Linares",
+    "count": 1696
+  },
+  {
+    "id": "7",
+    "label": "Museo Regional de La Araucanía de Temuco",
+    "count": 1652
+  },
+  {
+    "id": "12",
+    "label": "Museo del Limarí",
+    "count": 1628
+  },
+  {
+    "id": "8",
+    "label": "Museo O'Higginiano y de Bellas Artes de Talca",
+    "count": 1623
+  },
+  {
+    "id": "17",
+    "label": "Museo Antropológico Padre Sebastián Englert",
+    "count": 1502
+  },
+  {
+    "id": "24",
+    "label": "Museo de Antofagasta",
+    "count": 1487
+  },
+  {
+    "id": "30",
+    "label": "Pinacoteca Universidad de Concepción",
+    "count": 1463
+  },
+  {
+    "id": "31",
+    "label": "Museo Histórico Dominico",
+    "count": 1251
+  },
+  {
+    "id": "21",
+    "label": "Museo Regional de Ancud",
+    "count": 923
+  },
+  {
+    "id": "19",
+    "label": "Museo Regional de Atacama",
+    "count": 825
+  },
+  {
+    "id": "13",
+    "label": "Museo de la Educación Gabriela Mistral",
+    "count": 750
+  },
+  {
+    "id": "10",
+    "label": "Museo Nacional Benjamín Vicuña Mackenna",
+    "count": 737
+  },
+  {
+    "id": "105",
+    "label": "Museo Andino",
+    "count": 564
+  },
+  {
+    "id": "15",
+    "label": "Museo Mapuche de Cañete",
+    "count": 507
+  },
+  {
+    "id": "88",
+    "label": "Museo de Arte Popular Americano, Universidad de Chile",
+    "count": 437
+  },
+  {
+    "id": "34",
+    "label": "Museo Marítimo Nacional",
+    "count": 423
+  },
+  {
+    "id": "20",
+    "label": "Museo Territorial Yagan Usi - Martín González Calderón",
+    "count": 422
+  },
+  {
+    "id": "79",
+    "label": "Museo Regional de Aysén",
+    "count": 374
+  },
+  {
+    "id": "22",
+    "label": "Museo Histórico de Yerbas Buenas",
+    "count": 358
+  },
+  {
+    "id": "48",
+    "label": "Presidencia de la República de Chile",
+    "count": 278
+  },
+  {
+    "id": "83",
+    "label": "Museo Municipal de Bellas Artes de Valparaíso",
+    "count": 251
+  },
+  {
+    "id": "29",
+    "label": "Departamento de Antropología, Universidad de Chile",
+    "count": 229
+  },
+  {
+    "id": "89",
+    "label": "Villa Cultural Huilquilemu Hernán Correa de la Cerda",
+    "count": 214
+  },
+  {
+    "id": "25",
+    "label": "Biblioteca Nacional",
+    "count": 164
+  },
+  {
+    "id": "87",
+    "label": "Museo del Carmen de Maipú",
+    "count": 163
+  },
+  {
+    "id": "39",
+    "label": "Ministerio de las Culturas, las Artes y el Patrimonio",
+    "count": 155
+  },
+  {
+    "id": "35",
+    "label": "Departamento de Sociología y Antropología, Universidad de Concepción",
+    "count": 136
+  },
+  {
+    "id": "115",
+    "label": "Museo Antonio Felmer",
+    "count": 109
+  },
+  {
+    "id": "27",
+    "label": "Museo de Sitio Castillo de Niebla",
+    "count": 94
+  },
+  {
+    "id": "78",
+    "label": "Archivo del Escritor",
+    "count": 72
+  },
+  {
+    "id": "86",
+    "label": "Museo La Merced",
+    "count": 44
+  },
+  {
+    "id": "99",
+    "label": "Museo Violeta Parra",
+    "count": 43
+  },
+  {
+    "id": "65",
+    "label": "SNPC - Colección Chalinga",
+    "count": 31
+  },
+  {
+    "id": "98",
+    "label": "Museo de la Historia de Penco",
+    "count": 6
+  }
+]

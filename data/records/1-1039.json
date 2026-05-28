@@ -1,0 +1,32 @@
+{
+  "recordNumber": "1-1039",
+  "inventoryNumbers": "22911",
+  "title": "Botella (arqueológica y etnográfica)",
+  "institution": "Museo Nacional de Historia Natural",
+  "classification": "Antropología, Arqueología y Etnografía - Utensilios, Herramientas y Equipos",
+  "category": "archaeology",
+  "collection": "Emil de Bruyne",
+  "dimensions": "Diámetro 5.6 cm - Alto 7.6 cm",
+  "techniqueMaterial": [
+    {
+      "technique": "Modelado de cerámica",
+      "material": "Cerámica",
+      "aat": [
+        "https://www.aatespanol.cl/terminos/300235507",
+        "https://www.aatespanol.cl/terminos/300235507"
+      ]
+    }
+  ],
+  "description": "Pequeño contenedor cerámico de cuerpo globular, cuello y rostro antropomorfo (ojos, nariz, orejas) de boca restringida. Superficie burda sin decoración.",
+  "conservationState": "Bueno",
+  "location": "En depósito - Museo Nacional de Historia Natural",
+  "ingressMode": "Donación",
+  "images": [
+    "https://www.surdoc.cl/sites/default/files/record_images/000000161706-original.jpg",
+    "https://www.surdoc.cl/sites/default/files/record_images/000000161707-original.jpg",
+    "https://www.surdoc.cl/sites/default/files/record_images/000000161709-original.jpg",
+    "https://www.surdoc.cl/sites/default/files/record_images/000000161710-original.jpg",
+    "https://www.surdoc.cl/sites/default/files/record_images/000000161711-original.jpg"
+  ],
+  "url": "https://www.surdoc.cl/registro/1-1039"
+}

@@ -1,0 +1,31 @@
+{
+  "recordNumber": "1-1009",
+  "inventoryNumbers": "22966",
+  "title": "Plato (arqueológico y etnográfico)",
+  "institution": "Museo Nacional de Historia Natural",
+  "classification": "Antropología, Arqueología y Etnografía - Utensilios, Herramientas y Equipos",
+  "category": "archaeology",
+  "collection": "Emil de Bruyne",
+  "dimensions": "Diámetro 14.9 cm - Alto 4.9 cm",
+  "techniqueMaterial": [
+    {
+      "technique": "Modelado de cerámica",
+      "material": "Cerámica",
+      "aat": [
+        "https://www.aatespanol.cl/terminos/300235507"
+      ]
+    }
+  ],
+  "description": "Contenedor abierto de perfil simple. Tiene labio redondeado, cuerpo hemisférico  y base convexa. Cerámica modelada y  alisada en el exterior y pulida interior. Color marrón.",
+  "conservationState": "Bueno",
+  "location": "En depósito - Museo Nacional de Historia Natural",
+  "ingressMode": "Donación",
+  "images": [
+    "https://www.surdoc.cl/sites/default/files/record_images/000000161554-original.jpg",
+    "https://www.surdoc.cl/sites/default/files/record_images/000000161555-original.jpg",
+    "https://www.surdoc.cl/sites/default/files/record_images/000000161556-original.jpg",
+    "https://www.surdoc.cl/sites/default/files/record_images/000000161557-original.jpg",
+    "https://www.surdoc.cl/sites/default/files/record_images/000000161558-original.jpg"
+  ],
+  "url": "https://www.surdoc.cl/registro/1-1009"
+}

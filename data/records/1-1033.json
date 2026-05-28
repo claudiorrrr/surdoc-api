@@ -1,0 +1,32 @@
+{
+  "recordNumber": "1-1033",
+  "inventoryNumbers": "22905",
+  "title": "Olla (arqueológica y etnográfica)",
+  "institution": "Museo Nacional de Historia Natural",
+  "classification": "Antropología, Arqueología y Etnografía - Utensilios, Herramientas y Equipos",
+  "category": "archaeology",
+  "collection": "Emil de Bruyne",
+  "dimensions": "Diámetro 15.5 cm - Alto 14.3 cm",
+  "techniqueMaterial": [
+    {
+      "technique": "Modelado de cerámica",
+      "material": "Cerámica",
+      "aat": [
+        "https://www.aatespanol.cl/terminos/300235507",
+        "https://www.aatespanol.cl/terminos/300235507"
+      ]
+    }
+  ],
+  "description": "Contenedor cerámico de cuerpo globular, base plana, cuello recto, borde evertido. Dos asas opuestas cuello/cuerpo. Superficie negra, rugosa, sin decoración.",
+  "conservationState": "Regular",
+  "location": "En depósito - Museo Nacional de Historia Natural",
+  "ingressMode": "Donación",
+  "images": [
+    "https://www.surdoc.cl/sites/default/files/record_images/000000161675-original.jpg",
+    "https://www.surdoc.cl/sites/default/files/record_images/000000161676-original.jpg",
+    "https://www.surdoc.cl/sites/default/files/record_images/000000161677-original.jpg",
+    "https://www.surdoc.cl/sites/default/files/record_images/000000161678-original.jpg",
+    "https://www.surdoc.cl/sites/default/files/record_images/000000161679-original.jpg"
+  ],
+  "url": "https://www.surdoc.cl/registro/1-1033"
+}
