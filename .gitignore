@@ -4,3 +4,4 @@ node_modules/
 .DS_Store
 # data/ IS committed — it's the published dataset.
 crawl.log
+CLAUDE.md
