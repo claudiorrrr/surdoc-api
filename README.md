@@ -93,7 +93,7 @@ to GitHub Pages. Trigger manually via *Actions → Build SURDOC dataset → Run*
 
 ### Notes / limits
 
-- ~30% of records are behind a login wall (`Iniciar sesión`) → reported as `not_public`.
+- Some records may be behind a login wall (`Iniciar sesión`) → reported as `not_public`. In practice the full crawl found all records publicly accessible (May 2026).
 - SURDOC serves **21** results per page.
 - Scraping is brittle by nature: if the site's markup changes, update the
   selectors in `src/scraper.ts` (centralized there on purpose).

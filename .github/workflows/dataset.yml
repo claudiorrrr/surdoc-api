@@ -14,6 +14,9 @@ on:
         default: "200"
       detail:
         description: "Also fetch full record detail (1/0)"
+        default: "1"
+      skip_index:
+        description: "Skip index crawl, reuse committed index.json (1/0)"
         default: "0"
 
 permissions:
@@ -36,7 +39,8 @@ jobs:
       - name: Build dataset slice
         env:
           MAX_PAGES: ${{ github.event.inputs.max_pages || '200' }}
-          DETAIL: ${{ github.event.inputs.detail || '0' }}
+          DETAIL: ${{ github.event.inputs.detail || '1' }}
+          SKIP_INDEX: ${{ github.event.inputs.skip_index || '0' }}
         run: bun run build:dataset
 
       - name: Commit dataset
