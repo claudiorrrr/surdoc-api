@@ -3,7 +3,7 @@
     {
       "id": "4",
       "label": "Museo Histórico Nacional",
-      "count": 25254
+      "count": 25255
     },
     {
       "id": "3",
@@ -13,7 +13,7 @@
     {
       "id": "9",
       "label": "Museo Arqueológico de La Serena",
-      "count": 4244
+      "count": 4249
     },
     {
       "id": "5",
@@ -28,7 +28,7 @@
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 2898
+      "count": 2907
     },
     {
       "id": "11",
@@ -230,7 +230,7 @@
     {
       "id": "551",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 20680
+      "count": 20686
     },
     {
       "id": "555",
@@ -240,7 +240,7 @@
     {
       "id": "567",
       "label": "Libros y Documentos",
-      "count": 7895
+      "count": 7904
     },
     {
       "id": "560",
@@ -826,7 +826,7 @@
     {
       "id": "8347",
       "label": "Hueso (material animal orgánico)",
-      "count": 2219
+      "count": 2220
     },
     {
       "id": "8533",
@@ -886,7 +886,7 @@
     {
       "id": "8334",
       "label": "Pintura al óleo",
-      "count": 3091
+      "count": 3092
     },
     {
       "id": "8387",
@@ -1278,7 +1278,7 @@
     {
       "id": "12350",
       "label": "Pulido",
-      "count": 3078
+      "count": 3079
     },
     {
       "id": "12388",
@@ -1308,7 +1308,7 @@
     {
       "id": "12420",
       "label": "Tallado",
-      "count": 8362
+      "count": 8363
     },
     {
       "id": "12383",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 77760
+      "count": 77775
     },
     {
       "id": "stolen",

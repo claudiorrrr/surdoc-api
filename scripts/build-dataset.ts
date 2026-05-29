@@ -24,8 +24,10 @@ import { NotPublicError, type SearchResult, type SurdocRecord } from "../src/typ
 const DATA = new URL("../data/", import.meta.url).pathname;
 const MAX_PAGES = Number(process.env.MAX_PAGES ?? 25); // 0 = all
 const DETAIL = process.env.DETAIL === "1";
+const SKIP_INDEX = process.env.SKIP_INDEX === "1"; // reuse committed index.json
+const MIN_INTERVAL_MS = Number(process.env.MIN_INTERVAL_MS ?? 700); // throttle
 
-const sd = new Surdoc(new Fetcher({ minIntervalMs: 700, cacheTtlMs: 0 }));
+const sd = new Surdoc(new Fetcher({ minIntervalMs: MIN_INTERVAL_MS, cacheTtlMs: 0 }));
 
 async function writeJson(name: string, data: unknown) {
   await writeFile(DATA + name, JSON.stringify(data, null, name.endsWith("index.json") ? 0 : 2));
@@ -81,7 +83,7 @@ async function main() {
   for (const r of await loadIndex()) byId.set(r.recordNumber, r);
   for (const r of first.results) byId.set(r.recordNumber, r);
 
-  for (let page = 1; page < lastPage; page++) {
+  for (let page = 1; page < lastPage && !SKIP_INDEX; page++) {
     const res = await sd.search({ page });
     for (const r of res.results) byId.set(r.recordNumber, r);
     if (page % 25 === 0) {
@@ -89,6 +91,7 @@ async function main() {
       console.log(`  page ${page}/${lastPage} — ${byId.size} records`);
     }
   }
+  if (SKIP_INDEX) console.log(`→ SKIP_INDEX: reusing ${byId.size} indexed records`);
 
   const index = [...byId.values()];
   await writeJson("index.json", index);
