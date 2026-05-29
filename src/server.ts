@@ -11,13 +11,13 @@
 //   GET /institutions          museum list + object counts
 //   GET /random?institution=   a random public object (no brute force)
 
-import { existsSync, readFileSync } from "node:fs";
 import { Hono } from "hono";
 import { Surdoc } from "./scraper.ts";
 import { Fetcher } from "./client.ts";
 import { NotPublicError, type SurdocRecord } from "./types.ts";
+import aatData from "../data/aat.json";
 
-// ── AAT enrichment (only available when data/aat.json is present) ─────────────
+// ── AAT enrichment ────────────────────────────────────────────────────────────
 
 interface AatEntry {
   id: string;
@@ -28,10 +28,7 @@ interface AatEntry {
   label_en?: string;
 }
 
-const aatPath = new URL("../../data/aat.json", import.meta.url).pathname;
-const aatLookup: Record<string, Omit<AatEntry, "id" | "url">> = existsSync(aatPath)
-  ? JSON.parse(readFileSync(aatPath, "utf8"))
-  : {};
+const aatLookup = aatData as Record<string, Omit<AatEntry, "id" | "url">>;
 
 function enrichRecord(rec: SurdocRecord): unknown {
   if (!rec.techniqueMaterial?.length) return rec;
