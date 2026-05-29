@@ -9,7 +9,8 @@
     "start": "bun run src/server.ts",
     "build:dataset": "bun run scripts/build-dataset.ts",
     "typecheck": "tsc --noEmit",
-    "smoke": "bun run scripts/smoke.ts"
+    "smoke": "bun run scripts/smoke.ts",
+    "enrich:aat": "bun run scripts/enrich-aat.ts"
   },
   "dependencies": {
     "cheerio": "^1.0.0",

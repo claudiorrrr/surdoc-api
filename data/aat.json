@@ -1,0 +1,1860 @@
+{
+  "23531": {},
+  "300010362": {
+    "wikidataId": "Q45190",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q45190",
+    "label_es": "cemento",
+    "label_en": "cement"
+  },
+  "300010445": {
+    "wikidataId": "Q908663",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q908663",
+    "label_es": "caolín",
+    "label_en": "kaolin"
+  },
+  "300010453": {
+    "wikidataId": "Q123847233",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q123847233",
+    "label_es": "arcilla de alfarero",
+    "label_en": "potter's clay"
+  },
+  "300010459": {
+    "wikidataId": "Q1971493",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q1971493",
+    "label_es": "barbotina",
+    "label_en": "slip"
+  },
+  "300010534": {},
+  "300010662": {
+    "wikidataId": "Q130693",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q130693",
+    "label_es": "porcelana",
+    "label_en": "porcelain"
+  },
+  "300010665": {
+    "wikidataId": "Q17105928",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q17105928",
+    "label_es": "porcelana de pasta blanda",
+    "label_en": "soft-paste porcelain"
+  },
+  "300010669": {},
+  "300010672": {
+    "wikidataId": "Q830894",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q830894",
+    "label_es": "gres",
+    "label_en": "stoneware"
+  },
+  "300010797": {
+    "wikidataId": "Q11469",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q11469",
+    "label_es": "vidrio",
+    "label_en": "glass"
+  },
+  "300010803": {},
+  "300010881": {},
+  "300010900": {
+    "wikidataId": "Q11426",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q11426",
+    "label_es": "metal",
+    "label_en": "metal"
+  },
+  "300010920": {
+    "wikidataId": "Q172587",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q172587",
+    "label_es": "acero inoxidable",
+    "label_en": "stainless steel"
+  },
+  "300010943": {
+    "wikidataId": "Q447546",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q447546",
+    "label_es": "bronce de aluminio",
+    "label_en": "aluminum bronze"
+  },
+  "300010957": {
+    "wikidataId": "Q34095",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q34095",
+    "label_es": "bronce",
+    "label_en": "bronze"
+  },
+  "300010975": {
+    "wikidataId": "Q52895784",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q52895784",
+    "label_es": "aleación de plata",
+    "label_en": "silver alloy"
+  },
+  "300010979": {
+    "wikidataId": "Q852372",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q852372",
+    "label_es": "peltre",
+    "label_en": "pewter"
+  },
+  "300010998": {
+    "wikidataId": "Q910530",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q910530",
+    "label_es": "Metal blanco",
+    "label_en": "white metal"
+  },
+  "300011002": {
+    "wikidataId": "Q677",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q677",
+    "label_es": "hierro",
+    "label_en": "iron"
+  },
+  "300011015": {
+    "wikidataId": "Q663",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q663",
+    "label_es": "aluminio",
+    "label_en": "aluminium"
+  },
+  "300011020": {
+    "wikidataId": "Q753",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q753",
+    "label_es": "cobre",
+    "label_en": "copper"
+  },
+  "300011021": {
+    "wikidataId": "Q897",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q897",
+    "label_es": "oro",
+    "label_en": "gold"
+  },
+  "300011022": {
+    "wikidataId": "Q708",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q708",
+    "label_es": "plomo",
+    "label_en": "lead"
+  },
+  "300011026": {
+    "wikidataId": "Q925",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q925",
+    "label_es": "mercurio",
+    "label_en": "mercury"
+  },
+  "300011028": {
+    "wikidataId": "Q744",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q744",
+    "label_es": "níquel",
+    "label_en": "nickel"
+  },
+  "300011029": {
+    "wikidataId": "Q1090",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q1090",
+    "label_es": "plata",
+    "label_en": "silver"
+  },
+  "300011041": {},
+  "300011048": {
+    "wikidataId": "Q10748318",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q10748318",
+    "label_es": "Bronce dorado",
+    "label_en": "gilt bronze"
+  },
+  "300011074": {
+    "wikidataId": "Q43513",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q43513",
+    "label_es": "esmeralda",
+    "label_en": "emerald"
+  },
+  "300011084": {
+    "wikidataId": "Q5283",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q5283",
+    "label_es": "diamante",
+    "label_en": "diamond"
+  },
+  "300011099": {
+    "wikidataId": "Q82658",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q82658",
+    "label_es": "yeso",
+    "label_en": "gypsum"
+  },
+  "300011101": {
+    "wikidataId": "Q143447",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q143447",
+    "label_es": "alabastro",
+    "label_en": "alabaster"
+  },
+  "300011119": {
+    "wikidataId": "Q175089",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q175089",
+    "label_es": "jade",
+    "label_en": "jade"
+  },
+  "300011124": {
+    "wikidataId": "Q114675",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q114675",
+    "label_es": "mica",
+    "label_en": "mica"
+  },
+  "300011133": {
+    "wikidataId": "Q79058",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q79058",
+    "label_es": "amatista",
+    "label_en": "amethyst"
+  },
+  "300011136": {
+    "wikidataId": "Q180884",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q180884",
+    "label_es": "ónix",
+    "label_en": "onyx"
+  },
+  "300011172": {
+    "wikidataId": "Q12822126",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q12822126",
+    "label_en": "gem"
+  },
+  "300011175": {
+    "wikidataId": "Q10967610",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q10967610",
+    "label_es": "piedra semipreciosa",
+    "label_en": "semiprecious stone"
+  },
+  "300011176": {
+    "wikidataId": "Q22731",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q22731",
+    "label_es": "piedra",
+    "label_en": "stone"
+  },
+  "300011211": {
+    "wikidataId": "Q190727",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q190727",
+    "label_es": "riolita",
+    "label_en": "rhyolite"
+  },
+  "300011246": {
+    "wikidataId": "Q1352521",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q1352521",
+    "label_en": "extrusive rock"
+  },
+  "300011264": {
+    "wikidataId": "Q484924",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q484924",
+    "label_es": "toba volcánica",
+    "label_en": "tuff"
+  },
+  "300011539": {
+    "wikidataId": "Q117084804",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q117084804",
+    "label_en": "portor marble"
+  },
+  "300011727": {
+    "wikidataId": "Q183670",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q183670",
+    "label_es": "creta",
+    "label_en": "chalk"
+  },
+  "300011736": {
+    "wikidataId": "Q185006",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q185006",
+    "label_es": "óxido de calcio",
+    "label_en": "calcium oxide"
+  },
+  "300011790": {
+    "wikidataId": "Q271768",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q271768",
+    "label_es": "Escoria",
+    "label_en": "slag"
+  },
+  "300011794": {
+    "wikidataId": "Q169219",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q169219",
+    "label_es": "albúmina",
+    "label_en": "albumins"
+  },
+  "300011798": {
+    "wikidataId": "Q814769",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q814769",
+    "label_es": "industria ósea",
+    "label_en": "bone tool"
+  },
+  "300011800": {
+    "wikidataId": "Q29386288",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q29386288",
+    "label_es": "coral",
+    "label_en": "coral"
+  },
+  "300011809": {
+    "wikidataId": "Q50998618",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q50998618",
+    "label_es": "pluma",
+    "label_en": "feather"
+  },
+  "300011812": {
+    "wikidataId": "Q179254",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q179254",
+    "label_es": "gelatina",
+    "label_en": "gelatin"
+  },
+  "300011819": {
+    "wikidataId": "Q964736",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q964736",
+    "label_es": "crin",
+    "label_en": "horsehair"
+  },
+  "300011820": {
+    "wikidataId": "Q28472",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q28472",
+    "label_es": "pelo",
+    "label_en": "hair"
+  },
+  "300011822": {
+    "wikidataId": "Q894231",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q894231",
+    "label_es": "cerda",
+    "label_en": "bristle"
+  },
+  "300011826": {
+    "wikidataId": "Q29838373",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q29838373",
+    "label_es": "cuerno",
+    "label_en": "horn"
+  },
+  "300011827": {
+    "wikidataId": "Q43436",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q43436",
+    "label_es": "perla",
+    "label_en": "pearl"
+  },
+  "300011835": {
+    "wikidataId": "Q215865",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q215865",
+    "label_es": "nácar",
+    "label_en": "nacre"
+  },
+  "300011837": {
+    "wikidataId": "Q2141546",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q2141546",
+    "label_es": "carey",
+    "label_en": "tortoise shell"
+  },
+  "300011840": {
+    "wikidataId": "Q1074",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q1074",
+    "label_es": "piel",
+    "label_en": "skin"
+  },
+  "300011845": {
+    "wikidataId": "Q286",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q286",
+    "label_es": "cuero",
+    "label_en": "leather"
+  },
+  "300011851": {
+    "wikidataId": "Q226697",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q226697",
+    "label_es": "pergamino",
+    "label_en": "parchment"
+  },
+  "300011855": {
+    "wikidataId": "Q100274207",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q100274207",
+    "label_es": "diente",
+    "label_en": "tooth"
+  },
+  "300011857": {
+    "wikidataId": "Q82001",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q82001",
+    "label_es": "marfil",
+    "label_en": "ivory"
+  },
+  "300011860": {
+    "wikidataId": "Q184453",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q184453",
+    "label_es": "corteza",
+    "label_en": "bark"
+  },
+  "300011862": {
+    "wikidataId": "Q49444",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q49444",
+    "label_es": "corcho",
+    "label_en": "cork"
+  },
+  "300011864": {
+    "wikidataId": "Q98380236",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q98380236",
+    "label_es": "caña",
+    "label_en": "cane"
+  },
+  "300011873": {
+    "wikidataId": "Q27891820",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q27891820",
+    "label_es": "bambú",
+    "label_en": "bamboo"
+  },
+  "300011883": {
+    "wikidataId": "Q470109",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q470109",
+    "label_es": "Cortaderia selloana",
+    "label_en": "Cortaderia selloana"
+  },
+  "300011889": {
+    "wikidataId": "Q109742780",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q109742780",
+    "label_es": "Junco",
+    "label_en": "rush"
+  },
+  "300011902": {
+    "wikidataId": "Q100275245",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q100275245",
+    "label_es": "semilla",
+    "label_en": "seed"
+  },
+  "300011908": {
+    "wikidataId": "Q160066",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q160066",
+    "label_es": "paja",
+    "label_en": "straw"
+  },
+  "300011912": {},
+  "300011914": {
+    "wikidataId": "Q287",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q287",
+    "label_es": "madera",
+    "label_en": "wood"
+  },
+  "300012512": {
+    "wikidataId": "Q187941",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q187941",
+    "label_es": "Ochroma",
+    "label_en": "Ochroma pyramidale"
+  },
+  "300012862": {
+    "wikidataId": "Q1424515",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q1424515",
+    "label_es": "carboncillo",
+    "label_en": "charcoal"
+  },
+  "300012864": {
+    "wikidataId": "Q21551099",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q21551099",
+    "label_en": "wood charcoal"
+  },
+  "300012866": {
+    "wikidataId": "Q3633062",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q3633062",
+    "label_es": "goma",
+    "label_en": "gum"
+  },
+  "300012881": {
+    "wikidataId": "Q672506",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q672506",
+    "label_es": "pulpa de celulosa",
+    "label_en": "paper pulp"
+  },
+  "300013094": {
+    "wikidataId": "Q2400152",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q2400152",
+    "label_en": "aniline dyes"
+  },
+  "300013109": {
+    "wikidataId": "Q161179",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q161179",
+    "label_es": "pigmento",
+    "label_en": "pigment"
+  },
+  "300014031": {
+    "wikidataId": "Q20026824",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q20026824",
+    "label_es": "fibra vegetal",
+    "label_en": "plant fiber"
+  },
+  "300014043": {
+    "wikidataId": "Q13414920",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q13414920",
+    "label_es": "fibra de cáñamo",
+    "label_en": "hemp fiber"
+  },
+  "300014051": {
+    "wikidataId": "Q14251138",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q14251138",
+    "label_es": "rafia",
+    "label_en": "raffia"
+  },
+  "300014058": {
+    "wikidataId": "Q5856",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q5856",
+    "label_es": "fibra sintética",
+    "label_en": "synthetic fiber"
+  },
+  "300014059": {
+    "wikidataId": "Q910194",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q910194",
+    "label_es": "rayón",
+    "label_en": "rayon"
+  },
+  "300014067": {
+    "wikidataId": "Q3695916",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q3695916",
+    "label_es": "tela de algodón",
+    "label_en": "cotton fabric"
+  },
+  "300014068": {
+    "wikidataId": "Q652698",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q652698",
+    "label_es": "mezclilla",
+    "label_en": "denim"
+  },
+  "300014069": {
+    "wikidataId": "Q1426327",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q1426327",
+    "label_es": "lino textil",
+    "label_en": "linen"
+  },
+  "300014072": {
+    "wikidataId": "Q37681",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q37681",
+    "label_es": "seda",
+    "label_en": "silk"
+  },
+  "300014076": {
+    "wikidataId": "Q911285",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q911285",
+    "label_es": "arpillera",
+    "label_en": "hessian"
+  },
+  "300014078": {
+    "wikidataId": "Q12321255",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q12321255",
+    "label_es": "lienzo",
+    "label_en": "canvas"
+  },
+  "300014083": {
+    "wikidataId": "Q618710",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q618710",
+    "label_es": "gasa",
+    "label_en": "gauze"
+  },
+  "300014087": {
+    "wikidataId": "Q725457",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q725457",
+    "label_es": "muselina",
+    "label_en": "muslin"
+  },
+  "300014107": {
+    "wikidataId": "Q189964",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q189964",
+    "label_es": "fieltro",
+    "label_en": "felt"
+  },
+  "300014109": {
+    "wikidataId": "Q11472",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q11472",
+    "label_es": "papel",
+    "label_en": "paper"
+  },
+  "300014129": {
+    "wikidataId": "Q111982540",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q111982540",
+    "label_en": "Tetrapanax papyrifer rice paper"
+  },
+  "300014143": {
+    "wikidataId": "Q3445052",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q3445052",
+    "label_es": "papel japón",
+    "label_en": "Japanese tissue"
+  },
+  "300014184": {
+    "wikidataId": "Q1513685",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q1513685",
+    "label_es": "papel verjurado",
+    "label_en": "laid paper"
+  },
+  "300014203": {
+    "wikidataId": "Q1251688",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q1251688",
+    "label_es": "tablero de fibra de alta densidad",
+    "label_en": "hardboard"
+  },
+  "300014205": {
+    "wikidataId": "Q1808397",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q1808397",
+    "label_es": "masonita",
+    "label_en": "masonite"
+  },
+  "300014228": {
+    "wikidataId": "Q2916879",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q2916879",
+    "label_es": "papel Bristol",
+    "label_en": "Bristol board"
+  },
+  "300014236": {
+    "wikidataId": "Q18704961",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q18704961",
+    "label_es": "tablero de lona",
+    "label_en": "canvas board"
+  },
+  "300014245": {
+    "wikidataId": "Q899363",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q899363",
+    "label_es": "papel maché",
+    "label_en": "papier-mâché"
+  },
+  "300014249": {
+    "wikidataId": "Q11064354",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q11064354",
+    "label_en": "string"
+  },
+  "300014252": {
+    "wikidataId": "Q49007",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q49007",
+    "label_es": "hilo",
+    "label_en": "yarn"
+  },
+  "300014341": {
+    "wikidataId": "Q34679",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q34679",
+    "label_es": "arena",
+    "label_en": "sand"
+  },
+  "300014379": {
+    "wikidataId": "Q252266",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q252266",
+    "label_es": "elastómero",
+    "label_en": "elastomer"
+  },
+  "300014426": {
+    "wikidataId": "Q342945",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q342945",
+    "label_es": "resina acrílica",
+    "label_en": "acrylic resin"
+  },
+  "300014439": {
+    "wikidataId": "Q124686",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q124686",
+    "label_es": "acetato de celulosa",
+    "label_en": "cellulose acetate"
+  },
+  "300014462": {
+    "wikidataId": "Q177941",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q177941",
+    "label_es": "nailon",
+    "label_en": "nylon"
+  },
+  "300014469": {
+    "wikidataId": "Q145273",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q145273",
+    "label_es": "poliamida",
+    "label_en": "polyamide"
+  },
+  "300014495": {
+    "wikidataId": "Q146322",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q146322",
+    "label_es": "poliuretano",
+    "label_en": "polyurethane"
+  },
+  "300014507": {
+    "wikidataId": "Q146354",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q146354",
+    "label_es": "acetato de polivinilo",
+    "label_en": "polyvinyl acetate"
+  },
+  "300014525": {
+    "wikidataId": "Q212553",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q212553",
+    "label_es": "melamina",
+    "label_en": "melamine"
+  },
+  "300014544": {
+    "wikidataId": "Q146578",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q146578",
+    "label_es": "baquelita",
+    "label_en": "Bakelite"
+  },
+  "300014546": {
+    "wikidataId": "Q188245",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q188245",
+    "label_es": "poliéster",
+    "label_en": "polyester"
+  },
+  "300014570": {
+    "wikidataId": "Q11474",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q11474",
+    "label_es": "plástico",
+    "label_en": "plastic"
+  },
+  "300014585": {
+    "wikidataId": "Q124695",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q124695",
+    "label_es": "cera",
+    "label_en": "wax"
+  },
+  "300014654": {
+    "wikidataId": "Q24503377",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q24503377",
+    "label_en": "mesh"
+  },
+  "300014655": {},
+  "300014690": {
+    "wikidataId": "Q109867631",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q109867631",
+    "label_en": "wicker"
+  },
+  "300014801": {
+    "wikidataId": "Q131790",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q131790",
+    "label_es": "adhesivo",
+    "label_en": "adhesive"
+  },
+  "300014916": {
+    "wikidataId": "Q11236878",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q11236878",
+    "label_es": "laca",
+    "label_en": "lacquer"
+  },
+  "300014974": {
+    "wikidataId": "Q81683",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q81683",
+    "label_es": "barniz",
+    "label_en": "varnish"
+  },
+  "300015003": {
+    "wikidataId": "Q187634",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q187634",
+    "label_es": "emulsión",
+    "label_en": "emulsion"
+  },
+  "300015012": {
+    "wikidataId": "Q127418",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q127418",
+    "label_es": "tinta",
+    "label_en": "ink"
+  },
+  "300015017": {
+    "wikidataId": "Q12981547",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q12981547",
+    "label_es": "tinta china",
+    "label_en": "India ink"
+  },
+  "300015029": {
+    "wikidataId": "Q174219",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q174219",
+    "label_es": "pintura",
+    "label_en": "paint"
+  },
+  "300015035": {
+    "wikidataId": "Q1169888",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q1169888",
+    "label_en": "distemper"
+  },
+  "300015045": {
+    "wikidataId": "Q3374389",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q3374389",
+    "label_es": "acuarela",
+    "label_en": "watercolor paint"
+  },
+  "300015050": {
+    "wikidataId": "Q296955",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q296955",
+    "label_es": "óleo",
+    "label_en": "oil paint"
+  },
+  "300015054": {
+    "wikidataId": "Q1412498",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q1412498",
+    "label_en": "latex paint"
+  },
+  "300015062": {
+    "wikidataId": "Q175166",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q175166",
+    "label_es": "témpera",
+    "label_en": "tempera"
+  },
+  "300015091": {
+    "wikidataId": "Q1431523",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q1431523",
+    "label_es": "veladura",
+    "label_en": "glaze"
+  },
+  "300015134": {},
+  "300021170": {
+    "wikidataId": "Q622753",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q622753",
+    "label_es": "mayólica",
+    "label_en": "maiolica"
+  },
+  "300022415": {
+    "wikidataId": "Q99826317",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q99826317",
+    "label_es": "lápiz crayón",
+    "label_en": "crayon"
+  },
+  "300022441": {
+    "wikidataId": "Q1783255",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q1783255",
+    "label_es": "lápiz de color",
+    "label_en": "colored pencil"
+  },
+  "300022443": {
+    "wikidataId": "Q16871959",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q16871959",
+    "label_es": "lápiz de grafito",
+    "label_en": "graphite pencil"
+  },
+  "300022453": {
+    "wikidataId": "Q160137",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q160137",
+    "label_es": "bolígrafo",
+    "label_en": "ballpoint pen"
+  },
+  "300025352": {
+    "wikidataId": "Q1509440",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q1509440",
+    "label_es": "bordador",
+    "label_en": "embroiderer"
+  },
+  "300032341": {
+    "wikidataId": "Q1450533",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q1450533",
+    "label_es": "gamuza",
+    "label_en": "chamois leather"
+  },
+  "300041386": {
+    "wikidataId": "Q296939",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q296939",
+    "label_es": "oleografía",
+    "label_en": "oleograph"
+  },
+  "300053007": {
+    "wikidataId": "Q3625549",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q3625549",
+    "label_es": "montaje",
+    "label_en": "assembly"
+  },
+  "300053019": {
+    "wikidataId": "Q1470124",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q1470124",
+    "label_es": "fijar remache",
+    "label_en": "riveting"
+  },
+  "300053022": {
+    "wikidataId": "Q384943",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q384943",
+    "label_es": "laminación",
+    "label_en": "lamination"
+  },
+  "300053049": {
+    "wikidataId": "Q1164991",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q1164991",
+    "label_es": "teñido",
+    "label_en": "dyeing"
+  },
+  "300053050": {
+    "wikidataId": "Q63442113",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q63442113",
+    "label_es": "batik",
+    "label_en": "batik"
+  },
+  "300053062": {},
+  "300053069": {
+    "wikidataId": "Q196751",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q196751",
+    "label_es": "corte",
+    "label_en": "cutting"
+  },
+  "300053074": {},
+  "300053077": {},
+  "300053102": {},
+  "300053104": {
+    "wikidataId": "Q496098",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q496098",
+    "label_es": "fundición",
+    "label_en": "casting"
+  },
+  "300053113": {
+    "wikidataId": "Q765814",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q765814",
+    "label_es": "cera perdida",
+    "label_en": "lost-wax casting"
+  },
+  "300053134": {
+    "wikidataId": "Q1055732",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q1055732",
+    "label_es": "moldeado",
+    "label_en": "molding"
+  },
+  "300053136": {
+    "wikidataId": "Q108978599",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q108978599",
+    "label_es": "prensado",
+    "label_en": "pressing"
+  },
+  "300053149": {
+    "wikidataId": "Q13039303",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q13039303",
+    "label_es": "talla",
+    "label_en": "carving"
+  },
+  "300053158": {
+    "wikidataId": "Q258127",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q258127",
+    "label_es": "cilindrado",
+    "label_en": "turning"
+  },
+  "300053181": {},
+  "300053182": {
+    "wikidataId": "Q2064059",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q2064059",
+    "label_en": "fumage"
+  },
+  "300053207": {
+    "wikidataId": "Q1602553",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q1602553",
+    "label_es": "fotograbado",
+    "label_en": "photogravure technique"
+  },
+  "300053228": {
+    "wikidataId": "Q542340",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q542340",
+    "label_es": "grabado a punta seca",
+    "label_en": "drypoint technique"
+  },
+  "300053231": {
+    "wikidataId": "Q747704",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q747704",
+    "label_es": "grabado de línea",
+    "label_en": "line engraving"
+  },
+  "300053241": {
+    "wikidataId": "Q186986",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q186986",
+    "label_es": "aguafuerte",
+    "label_en": "etching"
+  },
+  "300053242": {
+    "wikidataId": "Q473236",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q473236",
+    "label_es": "grabado al aguatinta",
+    "label_en": "aquatint"
+  },
+  "300053271": {
+    "wikidataId": "Q133036",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q133036",
+    "label_es": "litografía",
+    "label_en": "lithography"
+  },
+  "300053277": {
+    "wikidataId": "Q156218",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q156218",
+    "label_es": "monotipo",
+    "label_en": "monotyping"
+  },
+  "300053281": {
+    "wikidataId": "Q187791",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q187791",
+    "label_es": "serigrafía",
+    "label_en": "screen printing"
+  },
+  "300053303": {
+    "wikidataId": "Q1259197",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q1259197",
+    "label_es": "grabado en madera",
+    "label_en": "wood engraving technique"
+  },
+  "300053313": {},
+  "300053319": {
+    "wikidataId": "Q11034",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q11034",
+    "label_es": "impresión",
+    "label_en": "printing"
+  },
+  "300053363": {
+    "wikidataId": "Q72332052",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q72332052",
+    "label_es": "acuarela",
+    "label_en": "transparent watercolor"
+  },
+  "300053426": {
+    "wikidataId": "Q1145705",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q1145705",
+    "label_es": "decalcomanía",
+    "label_en": "decalcomania"
+  },
+  "300053592": {
+    "wikidataId": "Q240471",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q240471",
+    "label_es": "encuadernar",
+    "label_en": "bookbinding"
+  },
+  "300053599": {
+    "wikidataId": "Q2206912",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q2206912",
+    "label_en": "caning"
+  },
+  "300053622": {
+    "wikidataId": "Q126003010",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q126003010",
+    "label_en": "relief technique"
+  },
+  "300053623": {},
+  "300053638": {
+    "wikidataId": "Q43066161",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q43066161",
+    "label_es": "trenzado",
+    "label_en": "braiding"
+  },
+  "300053642": {
+    "wikidataId": "Q192296",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q192296",
+    "label_es": "tejeduría",
+    "label_en": "weaving"
+  },
+  "300053656": {
+    "wikidataId": "Q1920065",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q1920065",
+    "label_es": "acolchado",
+    "label_en": "quilting"
+  },
+  "300053658": {
+    "wikidataId": "Q652122",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q652122",
+    "label_es": "costura",
+    "label_en": "sewing"
+  },
+  "300053661": {
+    "wikidataId": "Q59172",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q59172",
+    "label_es": "hilado",
+    "label_en": "spinning"
+  },
+  "300053662": {
+    "wikidataId": "Q4140198",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q4140198",
+    "label_es": "hilado a mano",
+    "label_en": "hand spinning"
+  },
+  "300053771": {},
+  "300053772": {
+    "wikidataId": "Q54834134",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q54834134",
+    "label_es": "revestir",
+    "label_en": "coating"
+  },
+  "300053773": {
+    "wikidataId": "Q49754281",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q49754281",
+    "label_es": "esmaltado",
+    "label_en": "enameling"
+  },
+  "300053777": {
+    "wikidataId": "Q2481648",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q2481648",
+    "label_es": "champlevé",
+    "label_en": "champlevé"
+  },
+  "300053778": {
+    "wikidataId": "Q1102226",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q1102226",
+    "label_es": "esmalte alveolado",
+    "label_en": "cloisonné"
+  },
+  "300053789": {
+    "wikidataId": "Q1334300",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q1334300",
+    "label_es": "dorado",
+    "label_en": "gilding"
+  },
+  "300053796": {
+    "wikidataId": "Q104359653",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q104359653",
+    "label_es": "lacado",
+    "label_en": "lacquering"
+  },
+  "300053816": {
+    "wikidataId": "Q2066608",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q2066608",
+    "label_en": "spray painting"
+  },
+  "300053825": {
+    "wikidataId": "Q116771298",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q116771298",
+    "label_en": "varnishing"
+  },
+  "300053829": {
+    "wikidataId": "Q106822736",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q106822736",
+    "label_es": "grabado",
+    "label_en": "engraving"
+  },
+  "300053833": {
+    "wikidataId": "Q3556065",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q3556065",
+    "label_es": "verre églomisé",
+    "label_en": "verre églomisé"
+  },
+  "300053840": {},
+  "300053841": {
+    "wikidataId": "Q533614",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q533614",
+    "label_es": "pirograbado",
+    "label_en": "pyrography"
+  },
+  "300053847": {
+    "wikidataId": "Q6014696",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q6014696",
+    "label_es": "incisión",
+    "label_en": "incising"
+  },
+  "300053850": {
+    "wikidataId": "Q1281067",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q1281067",
+    "label_es": "Incrustación (arte)",
+    "label_en": "inlay"
+  },
+  "300053852": {
+    "wikidataId": "Q832266",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q832266",
+    "label_es": "intarsia",
+    "label_en": "intarsia"
+  },
+  "300053853": {
+    "wikidataId": "Q1049923",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q1049923",
+    "label_es": "marquetería",
+    "label_en": "marquetry"
+  },
+  "300053863": {
+    "wikidataId": "Q3415962",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q3415962",
+    "label_es": "cepillado",
+    "label_en": "planing"
+  },
+  "300053867": {
+    "wikidataId": "Q1054722",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q1054722",
+    "label_es": "pulido",
+    "label_en": "polishing"
+  },
+  "300053869": {
+    "wikidataId": "Q1529936",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q1529936",
+    "label_es": "bruñido",
+    "label_en": "burnishing"
+  },
+  "300053874": {
+    "wikidataId": "Q46976611",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q46976611",
+    "label_es": "encolar",
+    "label_en": "sizing"
+  },
+  "300053876": {
+    "wikidataId": "Q97467327",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q97467327",
+    "label_en": "tooling"
+  },
+  "300053878": {
+    "wikidataId": "Q112803924",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q112803924",
+    "label_en": "veneering"
+  },
+  "300053887": {},
+  "300053907": {
+    "wikidataId": "Q104179156",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q104179156",
+    "label_es": "moldeado por colado",
+    "label_en": "slip casting"
+  },
+  "300053932": {
+    "wikidataId": "Q12185286",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q12185286",
+    "label_es": "soplado de vidrio",
+    "label_en": "glass blowing"
+  },
+  "300053944": {
+    "wikidataId": "Q211578",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q211578",
+    "label_es": "curtido",
+    "label_en": "tanning"
+  },
+  "300053958": {
+    "wikidataId": "Q131172",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q131172",
+    "label_es": "soldadura",
+    "label_en": "welding"
+  },
+  "300053981": {
+    "wikidataId": "Q412357",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q412357",
+    "label_es": "galvanizado",
+    "label_en": "electrogalvanization"
+  },
+  "300053988": {
+    "wikidataId": "Q4974278",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q4974278",
+    "label_en": "bronzing"
+  },
+  "300054019": {
+    "wikidataId": "Q2295879",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q2295879",
+    "label_es": "damasquinado",
+    "label_en": "damascening"
+  },
+  "300054023": {
+    "wikidataId": "Q656884",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q656884",
+    "label_es": "repujado",
+    "label_en": "repoussé"
+  },
+  "300054033": {
+    "wikidataId": "Q193057",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q193057",
+    "label_es": "forja",
+    "label_en": "forging"
+  },
+  "300054038": {
+    "wikidataId": "Q496098",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q496098",
+    "label_es": "fundición",
+    "label_en": "casting"
+  },
+  "300054048": {
+    "wikidataId": "Q11202319",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q11202319",
+    "label_es": "orfebrería",
+    "label_en": "goldsmithing"
+  },
+  "300054196": {
+    "wikidataId": "Q2921001",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q2921001",
+    "label_es": "dibujo",
+    "label_en": "art of drawing"
+  },
+  "300054225": {
+    "wikidataId": "Q11633",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q11633",
+    "label_es": "fotografía",
+    "label_en": "photography"
+  },
+  "300060720": {
+    "wikidataId": "Q752633",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q752633",
+    "label_es": "linograbado",
+    "label_en": "linocut technique"
+  },
+  "300070114": {
+    "wikidataId": "Q204330",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q204330",
+    "label_es": "gouache",
+    "label_en": "gouache paint"
+  },
+  "300080064": {
+    "wikidataId": "Q901944",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q901944",
+    "label_es": "sanguina",
+    "label_en": "red chalk"
+  },
+  "300080898": {
+    "wikidataId": "Q6046828",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q6046828",
+    "label_es": "Entrelazado",
+    "label_en": "interlace"
+  },
+  "300081475": {
+    "wikidataId": "Q72933452",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q72933452",
+    "label_es": "raíz",
+    "label_en": "root"
+  },
+  "300126981": {
+    "wikidataId": "Q81623716",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q81623716",
+    "label_en": "tracing cloth"
+  },
+  "300129184": {
+    "wikidataId": "Q1543091",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q1543091",
+    "label_es": "opalina",
+    "label_en": "opaline glass"
+  },
+  "300131099": {},
+  "300132861": {
+    "wikidataId": "Q231250",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q231250",
+    "label_es": "encaje",
+    "label_en": "lace"
+  },
+  "300132869": {
+    "wikidataId": "Q1412495",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q1412495",
+    "label_es": "encaje de bolillos",
+    "label_en": "bobbin lace"
+  },
+  "300132896": {
+    "wikidataId": "Q118274542",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q118274542",
+    "label_en": "China silk"
+  },
+  "300132902": {
+    "wikidataId": "Q14298",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q14298",
+    "label_es": "satén",
+    "label_en": "satin"
+  },
+  "300133076": {
+    "wikidataId": "Q5734146",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q5734146",
+    "label_es": "brocatel",
+    "label_en": "brocatelle"
+  },
+  "300133555": {
+    "wikidataId": "Q104341641",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q104341641",
+    "label_es": "coloreado a mano",
+    "label_en": "hand coloring"
+  },
+  "300133711": {
+    "wikidataId": "Q243519",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q243519",
+    "label_es": "terciopelo",
+    "label_en": "velvet"
+  },
+  "300133732": {
+    "wikidataId": "Q4990682",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q4990682",
+    "label_es": "piedra preciosa",
+    "label_en": "precious stone"
+  },
+  "300133748": {
+    "wikidataId": "Q1096",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q1096",
+    "label_es": "estaño",
+    "label_en": "tin"
+  },
+  "300133751": {
+    "wikidataId": "Q11427",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q11427",
+    "label_es": "acero",
+    "label_en": "steel"
+  },
+  "300136730": {},
+  "300138699": {
+    "wikidataId": "Q170593",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q170593",
+    "label_es": "collage",
+    "label_en": "collaging"
+  },
+  "300157968": {
+    "wikidataId": "Q204867",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q204867",
+    "label_es": "zincografía",
+    "label_en": "zincography"
+  },
+  "300161986": {
+    "wikidataId": "Q3374341",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q3374341",
+    "label_es": "pintura",
+    "label_en": "painting"
+  },
+  "300162124": {
+    "wikidataId": "Q100272473",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q100272473",
+    "label_es": "refuerzo",
+    "label_en": "lining"
+  },
+  "300162391": {
+    "wikidataId": "Q5849500",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q5849500",
+    "label_es": "tela",
+    "label_en": "cloth"
+  },
+  "300162474": {
+    "wikidataId": "Q99888913",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q99888913",
+    "label_es": "papelón",
+    "label_en": "pasteboard"
+  },
+  "300163295": {
+    "wikidataId": "Q901382",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q901382",
+    "label_es": "damasco",
+    "label_en": "damask"
+  },
+  "300169524": {
+    "wikidataId": "Q1501203",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q1501203",
+    "label_es": "endurecimiento por deformación",
+    "label_en": "work hardening"
+  },
+  "300172505": {
+    "wikidataId": "Q979300",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q979300",
+    "label_en": "bentwood"
+  },
+  "300178684": {
+    "wikidataId": "Q174705",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q174705",
+    "label_es": "pintura al óleo",
+    "label_en": "oil painting"
+  },
+  "300178799": {
+    "wikidataId": "Q1024124",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q1024124",
+    "label_es": "acero corten",
+    "label_en": "weathering steel"
+  },
+  "300179099": {
+    "wikidataId": "Q17141444",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q17141444",
+    "label_es": "técnica mixta",
+    "label_en": "mixed technique"
+  },
+  "300180393": {
+    "wikidataId": "Q654",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q654",
+    "label_es": "neón",
+    "label_en": "neon"
+  },
+  "300181908": {
+    "wikidataId": "Q5025972",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q5025972",
+    "label_es": "vidrio camafeo",
+    "label_en": "cameo glass"
+  },
+  "300181922": {},
+  "300182578": {},
+  "300183634": {
+    "wikidataId": "Q489636",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q489636",
+    "label_es": "batista",
+    "label_en": "batiste"
+  },
+  "300183741": {
+    "wikidataId": "Q181362",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q181362",
+    "label_es": "crepé",
+    "label_en": "crêpe"
+  },
+  "300183781": {
+    "wikidataId": "Q5861",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q5861",
+    "label_es": "plástico reforzado con vidrio",
+    "label_en": "fiberglass"
+  },
+  "300184782": {
+    "wikidataId": "Q95975949",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q95975949",
+    "label_es": "alto relieve",
+    "label_en": "high relief"
+  },
+  "300190531": {
+    "wikidataId": "Q4287629",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q4287629",
+    "label_es": "calcografía",
+    "label_en": "copper engraving technique"
+  },
+  "300191879": {
+    "wikidataId": "Q143942",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q143942",
+    "label_es": "esmalte dental",
+    "label_en": "cooltooth enamel"
+  },
+  "300192990": {
+    "wikidataId": "Q333631",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q333631",
+    "label_es": "cachemira",
+    "label_en": "cashmere"
+  },
+  "300193289": {},
+  "300194685": {
+    "wikidataId": "Q649090",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q649090",
+    "label_es": "cuproníquel",
+    "label_en": "cupronickel"
+  },
+  "300198675": {
+    "wikidataId": "Q6497042",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q6497042",
+    "label_en": "Latten"
+  },
+  "300206581": {
+    "wikidataId": "Q1894248",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q1894248",
+    "label_es": "acuñación",
+    "label_en": "coining"
+  },
+  "300207352": {},
+  "300207378": {
+    "wikidataId": "Q6318384",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q6318384",
+    "label_en": "satin glass"
+  },
+  "300210944": {
+    "wikidataId": "Q1543091",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q1543091",
+    "label_es": "Vidrio opalino",
+    "label_en": "milk glass"
+  },
+  "300210969": {
+    "wikidataId": "Q5044103",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q5044103",
+    "label_es": "vidrio de carnaval",
+    "label_en": "Carnival glass"
+  },
+  "300220539": {
+    "wikidataId": "Q2353833",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q2353833",
+    "label_es": "arte de iluminación",
+    "label_en": "art of illumination"
+  },
+  "300221157": {
+    "wikidataId": "Q43533",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q43533",
+    "label_es": "cristal",
+    "label_en": "crystal"
+  },
+  "300221558": {
+    "wikidataId": "Q1718547",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q1718547",
+    "label_en": "bezel",
+    "label_es": "engastado cerrado"
+  },
+  "300227525": {
+    "wikidataId": "Q2507067",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q2507067",
+    "label_es": "piel de becerro",
+    "label_en": "calfskin"
+  },
+  "300227779": {
+    "wikidataId": "Q649022",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q649022",
+    "label_es": "brocado",
+    "label_en": "brocade"
+  },
+  "300227830": {
+    "wikidataId": "Q1353860",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q1353860",
+    "label_es": "fleco",
+    "label_en": "fringe"
+  },
+  "300227858": {
+    "wikidataId": "Q901586",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q901586",
+    "label_es": "lanilla",
+    "label_en": "nap"
+  },
+  "300227875": {
+    "wikidataId": "Q1057522",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q1057522",
+    "label_es": "Peluche",
+    "label_en": "plush"
+  },
+  "300227915": {
+    "wikidataId": "Q1152241",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q1152241",
+    "label_es": "casimir",
+    "label_en": "twill"
+  },
+  "300231203": {},
+  "300231784": {
+    "wikidataId": "Q472927",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q472927",
+    "label_es": "galón",
+    "label_en": "galloon"
+  },
+  "300231992": {
+    "wikidataId": "Q1123578",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q1123578",
+    "label_es": "tapicería",
+    "label_en": "upholstery"
+  },
+  "300232185": {
+    "wikidataId": "Q1194132",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q1194132",
+    "label_es": "borla",
+    "label_en": "tassel"
+  },
+  "300233399": {
+    "wikidataId": "Q3754949",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q3754949",
+    "label_es": "troquelado",
+    "label_en": "die cutting"
+  },
+  "300234006": {
+    "wikidataId": "Q1053956",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q1053956",
+    "label_es": "cuenta",
+    "label_en": "bead"
+  },
+  "300235507": {
+    "wikidataId": "Q45621",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q45621",
+    "label_es": "cerámica",
+    "label_en": "ceramic"
+  },
+  "300242297": {
+    "wikidataId": "Q12048097",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q12048097",
+    "label_en": "biscuit"
+  },
+  "300243430": {
+    "wikidataId": "Q11547758",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q11547758",
+    "label_es": "lana",
+    "label_en": "wool"
+  },
+  "300247602": {},
+  "300247929": {
+    "wikidataId": "Q3215756",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q3215756",
+    "label_es": "mecanografía",
+    "label_en": "typing"
+  },
+  "300247962": {
+    "wikidataId": "Q183127",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q183127",
+    "label_es": "policromía",
+    "label_en": "polychromy"
+  },
+  "300248263": {},
+  "300248891": {},
+  "300249330": {
+    "wikidataId": "Q540684",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q540684",
+    "label_es": "patchwork",
+    "label_en": "patchwork"
+  },
+  "300249434": {
+    "wikidataId": "Q909391",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q909391",
+    "label_es": "tafetán",
+    "label_en": "taffeta"
+  },
+  "300249446": {
+    "wikidataId": "Q1801748",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q1801748",
+    "label_es": "lama",
+    "label_en": "lamé"
+  },
+  "300249448": {
+    "wikidataId": "Q3064489",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q3064489",
+    "label_en": "faille"
+  },
+  "300249449": {
+    "wikidataId": "Q691189",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q691189",
+    "label_es": "chifón",
+    "label_en": "chiffon"
+  },
+  "300249978": {
+    "wikidataId": "Q686261",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q686261",
+    "label_es": "trefilado",
+    "label_en": "wire drawing"
+  },
+  "300250699": {},
+  "300252693": {},
+  "300252783": {
+    "wikidataId": "Q1792537",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q1792537",
+    "label_es": "cuero sintético",
+    "label_en": "artificial leather"
+  },
+  "300252788": {
+    "wikidataId": "Q1197545",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q1197545",
+    "label_es": "papel recubierto",
+    "label_en": "coated paper"
+  },
+  "300252927": {
+    "wikidataId": "Q2393642",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q2393642",
+    "label_es": "caligrafía",
+    "label_en": "handwriting"
+  },
+  "300253899": {
+    "wikidataId": "Q10859462",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q10859462",
+    "label_es": "calado",
+    "label_en": "ajour"
+  },
+  "300255987": {
+    "wikidataId": "Q1070958",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q1070958",
+    "label_en": "kidskin"
+  },
+  "300256021": {
+    "wikidataId": "Q3674992",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q3674992",
+    "label_es": "chine collé",
+    "label_en": "chine collé"
+  },
+  "300256611": {
+    "wikidataId": "Q646051",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q646051",
+    "label_es": "tul",
+    "label_en": "tulle"
+  },
+  "300261859": {},
+  "300262559": {
+    "wikidataId": "Q3342808",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q3342808",
+    "label_es": "coco",
+    "label_en": "coconut"
+  },
+  "300263583": {
+    "wikidataId": "Q131877",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q131877",
+    "label_es": "caucho natural",
+    "label_en": "natural rubber"
+  },
+  "300264025": {
+    "wikidataId": "Q3555980",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q3555980",
+    "label_en": "vernis Martin"
+  },
+  "300264035": {
+    "wikidataId": "Q55638424",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q55638424",
+    "label_es": "puntilla macramé",
+    "label_en": "macramé"
+  },
+  "300264085": {
+    "wikidataId": "Q1412659",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q1412659",
+    "label_es": "encaje de filet",
+    "label_en": "filet lace"
+  },
+  "300264383": {
+    "wikidataId": "Q11634",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q11634",
+    "label_es": "escultura",
+    "label_en": "art of sculpture"
+  },
+  "300264408": {
+    "wikidataId": "Q174279",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q174279",
+    "label_es": "lanyard",
+    "label_en": "lanyard"
+  },
+  "300264610": {
+    "wikidataId": "Q64780503",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q64780503",
+    "label_es": "gros point",
+    "label_en": "gros point de Venise"
+  },
+  "300264614": {
+    "wikidataId": "Q5562784",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q5562784",
+    "label_en": "gimp"
+  },
+  "300264619": {
+    "wikidataId": "Q2718962",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q2718962",
+    "label_es": "encaje de Chantilly",
+    "label_en": "Chantilly lace"
+  },
+  "300264644": {},
+  "300264831": {
+    "wikidataId": "Q929186",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q929186",
+    "label_es": "pan de oro",
+    "label_en": "gold leaf"
+  },
+  "300265238": {
+    "wikidataId": "Q4699945",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q4699945",
+    "label_en": "ajoure"
+  },
+  "300310123": {
+    "wikidataId": "Q1683724",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q1683724",
+    "label_es": "Organza",
+    "label_en": "organza"
+  },
+  "300310128": {
+    "wikidataId": "Q2029789",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q2029789",
+    "label_es": "organdí",
+    "label_en": "organdy"
+  },
+  "300311202": {
+    "wikidataId": "Q1505624",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q1505624",
+    "label_es": "lacre",
+    "label_en": "sealing wax"
+  },
+  "300311390": {
+    "wikidataId": "Q407485",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q407485",
+    "label_es": "crisocola",
+    "label_en": "chrysocolla"
+  },
+  "300379384": {
+    "wikidataId": "Q3510770",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q3510770",
+    "label_es": "hilo de metal",
+    "label_en": "metallic thread"
+  },
+  "300379783": {
+    "wikidataId": "Q332748",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q332748",
+    "label_es": "traquita",
+    "label_en": "trachyte"
+  },
+  "300379931": {
+    "wikidataId": "Q193565",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q193565",
+    "label_es": "limonita",
+    "label_en": "limonite"
+  },
+  "300380039": {
+    "wikidataId": "Q55111004",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q55111004",
+    "label_es": "encerado",
+    "label_en": "waxing"
+  },
+  "300380231": {
+    "wikidataId": "Q2556927",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q2556927",
+    "label_es": "hojalata",
+    "label_en": "tinplate"
+  },
+  "300395639": {
+    "wikidataId": "Q29586589",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q29586589",
+    "label_es": "hilo de plata",
+    "label_en": "silver thread"
+  },
+  "300395687": {
+    "wikidataId": "Q834007",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q834007",
+    "label_es": "astas",
+    "label_en": "antlers"
+  },
+  "300400561": {
+    "wikidataId": "Q29586582",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q29586582",
+    "label_es": "hilo de oro",
+    "label_en": "gold thread"
+  },
+  "300400593": {
+    "wikidataId": "Q1752512",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q1752512",
+    "label_es": "moiré",
+    "label_en": "moire"
+  },
+  "300403912": {
+    "wikidataId": "Q577237",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q577237",
+    "label_es": "gabardina",
+    "label_en": "gabardine"
+  },
+  "300404586": {},
+  "300404632": {},
+  "300404849": {
+    "wikidataId": "Q107267800",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q107267800",
+    "label_en": "ebonized wood"
+  },
+  "300410335": {},
+  "300417853": {},
+  "300417855": {},
+  "300417883": {
+    "wikidataId": "Q368533",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q368533",
+    "label_es": "georgette",
+    "label_en": "georgette"
+  },
+  "300417939": {},
+  "300418048": {},
+  "300443550": {}
+}
