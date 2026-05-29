@@ -16,7 +16,7 @@ the public site so the data is usable by *programs*, not just a mouse.
 
 | | What | Hosting |
 |---|---|---|
-| **Static dataset** | Nightly crawl → versioned JSON (`data/`) on GitHub Pages. The real unlock: bulk open data SURDOC doesn't offer. Download once, query offline. | GitHub Actions + Pages (free) |
+| **Static dataset** | Nightly crawl → versioned JSON (`data/`) on GitHub Pages. The real unlock: bulk open data SURDOC doesn't offer. Download once, query offline. | https://claudiorrrr.github.io/surdoc-api/ |
 | **Live API** | Hono server that scrapes on demand (throttled + cached). Real-time, full query power. | Bun locally · Cloudflare Workers · Deno Deploy |
 
 ## Live API
@@ -47,6 +47,17 @@ Each record includes Getty **AAT thesaurus** links (`aatespanol.cl`) per
 technique/material — ready for linked-data joins with Wikidata/Getty.
 
 ## Static dataset
+
+The full dataset is published at **https://claudiorrrr.github.io/surdoc-api/** and updated daily by GitHub Actions.
+
+```sh
+# Download individual files directly:
+curl https://claudiorrrr.github.io/surdoc-api/meta.json
+curl https://claudiorrrr.github.io/surdoc-api/index.json
+curl https://claudiorrrr.github.io/surdoc-api/records/4.ndjson   # Museo Histórico Nacional
+```
+
+To rebuild locally:
 
 ```sh
 bun run build:dataset                # facets + first MAX_PAGES of the index
