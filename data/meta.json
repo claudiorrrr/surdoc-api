@@ -1,10 +1,10 @@
 {
   "source": "https://www.surdoc.cl",
-  "generatedAt": "2026-05-28T23:09:04.073Z",
+  "generatedAt": "2026-05-29T00:17:43.425Z",
   "total": 77921,
-  "indexed": 42,
-  "coverage": 0.1,
-  "detailFetched": 42,
+  "indexed": 77922,
+  "coverage": 100,
+  "detailFetched": 0,
   "notPublic": 0,
   "institutions": 45
 }
