@@ -11,10 +11,41 @@
 //   GET /institutions          museum list + object counts
 //   GET /random?institution=   a random public object (no brute force)
 
+import { existsSync, readFileSync } from "node:fs";
 import { Hono } from "hono";
 import { Surdoc } from "./scraper.ts";
 import { Fetcher } from "./client.ts";
-import { NotPublicError } from "./types.ts";
+import { NotPublicError, type SurdocRecord } from "./types.ts";
+
+// ── AAT enrichment (only available when data/aat.json is present) ─────────────
+
+interface AatEntry {
+  id: string;
+  url: string;
+  wikidataId?: string;
+  wikidataUrl?: string;
+  label_es?: string;
+  label_en?: string;
+}
+
+const aatPath = new URL("../../data/aat.json", import.meta.url).pathname;
+const aatLookup: Record<string, Omit<AatEntry, "id" | "url">> = existsSync(aatPath)
+  ? JSON.parse(readFileSync(aatPath, "utf8"))
+  : {};
+
+function enrichRecord(rec: SurdocRecord): unknown {
+  if (!rec.techniqueMaterial?.length) return rec;
+  return {
+    ...rec,
+    techniqueMaterial: rec.techniqueMaterial.map((tm) => ({
+      ...tm,
+      aat: tm.aat.map((url): AatEntry => {
+        const id = url.match(/(\d+)$/)?.[1] ?? "";
+        return { id, url, ...aatLookup[id] };
+      }),
+    })),
+  };
+}
 
 const sd = new Surdoc(new Fetcher({ minIntervalMs: 600 }));
 const app = new Hono();
@@ -30,13 +61,16 @@ app.get("/", (c) =>
       "/facets?q=": "Facet groups (institution, material, technique, ...)",
       "/institutions": "Museum list with object counts",
       "/random?institution=": "A random public object",
+      "/aat": "Getty AAT → Wikidata enrichment lookup table",
     },
   }),
 );
 
+app.get("/aat", (c) => c.json(aatLookup));
+
 app.get("/record/:id", async (c) => {
   try {
-    return c.json(await sd.record(c.req.param("id")));
+    return c.json(enrichRecord(await sd.record(c.req.param("id"))));
   } catch (e) {
     if (e instanceof NotPublicError) return c.json({ error: "not_public" }, 403);
     if ((e as { status?: number }).status === 404)
@@ -94,7 +128,7 @@ app.get("/random", async (c) => {
     const pageRes = seed === 0 ? first : await sd.search({ filters, page: seed });
     const rows = pageRes.results.length ? pageRes.results : first.results;
     const pick = rows[Math.floor(performance.now()) % rows.length];
-    return c.json(await sd.record(pick.recordNumber));
+    return c.json(enrichRecord(await sd.record(pick.recordNumber)));
   } catch (e) {
     if (e instanceof NotPublicError) return c.json({ error: "not_public, retry" }, 409);
     return c.json({ error: String(e) }, 502);

@@ -1,41 +1,42 @@
 # surdoc-api
 
-Unofficial, open-source REST API + static dataset for **[SURDOC](https://www.surdoc.cl)** —
-Chile's national museum-collections database (*Sistema Unificado de Registros de
-Documentación*, run by the Servicio Nacional del Patrimonio Cultural).
+API REST no oficial + dataset estático para **[SURDOC](https://www.surdoc.cl)** —
+la base de datos nacional de colecciones museales de Chile (*Sistema Unificado de Registros de
+Documentación*, operado por el Servicio Nacional del Patrimonio Cultural).
 
-SURDOC catalogs **~78,000 objects**, **~198,000 images**, **298 collections** across
-**44 museums** — but exposes **no API, no JSON, no bulk export**. This project wraps
-the public site so the data is usable by *programs*, not just a mouse.
+SURDOC cataloga **~78.000 objetos**, **~198.000 imágenes**, **298 colecciones** en
+**44 museos** — pero no expone ninguna API, JSON ni exportación masiva. Este proyecto
+envuelve el sitio público para que los datos sean usables por *programas*, no solo por un mouse.
 
-> Not affiliated with SURDOC or the Servicio Nacional del Patrimonio Cultural.
-> Reads only public pages, respects `robots.txt`, and self-throttles. Data ©
-> the respective museums.
+> Sin afiliación con SURDOC ni el Servicio Nacional del Patrimonio Cultural.
+> Solo lee páginas públicas, respeta `robots.txt` y se auto-limita. Datos ©
+> los museos respectivos.
 
-## Two ways to use it
+## Dos formas de usarlo
 
-| | What | Hosting |
+| | Qué | Dónde |
 |---|---|---|
-| **Static dataset** | Nightly crawl → versioned JSON (`data/`) on GitHub Pages. The real unlock: bulk open data SURDOC doesn't offer. Download once, query offline. | https://claudiorrrr.github.io/surdoc-api/ |
-| **Live API** | Hono server that scrapes on demand (throttled + cached). Real-time, full query power. | Bun locally · Cloudflare Workers · Deno Deploy |
+| **Dataset estático** | Crawl nocturno → JSON versionado (`data/`) en GitHub Pages. El verdadero valor: datos masivos que SURDOC no ofrece. Descarga una vez, consulta offline. | https://claudiorrrr.github.io/surdoc-api/ |
+| **API en vivo** | Servidor Hono que hace scraping bajo demanda (throttled + caché). Tiempo real, todo el poder de consulta. | Bun local · Cloudflare Workers · Deno Deploy |
 
-## Live API
+## API en vivo
 
 ```sh
 bun install
 bun run dev          # http://localhost:3000
 ```
 
-| Endpoint | Description |
+| Endpoint | Descripción |
 |---|---|
-| `GET /record/:id` | One object as JSON, e.g. `/record/61-270`. `403` if behind login wall, `404` if missing. |
-| `GET /search?q=&page=` | Full-text search + pagination. |
-| `GET /search?institution=4&material=…` | Facet filters (any facet group as a query key). |
-| `GET /facets?q=` | All facet groups (institution, material, technique, culture, …) with counts. |
-| `GET /institutions` | Museum list + object counts (from the institution facet). |
-| `GET /random?institution=4` | A random public object. |
+| `GET /record/:id` | Un objeto como JSON, ej. `/record/61-270`. `403` si requiere login, `404` si no existe. |
+| `GET /search?q=&page=` | Búsqueda de texto completo + paginación. |
+| `GET /search?institution=4&material=…` | Filtros por faceta (cualquier grupo de facetas como parámetro). |
+| `GET /facets?q=` | Todos los grupos de facetas (institución, material, técnica, cultura, …) con conteos. |
+| `GET /institutions` | Lista de museos + conteos de objetos. |
+| `GET /random?institution=4` | Un objeto aleatorio público. |
+| `GET /aat` | Tabla de enriquecimiento Getty AAT → Wikidata. |
 
-Example:
+Ejemplo:
 
 ```sh
 curl localhost:3000/record/61-270
@@ -43,72 +44,74 @@ curl "localhost:3000/search?q=diaguita"
 curl "localhost:3000/search?institution=4&page=2"
 ```
 
-Each record includes Getty **AAT thesaurus** links (`aatespanol.cl`) per
-technique/material — ready for linked-data joins with Wikidata/Getty.
+Cada registro incluye links al tesauro **Getty AAT** (`aatespanol.cl`) por técnica/material,
+enriquecidos con etiquetas en español/inglés e IDs de Wikidata para joins de datos enlazados.
 
-## Static dataset
+## Dataset estático
 
-The full dataset is published at **https://claudiorrrr.github.io/surdoc-api/** and updated daily by GitHub Actions.
+El dataset completo está publicado en **https://claudiorrrr.github.io/surdoc-api/** y se actualiza diariamente con GitHub Actions.
 
 ```sh
-# Download individual files directly:
+# Descargar archivos directamente:
 curl https://claudiorrrr.github.io/surdoc-api/meta.json
 curl https://claudiorrrr.github.io/surdoc-api/index.json
 curl https://claudiorrrr.github.io/surdoc-api/records/4.ndjson   # Museo Histórico Nacional
+curl https://claudiorrrr.github.io/surdoc-api/aat.json            # lookup AAT → Wikidata
 ```
 
-To rebuild locally:
+Para reconstruir localmente:
 
 ```sh
-bun run build:dataset                # facets + first MAX_PAGES of the index
-MAX_PAGES=0 bun run build:dataset     # full index (~3700 pages, slow)
-DETAIL=1   bun run build:dataset      # also fetch full record detail
+bun run build:dataset                # facetas + primeras MAX_PAGES del índice
+MAX_PAGES=0 bun run build:dataset     # índice completo (~3700 páginas, lento)
+DETAIL=1   bun run build:dataset      # también obtiene el detalle completo de cada registro
 ```
 
-Outputs under `data/`:
+Archivos en `data/`:
 
-| File | Contents |
+| Archivo | Contenido |
 |---|---|
-| `meta.json` | total count, `generatedAt`, coverage % |
-| `facets.json` | every facet group + counts |
-| `institutions.json` | museum list + counts |
+| `meta.json` | total de registros, `generatedAt`, % de cobertura |
+| `facets.json` | todos los grupos de facetas + conteos |
+| `institutions.json` | lista de museos + conteos |
 | `index.json` | `{recordNumber, title, institution, category, thumbnail, url}[]` |
-| `records/<institutionId>.ndjson` | full detail, one record per line, sharded per museum (only with `DETAIL=1`) |
+| `records/<institutionId>.ndjson` | detalle completo, un registro por línea, sharded por museo |
+| `aat.json` | `{[aatId]: {label_es, label_en, wikidataId, wikidataUrl}}` |
 
-The GitHub Action (`.github/workflows/dataset.yml`) runs daily, crawls a slice,
-**accumulates** the committed index across runs (so it converges to full
-coverage in a few days without hitting the 6h job cap), and publishes `data/`
-to GitHub Pages. Trigger manually via *Actions → Build SURDOC dataset → Run*.
+El GitHub Action (`.github/workflows/dataset.yml`) corre diariamente, crawlea un slice,
+**acumula** el índice comprometido entre ejecuciones, y publica `data/` en GitHub Pages.
+Trigger manual: *Actions → Build SURDOC dataset → Run workflow*.
 
-## What you can build with it
+## Qué puedes construir
 
-1. Search 78k museum objects by keyword, as JSON.
-2. Fetch any object's full metadata + image URLs.
-3. Filter by museum / classification / creator / material / technique / culture.
-4. List all museums & collections with counts.
-5. Download the whole catalog as one versioned dataset.
-6. Pull image sets for galleries, ML, or a "random artifact" widget.
-7. Linked-data enrichment via Getty AAT → Wikidata knowledge graphs.
-8. Open-data dashboards: counts by material, era, museum.
-9. "Object of the day" bots (Mastodon / Bluesky / RSS).
-10. An embeddable search widget or an MCP server for LLM citation.
+1. Buscar 78k objetos museales por palabra clave, como JSON.
+2. Obtener el metadata completo + URLs de imágenes de cualquier objeto.
+3. Filtrar por museo / clasificación / creador / material / técnica / cultura.
+4. Listar todos los museos y colecciones con conteos.
+5. Descargar el catálogo completo como dataset versionado.
+6. Obtener sets de imágenes para galerías, ML, o un widget de "artefacto aleatorio".
+7. Enriquecimiento de datos enlazados vía Getty AAT → grafos de conocimiento de Wikidata.
+8. Dashboards de datos abiertos: conteos por material, era, museo.
+9. Bots de "objeto del día" (Mastodon / Bluesky / RSS).
+10. Un widget de búsqueda embebible o un servidor MCP para citación en LLMs.
 
-## How it works
+## Cómo funciona
 
-- `src/client.ts` — throttled, cached, retrying fetcher (polite: ~1 req/s, custom UA).
-- `src/scraper.ts` — Cheerio parsers for record / listing / facet pages.
-  Selectors verified against the live **Drupal 10** site (May 2026).
-- `src/server.ts` — Hono REST app (runtime-agnostic).
-- `scripts/build-dataset.ts` — incremental static-export builder.
-- `museums-id.seed.json` — museum → SURDOC id seed (fallback for the facet enumeration).
+- `src/client.ts` — fetcher throttled, con caché y reintentos (educado: ~1 req/s, UA personalizado).
+- `src/scraper.ts` — parsers Cheerio para páginas de registro / listado / facetas.
+  Selectores verificados contra el sitio **Drupal 10** en vivo (mayo 2026).
+- `src/server.ts` — app REST Hono (agnóstica al runtime), con enriquecimiento AAT en `/record/:id`.
+- `scripts/build-dataset.ts` — constructor incremental de exportación estática.
+- `scripts/enrich-aat.ts` — consulta Wikidata SPARQL para todos los IDs AAT del dataset.
+- `museums-id.seed.json` — seed museo → id SURDOC (fallback para la enumeración de facetas).
 
-### Notes / limits
+### Notas / limitaciones
 
-- Some records may be behind a login wall (`Iniciar sesión`) → reported as `not_public`. In practice the full crawl found all records publicly accessible (May 2026).
-- SURDOC serves **21** results per page.
-- Scraping is brittle by nature: if the site's markup changes, update the
-  selectors in `src/scraper.ts` (centralized there on purpose).
+- Algunos registros pueden estar detrás de un muro de login (`Iniciar sesión`) → reportados como `not_public`. En la práctica el crawl completo encontró todos los registros accesibles públicamente (mayo 2026).
+- SURDOC sirve **21** resultados por página.
+- El scraping es frágil por naturaleza: si el markup del sitio cambia, actualizar los
+  selectores en `src/scraper.ts` (centralizados ahí a propósito).
 
-## License
+## Licencia
 
-MIT. Code only — the catalog data belongs to SURDOC and the participating museums.
+MIT. Solo el código — los datos del catálogo pertenecen a SURDOC y los museos participantes.
