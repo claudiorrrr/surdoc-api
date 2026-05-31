@@ -18,6 +18,10 @@ export interface SurdocRecord {
   category?: ObjectCategory;
   /** Collection the object belongs to, e.g. "Herramientas y Equipos". */
   collection?: string;
+  /** Archaeological culture, e.g. "Complejo Huentelauquén". */
+  culturaArqueologica?: string;
+  /** Time period, e.g. "Período Arcaico". */
+  temporalidad?: string;
   /** Free-text dimensions, e.g. "Alto 7.2 cm - Ancho 68.3 cm - Profundidad 45.2 cm". */
   dimensions?: string;
   /** Technique/material pairs, each with optional Getty AAT thesaurus links. */

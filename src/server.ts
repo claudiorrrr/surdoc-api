@@ -10,11 +10,13 @@
 //   GET /facets?q=&...         all facet groups for a query
 //   GET /institutions          museum list + object counts
 //   GET /random?institution=   a random public object (no brute force)
+//   GET /similar/:id?limit=    similar objects scored by shared terms
+//   GET /aat                   Getty AAT → Wikidata lookup table
 
 import { Hono } from "hono";
 import { Surdoc } from "./scraper.ts";
 import { Fetcher } from "./client.ts";
-import { NotPublicError, type SurdocRecord } from "./types.ts";
+import { NotPublicError, type SearchResult, type SurdocRecord } from "./types.ts";
 import aatData from "../data/aat.json";
 
 // ── AAT enrichment ────────────────────────────────────────────────────────────
@@ -58,6 +60,7 @@ app.get("/", (c) =>
       "/facets?q=": "Facet groups (institution, material, technique, ...)",
       "/institutions": "Museum list with object counts",
       "/random?institution=": "A random public object",
+      "/similar/:id?limit=": "Records similar to a given object (scored by shared terms)",
       "/aat": "Getty AAT → Wikidata enrichment lookup table",
     },
   }),
@@ -117,8 +120,6 @@ app.get("/random", async (c) => {
   try {
     const institution = c.req.query("institution");
     const filters = institution ? { institution } : undefined;
-    // Use the reported total to pick a random page, then a random row.
-    // Deterministic per request without Math.random by mixing the clock.
     const first = await sd.search({ filters, page: 0 });
     if (!first.totalPages) return c.json({ error: "no_results" }, 404);
     const seed = Math.floor(performance.now()) % first.totalPages;
@@ -128,6 +129,61 @@ app.get("/random", async (c) => {
     return c.json(enrichRecord(await sd.record(pick.recordNumber)));
   } catch (e) {
     if (e instanceof NotPublicError) return c.json({ error: "not_public, retry" }, 409);
+    return c.json({ error: String(e) }, 502);
+  }
+});
+
+app.get("/similar/:id", async (c) => {
+  const limit = Math.min(Number(c.req.query("limit") ?? "10"), 50);
+  try {
+    const rec = await sd.record(c.req.param("id"));
+
+    // Build search terms: prefer AAT Spanish labels, fall back to raw text, then classification.
+    const terms: string[] = [];
+    const seen = new Set<string>();
+    const push = (t: string) => { const k = t.toLowerCase(); if (!seen.has(k)) { seen.add(k); terms.push(t); } };
+
+    for (const tm of rec.techniqueMaterial ?? []) {
+      for (const url of tm.aat) {
+        const id = url.match(/(\d+)$/)?.[1] ?? "";
+        const entry = aatLookup[id];
+        if (entry?.label_es) push(entry.label_es);
+        else if (entry?.label_en) push(entry.label_en);
+      }
+      if (tm.technique) push(tm.technique);
+      if (tm.material) push(tm.material);
+    }
+    if (!terms.length && rec.classification) {
+      rec.classification.split(/\s*[-–]\s*/).filter(Boolean).forEach((t) => push(t.trim()));
+    }
+    if (!terms.length && rec.title) {
+      push(rec.title.split(/\s+/).slice(0, 3).join(" "));
+    }
+
+    const queries = terms.slice(0, 5);
+    const scores = new Map<string, { score: number; result: SearchResult }>();
+
+    for (const q of queries) {
+      const res = await sd.search({ q });
+      for (const r of res.results) {
+        if (r.recordNumber === rec.recordNumber) continue;
+        const hit = scores.get(r.recordNumber);
+        if (hit) hit.score++;
+        else scores.set(r.recordNumber, { score: 1, result: r });
+      }
+    }
+
+    return c.json({
+      sourceId: rec.recordNumber,
+      queryTerms: queries,
+      results: [...scores.values()]
+        .sort((a, b) => b.score - a.score)
+        .slice(0, limit)
+        .map(({ score, result }) => ({ ...result, similarityScore: score })),
+    });
+  } catch (e) {
+    if (e instanceof NotPublicError) return c.json({ error: "not_public" }, 403);
+    if ((e as { status?: number }).status === 404) return c.json({ error: "not_found" }, 404);
     return c.json({ error: String(e) }, 502);
   }
 });

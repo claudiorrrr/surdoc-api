@@ -2,3 +2,4 @@ name = "surdoc-api"
 main = "src/server.ts"
 compatibility_date = "2024-11-01"
 compatibility_flags = ["nodejs_compat"]
+account_id = "074a9d76604fd100ff7f794b54b21ff5"

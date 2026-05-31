@@ -112,6 +112,8 @@ export function parseRecord(html: string, recordNumber: string): SurdocRecord {
     classification,
     category,
     collection: field($, "collection"),
+    culturaArqueologica: $("td.record--creator-factory-culture").first().text().trim() || undefined,
+    temporalidad: $("td.record--creation-date-temporality").first().text().trim() || undefined,
     dimensions: objText("dimensiones"),
     techniqueMaterial: techniqueMaterial.length ? techniqueMaterial : undefined,
     description: field($, "physical-description"),
