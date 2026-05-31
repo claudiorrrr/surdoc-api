@@ -8,6 +8,7 @@ import type { CheerioAPI } from "cheerio";
 import { BASE_URL, Fetcher } from "./client.ts";
 import {
   NotPublicError,
+  type Creator,
   type Facets,
   type FacetValue,
   type ObjectCategory,
@@ -97,6 +98,25 @@ export function parseRecord(html: string, recordNumber: string): SurdocRecord {
       techniqueMaterial.push({ technique, material, aat });
     });
 
+  // Creator rows: each `.creator-name-item` holds name link + role link.
+  const creators: Creator[] = [];
+  objRow("creador")
+    ?.find(".creator-name-item")
+    .each((_, el) => {
+      const $el = $(el);
+      const links = $el.find("a");
+      const nameLink = links.eq(0);
+      const roleLink = links.eq(1);
+      const artistHref = nameLink.attr("href");
+      const roleHref = roleLink.attr("href");
+      creators.push({
+        name: nameLink.text().trim() || undefined,
+        role: roleLink.text().trim() || undefined,
+        artistUrl: artistHref || undefined,
+        aat: roleHref?.includes("aatespanol") ? roleHref : undefined,
+      });
+    });
+
   const images = $("article.record .slick__slide a, .field--name-visuals a, a.photoswipe")
     .map((_, a) => $(a).attr("href") ?? "")
     .get()
@@ -108,6 +128,8 @@ export function parseRecord(html: string, recordNumber: string): SurdocRecord {
     inventoryNumbers: field($, "inventory-numbers"),
     title: objText("objeto") ?? ($("h1.h1").first().text().trim() || undefined),
     alternativeName: objText("nombre alternativo"),
+    titles: field($, "titles"),
+    creators: creators.length ? creators : undefined,
     institution: field($, "institution-id"),
     classification,
     category,
@@ -118,11 +140,17 @@ export function parseRecord(html: string, recordNumber: string): SurdocRecord {
     techniqueMaterial: techniqueMaterial.length ? techniqueMaterial : undefined,
     description: field($, "physical-description"),
     conservationState: field($, "conservation-state"),
+    iconography: field($, "topic-iconographic-content"),
+    geographicArea: field($, "hist-geo-geographic-area"),
+    creationDate: field($, "hist-geo-creation-date"),
     location: objText("ubicación"),
     transcription: objText("transcripción"),
     ownershipHistory: field($, "hist-geo-ownership-use-history"),
     objectHistory: field($, "hist-geo-history"),
     ingressMode: field($, "ingress-mode"),
+    ingressDate: field($, "ingress-date"),
+    provenance: field($, "provenance"),
+    registrars: field($, "registrars"),
     images: dedupe(images),
     url: `${BASE_URL}/registro/${recordNumber}`,
   };

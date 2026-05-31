@@ -6,10 +6,14 @@ export interface SurdocRecord {
   recordNumber: string;
   /** Internal inventory number(s) assigned by the museum, e.g. "17-278". */
   inventoryNumbers?: string;
-  /** Primary object name / title, e.g. "Plataforma (general)". */
+  /** Primary object name / title (object type), e.g. "Pintura (obra visual)". */
   title?: string;
   /** Alternative name, e.g. "Pisapiés". */
   alternativeName?: string;
+  /** Formal title(s) of the work, e.g. "El Ángelus, El Ángeluz". */
+  titles?: string;
+  /** Creator(s) with optional role and linked-data references. */
+  creators?: Creator[];
   /** Owning institution name, e.g. "Museo Marítimo Nacional". */
   institution?: string;
   /** Top-level + second-level classification, e.g. "Historia - Utensilios...". */
@@ -30,6 +34,12 @@ export interface SurdocRecord {
   description?: string;
   /** Conservation state, e.g. "Bueno". */
   conservationState?: string;
+  /** Iconographic content description. */
+  iconography?: string;
+  /** Geographic area of origin or relevance, e.g. "Chile". */
+  geographicArea?: string;
+  /** Creation date or date range, e.g. "1990". */
+  creationDate?: string;
   /** Current location, e.g. "En depósito". */
   location?: string;
   /** Transcribed inscriptions. */
@@ -38,12 +48,27 @@ export interface SurdocRecord {
   ownershipHistory?: string;
   /** History of the object itself. */
   objectHistory?: string;
-  /** How the museum acquired it, e.g. "Traspaso interno". */
+  /** How the museum acquired it, e.g. "Donación". */
   ingressMode?: string;
+  /** Ingress/acquisition date, e.g. "2005-05-17". */
+  ingressDate?: string;
+  /** Provenance (prior owner or origin), e.g. "Alberto Pérez Pfeifer". */
+  provenance?: string;
+  /** Registrar entries (name + date), e.g. "Marta Mitjans, 2014-09-03". */
+  registrars?: string;
   /** Full-resolution image URLs (absolute). */
   images: string[];
   /** Canonical SURDOC page URL. */
   url: string;
+}
+
+export interface Creator {
+  name?: string;
+  role?: string;
+  /** URL to artist profile (e.g. artistasvisualeschilenos.cl). */
+  artistUrl?: string;
+  /** Getty AAT link for the role term. */
+  aat?: string;
 }
 
 export interface TechniqueMaterial {
