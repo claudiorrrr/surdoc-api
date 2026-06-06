@@ -12,7 +12,7 @@ export interface FetcherOptions {
   /** Cache TTL in ms. Default 15 min. 0 disables caching. */
   cacheTtlMs?: number;
   userAgent?: string;
-  /** Retries on network error / 5xx. Default 2. */
+  /** Retries on network error / 5xx. Default 4. */
   retries?: number;
 }
 
@@ -34,7 +34,7 @@ export class Fetcher {
     this.minInterval = opts.minIntervalMs ?? 800;
     this.cacheTtl = opts.cacheTtlMs ?? 15 * 60 * 1000;
     this.ua = opts.userAgent ?? DEFAULT_UA;
-    this.retries = opts.retries ?? 2;
+    this.retries = opts.retries ?? 4;
   }
 
   /** Fetch a path or absolute URL as HTML, throttled and cached. */
@@ -90,7 +90,7 @@ export class Fetcher {
         // Don't retry definite 4xx (has status set, < 500).
         const status = (e as { status?: number }).status;
         if (status && status < 500) throw e;
-        if (attempt < this.retries) await sleep(500 * (attempt + 1));
+        if (attempt < this.retries) await sleep(1000 * Math.pow(2, attempt));
       }
     }
     throw lastErr;

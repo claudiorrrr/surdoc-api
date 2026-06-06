@@ -69,11 +69,22 @@ async function main() {
   await mkdir(DATA + "records", { recursive: true });
 
   console.log("→ facets + institutions");
-  const facets = await sd.facets();
+  // Bootstrap (facets + page 0) gates the whole crawl. If surdoc.cl is
+  // transiently down here, don't fail the job red — leave the committed
+  // dataset in place and exit 0 so the next scheduled run resumes. The
+  // crawl is incremental, so a skipped day costs nothing.
+  let facets: Awaited<ReturnType<typeof sd.facets>>;
+  let first: Awaited<ReturnType<typeof sd.search>>;
+  try {
+    facets = await sd.facets();
+    first = await sd.search({ page: 0 });
+  } catch (e) {
+    console.warn(`→ bootstrap failed (${e}); keeping committed dataset, exiting 0`);
+    return;
+  }
   await writeJson("facets.json", facets);
   await writeJson("institutions.json", facets.institution ?? []);
 
-  const first = await sd.search({ page: 0 });
   const total = first.total;
   const lastPage = MAX_PAGES > 0 ? Math.min(MAX_PAGES, first.totalPages) : first.totalPages;
   console.log(`→ total=${total} pages=${first.totalPages} crawling=${lastPage}`);
@@ -83,12 +94,18 @@ async function main() {
   for (const r of await loadIndex()) byId.set(r.recordNumber, r);
   for (const r of first.results) byId.set(r.recordNumber, r);
 
+  let skippedPages = 0;
   for (let page = 1; page < lastPage && !SKIP_INDEX; page++) {
-    const res = await sd.search({ page });
-    for (const r of res.results) byId.set(r.recordNumber, r);
+    try {
+      const res = await sd.search({ page });
+      for (const r of res.results) byId.set(r.recordNumber, r);
+    } catch (e) {
+      skippedPages++;
+      console.warn(`  page ${page}: ${e}`);
+    }
     if (page % 25 === 0) {
       await writeJson("index.json", [...byId.values()]);
-      console.log(`  page ${page}/${lastPage} — ${byId.size} records`);
+      console.log(`  page ${page}/${lastPage} — ${byId.size} records${skippedPages ? ` (${skippedPages} skipped)` : ""}`);
     }
   }
   if (SKIP_INDEX) console.log(`→ SKIP_INDEX: reusing ${byId.size} indexed records`);
