@@ -3,17 +3,17 @@
     {
       "id": "4",
       "label": "Museo Histórico Nacional",
-      "count": 25323
+      "count": 25325
     },
     {
       "id": "3",
       "label": "Museo Nacional de Bellas Artes",
-      "count": 6077
+      "count": 6078
     },
     {
       "id": "9",
       "label": "Museo Arqueológico de La Serena",
-      "count": 4257
+      "count": 4260
     },
     {
       "id": "5",
@@ -28,7 +28,7 @@
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 3067
+      "count": 3093
     },
     {
       "id": "11",
@@ -73,7 +73,7 @@
     {
       "id": "8",
       "label": "Museo O'Higginiano y de Bellas Artes de Talca",
-      "count": 1621
+      "count": 1613
     },
     {
       "id": "17",
@@ -118,7 +118,7 @@
     {
       "id": "105",
       "label": "Museo Andino",
-      "count": 577
+      "count": 583
     },
     {
       "id": "15",
@@ -230,17 +230,17 @@
     {
       "id": "551",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 20713
+      "count": 20721
     },
     {
       "id": "555",
       "label": "Artes Visuales",
-      "count": 13873
+      "count": 13866
     },
     {
       "id": "567",
       "label": "Libros y Documentos",
-      "count": 8121
+      "count": 8149
     },
     {
       "id": "560",
@@ -270,7 +270,7 @@
     {
       "id": "552",
       "label": "Textil, Vestuario y Adornos",
-      "count": 3113
+      "count": 3114
     },
     {
       "id": "563",
@@ -574,7 +574,7 @@
     {
       "id": "2169",
       "label": "Juan Francisco González",
-      "count": 105
+      "count": 104
     },
     {
       "id": "3022",
@@ -679,7 +679,7 @@
     {
       "id": "12826",
       "label": "Themo  Lobos",
-      "count": 99
+      "count": 101
     },
     {
       "id": "1960",
@@ -806,7 +806,7 @@
     {
       "id": "8338",
       "label": "Greda",
-      "count": 875
+      "count": 876
     },
     {
       "id": "8354",
@@ -856,7 +856,7 @@
     {
       "id": "8344",
       "label": "Madera",
-      "count": 6155
+      "count": 6153
     },
     {
       "id": "8353",
@@ -876,17 +876,17 @@
     {
       "id": "8339",
       "label": "Papel",
-      "count": 13843
+      "count": 13866
     },
     {
       "id": "8336",
       "label": "Piedra",
-      "count": 5301
+      "count": 5302
     },
     {
       "id": "8334",
       "label": "Pintura al óleo",
-      "count": 3094
+      "count": 3092
     },
     {
       "id": "8387",
@@ -926,7 +926,7 @@
     {
       "id": "8346",
       "label": "Tinta",
-      "count": 6752
+      "count": 6754
     },
     {
       "id": "8351",
@@ -968,7 +968,7 @@
     {
       "id": "12447",
       "label": "Alisado",
-      "count": 1092
+      "count": 1095
     },
     {
       "id": "12400",
@@ -1068,7 +1068,7 @@
     {
       "id": "12455",
       "label": "Encuadernación",
-      "count": 1529
+      "count": 1531
     },
     {
       "id": "12377",
@@ -1163,7 +1163,7 @@
     {
       "id": "12363",
       "label": "Impresión (técnica gráfica)",
-      "count": 4380
+      "count": 4383
     },
     {
       "id": "12385",
@@ -1208,7 +1208,7 @@
     {
       "id": "12338",
       "label": "Modelado de cerámica",
-      "count": 4288
+      "count": 4295
     },
     {
       "id": "12368",
@@ -1278,7 +1278,7 @@
     {
       "id": "12350",
       "label": "Pulido",
-      "count": 3081
+      "count": 3083
     },
     {
       "id": "12388",
@@ -1293,7 +1293,7 @@
     {
       "id": "12353",
       "label": "Serigrafía",
-      "count": 241
+      "count": 242
     },
     {
       "id": "12381",
@@ -1308,7 +1308,7 @@
     {
       "id": "12420",
       "label": "Tallado",
-      "count": 8365
+      "count": 8366
     },
     {
       "id": "12383",
@@ -1360,7 +1360,7 @@
     {
       "id": "14425",
       "label": "Arica",
-      "count": 78
+      "count": 80
     },
     {
       "id": "6378",
@@ -1425,17 +1425,17 @@
     {
       "id": "474",
       "label": "Cultura Arica: Fase Gentilar",
-      "count": 54
+      "count": 57
     },
     {
       "id": "504",
       "label": "Cultura Arica: Fase San Miguel",
-      "count": 164
+      "count": 165
     },
     {
       "id": "479",
       "label": "Cultura Diaguita",
-      "count": 2214
+      "count": 2215
     },
     {
       "id": "477",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 78088
+      "count": 78118
     },
     {
       "id": "stolen",
