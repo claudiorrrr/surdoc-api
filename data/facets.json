@@ -3,7 +3,7 @@
     {
       "id": "4",
       "label": "Museo Histórico Nacional",
-      "count": 25325
+      "count": 25343
     },
     {
       "id": "3",
@@ -23,12 +23,12 @@
     {
       "id": "23",
       "label": "Museo de Artes Decorativas",
-      "count": 3403
+      "count": 3415
     },
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 3093
+      "count": 3147
     },
     {
       "id": "11",
@@ -43,7 +43,7 @@
     {
       "id": "2",
       "label": "Museo Nacional de Historia Natural",
-      "count": 2421
+      "count": 2422
     },
     {
       "id": "26",
@@ -93,7 +93,7 @@
     {
       "id": "31",
       "label": "Museo Histórico Dominico",
-      "count": 1251
+      "count": 1252
     },
     {
       "id": "21",
@@ -118,7 +118,7 @@
     {
       "id": "105",
       "label": "Museo Andino",
-      "count": 583
+      "count": 587
     },
     {
       "id": "15",
@@ -230,7 +230,7 @@
     {
       "id": "551",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 20721
+      "count": 20726
     },
     {
       "id": "555",
@@ -240,12 +240,12 @@
     {
       "id": "567",
       "label": "Libros y Documentos",
-      "count": 8149
+      "count": 8212
     },
     {
       "id": "560",
       "label": "Numismática, Filatelia y Objetos conmemorativos",
-      "count": 6542
+      "count": 6550
     },
     {
       "id": "561",
@@ -260,12 +260,12 @@
     {
       "id": "556",
       "label": "Artes Decorativas",
-      "count": 4728
+      "count": 4740
     },
     {
       "id": "557",
       "label": "Artes Populares y Artesanía",
-      "count": 3730
+      "count": 3731
     },
     {
       "id": "552",
@@ -285,7 +285,7 @@
     {
       "id": "562",
       "label": "Culto y Liturgia",
-      "count": 1097
+      "count": 1098
     },
     {
       "id": "570",
@@ -392,7 +392,7 @@
     {
       "id": "6450",
       "label": "Fanaloza",
-      "count": 77
+      "count": 78
     },
     {
       "id": "6684",
@@ -721,7 +721,7 @@
     {
       "id": "8342",
       "label": "Arcilla",
-      "count": 1665
+      "count": 1666
     },
     {
       "id": "8416",
@@ -736,12 +736,12 @@
     {
       "id": "8343",
       "label": "Bronce",
-      "count": 1853
+      "count": 1854
     },
     {
       "id": "8425",
       "label": "Cartón",
-      "count": 2249
+      "count": 2255
     },
     {
       "id": "8360",
@@ -756,7 +756,7 @@
     {
       "id": "8352",
       "label": "Cobre (metal)",
-      "count": 1172
+      "count": 1174
     },
     {
       "id": "8370",
@@ -856,7 +856,7 @@
     {
       "id": "8344",
       "label": "Madera",
-      "count": 6153
+      "count": 6154
     },
     {
       "id": "8353",
@@ -876,7 +876,7 @@
     {
       "id": "8339",
       "label": "Papel",
-      "count": 13866
+      "count": 13913
     },
     {
       "id": "8336",
@@ -953,7 +953,7 @@
     {
       "id": "12366",
       "label": "Acuñación",
-      "count": 2670
+      "count": 2672
     },
     {
       "id": "12356",
@@ -968,7 +968,7 @@
     {
       "id": "12447",
       "label": "Alisado",
-      "count": 1095
+      "count": 1097
     },
     {
       "id": "12400",
@@ -1018,7 +1018,7 @@
     {
       "id": "12407",
       "label": "Cocción",
-      "count": 311
+      "count": 312
     },
     {
       "id": "12351",
@@ -1133,7 +1133,7 @@
     {
       "id": "12465",
       "label": "Fundición",
-      "count": 2384
+      "count": 2385
     },
     {
       "id": "12464",
@@ -1163,7 +1163,7 @@
     {
       "id": "12363",
       "label": "Impresión (técnica gráfica)",
-      "count": 4383
+      "count": 4392
     },
     {
       "id": "12385",
@@ -1193,7 +1193,7 @@
     {
       "id": "12361",
       "label": "Manuscrito",
-      "count": 2090
+      "count": 2091
     },
     {
       "id": "12393",
@@ -1208,7 +1208,7 @@
     {
       "id": "12338",
       "label": "Modelado de cerámica",
-      "count": 4295
+      "count": 4300
     },
     {
       "id": "12368",
@@ -1278,7 +1278,7 @@
     {
       "id": "12350",
       "label": "Pulido",
-      "count": 3083
+      "count": 3085
     },
     {
       "id": "12388",
@@ -1288,7 +1288,7 @@
     {
       "id": "12364",
       "label": "Repujado",
-      "count": 312
+      "count": 313
     },
     {
       "id": "12353",
@@ -1348,7 +1348,7 @@
     {
       "id": "12380",
       "label": "Vaciado",
-      "count": 480
+      "count": 481
     },
     {
       "id": "12347",
@@ -1360,7 +1360,7 @@
     {
       "id": "14425",
       "label": "Arica",
-      "count": 80
+      "count": 82
     },
     {
       "id": "6378",
@@ -1405,7 +1405,7 @@
     {
       "id": "482",
       "label": "Complejo Llolleo",
-      "count": 399
+      "count": 398
     },
     {
       "id": "491",
@@ -1425,12 +1425,12 @@
     {
       "id": "474",
       "label": "Cultura Arica: Fase Gentilar",
-      "count": 57
+      "count": 58
     },
     {
       "id": "504",
       "label": "Cultura Arica: Fase San Miguel",
-      "count": 165
+      "count": 166
     },
     {
       "id": "479",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 78118
+      "count": 78208
     },
     {
       "id": "stolen",
