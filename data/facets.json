@@ -28,7 +28,7 @@
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 3147
+      "count": 3157
     },
     {
       "id": "11",
@@ -118,7 +118,7 @@
     {
       "id": "105",
       "label": "Museo Andino",
-      "count": 587
+      "count": 589
     },
     {
       "id": "15",
@@ -230,7 +230,7 @@
     {
       "id": "551",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 20726
+      "count": 20728
     },
     {
       "id": "555",
@@ -240,7 +240,7 @@
     {
       "id": "567",
       "label": "Libros y Documentos",
-      "count": 8212
+      "count": 8222
     },
     {
       "id": "560",
@@ -876,7 +876,7 @@
     {
       "id": "8339",
       "label": "Papel",
-      "count": 13913
+      "count": 13921
     },
     {
       "id": "8336",
@@ -988,7 +988,7 @@
     {
       "id": "12433",
       "label": "Bruñido",
-      "count": 370
+      "count": 371
     },
     {
       "id": "12386",
@@ -1208,7 +1208,7 @@
     {
       "id": "12338",
       "label": "Modelado de cerámica",
-      "count": 4300
+      "count": 4302
     },
     {
       "id": "12368",
@@ -1278,7 +1278,7 @@
     {
       "id": "12350",
       "label": "Pulido",
-      "count": 3085
+      "count": 3086
     },
     {
       "id": "12388",
@@ -1450,7 +1450,7 @@
     {
       "id": "475",
       "label": "Cultura Inca",
-      "count": 66
+      "count": 67
     },
     {
       "id": "480",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 78208
+      "count": 78220
     },
     {
       "id": "stolen",
