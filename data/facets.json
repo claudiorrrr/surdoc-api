@@ -3,12 +3,12 @@
     {
       "id": "4",
       "label": "Museo Histórico Nacional",
-      "count": 25343
+      "count": 25351
     },
     {
       "id": "3",
       "label": "Museo Nacional de Bellas Artes",
-      "count": 6078
+      "count": 6079
     },
     {
       "id": "9",
@@ -23,12 +23,12 @@
     {
       "id": "23",
       "label": "Museo de Artes Decorativas",
-      "count": 3415
+      "count": 3422
     },
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 3157
+      "count": 3197
     },
     {
       "id": "11",
@@ -43,7 +43,7 @@
     {
       "id": "2",
       "label": "Museo Nacional de Historia Natural",
-      "count": 2422
+      "count": 2418
     },
     {
       "id": "26",
@@ -103,7 +103,7 @@
     {
       "id": "19",
       "label": "Museo Regional de Atacama",
-      "count": 841
+      "count": 842
     },
     {
       "id": "13",
@@ -118,7 +118,7 @@
     {
       "id": "105",
       "label": "Museo Andino",
-      "count": 589
+      "count": 592
     },
     {
       "id": "15",
@@ -133,7 +133,7 @@
     {
       "id": "34",
       "label": "Museo Marítimo Nacional",
-      "count": 423
+      "count": 424
     },
     {
       "id": "20",
@@ -230,22 +230,22 @@
     {
       "id": "551",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 20728
+      "count": 20727
     },
     {
       "id": "555",
       "label": "Artes Visuales",
-      "count": 13866
+      "count": 13867
     },
     {
       "id": "567",
       "label": "Libros y Documentos",
-      "count": 8222
+      "count": 8263
     },
     {
       "id": "560",
       "label": "Numismática, Filatelia y Objetos conmemorativos",
-      "count": 6550
+      "count": 6557
     },
     {
       "id": "561",
@@ -255,12 +255,12 @@
     {
       "id": "558",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 5326
+      "count": 5328
     },
     {
       "id": "556",
       "label": "Artes Decorativas",
-      "count": 4740
+      "count": 4747
     },
     {
       "id": "557",
@@ -377,7 +377,7 @@
     {
       "id": "6556",
       "label": "Editorial Zig-Zag",
-      "count": 252
+      "count": 253
     },
     {
       "id": "7823",
@@ -474,7 +474,7 @@
     {
       "id": "1553",
       "label": "Desconocido/a",
-      "count": 4817
+      "count": 4818
     },
     {
       "id": "12825",
@@ -756,7 +756,7 @@
     {
       "id": "8352",
       "label": "Cobre (metal)",
-      "count": 1174
+      "count": 1176
     },
     {
       "id": "8370",
@@ -811,7 +811,7 @@
     {
       "id": "8354",
       "label": "Hierro",
-      "count": 1123
+      "count": 1124
     },
     {
       "id": "8357",
@@ -826,7 +826,7 @@
     {
       "id": "8347",
       "label": "Hueso (material animal orgánico)",
-      "count": 2221
+      "count": 2218
     },
     {
       "id": "8533",
@@ -876,7 +876,7 @@
     {
       "id": "8339",
       "label": "Papel",
-      "count": 13921
+      "count": 13958
     },
     {
       "id": "8336",
@@ -896,7 +896,7 @@
     {
       "id": "8337",
       "label": "Plata",
-      "count": 2170
+      "count": 2172
     },
     {
       "id": "8398",
@@ -926,7 +926,7 @@
     {
       "id": "8346",
       "label": "Tinta",
-      "count": 6754
+      "count": 6755
     },
     {
       "id": "8351",
@@ -953,7 +953,7 @@
     {
       "id": "12366",
       "label": "Acuñación",
-      "count": 2672
+      "count": 2674
     },
     {
       "id": "12356",
@@ -968,7 +968,7 @@
     {
       "id": "12447",
       "label": "Alisado",
-      "count": 1097
+      "count": 1099
     },
     {
       "id": "12400",
@@ -1193,7 +1193,7 @@
     {
       "id": "12361",
       "label": "Manuscrito",
-      "count": 2091
+      "count": 2092
     },
     {
       "id": "12393",
@@ -1208,7 +1208,7 @@
     {
       "id": "12338",
       "label": "Modelado de cerámica",
-      "count": 4302
+      "count": 4304
     },
     {
       "id": "12368",
@@ -1308,7 +1308,7 @@
     {
       "id": "12420",
       "label": "Tallado",
-      "count": 8366
+      "count": 8367
     },
     {
       "id": "12383",
@@ -1360,12 +1360,12 @@
     {
       "id": "14425",
       "label": "Arica",
-      "count": 82
+      "count": 83
     },
     {
       "id": "6378",
       "label": "Atacameño",
-      "count": 217
+      "count": 213
     },
     {
       "id": "485",
@@ -1405,7 +1405,7 @@
     {
       "id": "482",
       "label": "Complejo Llolleo",
-      "count": 398
+      "count": 400
     },
     {
       "id": "491",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 78220
+      "count": 78277
     },
     {
       "id": "stolen",
