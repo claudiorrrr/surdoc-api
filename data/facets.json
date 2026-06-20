@@ -3,12 +3,12 @@
     {
       "id": "4",
       "label": "Museo Histórico Nacional",
-      "count": 25365
+      "count": 25383
     },
     {
       "id": "3",
       "label": "Museo Nacional de Bellas Artes",
-      "count": 6084
+      "count": 6086
     },
     {
       "id": "9",
@@ -28,7 +28,7 @@
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 3215
+      "count": 3261
     },
     {
       "id": "11",
@@ -213,7 +213,7 @@
     {
       "id": "99",
       "label": "Museo Violeta Parra",
-      "count": 43
+      "count": 44
     },
     {
       "id": "65",
@@ -235,17 +235,17 @@
     {
       "id": "555",
       "label": "Artes Visuales",
-      "count": 13872
+      "count": 13875
     },
     {
       "id": "567",
       "label": "Libros y Documentos",
-      "count": 8287
+      "count": 8331
     },
     {
       "id": "560",
       "label": "Numismática, Filatelia y Objetos conmemorativos",
-      "count": 6569
+      "count": 6578
     },
     {
       "id": "561",
@@ -255,7 +255,7 @@
     {
       "id": "558",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 5333
+      "count": 5332
     },
     {
       "id": "556",
@@ -270,7 +270,7 @@
     {
       "id": "552",
       "label": "Textil, Vestuario y Adornos",
-      "count": 3115
+      "count": 3128
     },
     {
       "id": "563",
@@ -310,7 +310,7 @@
     {
       "id": "565",
       "label": "Deportes, Juguetes y Juegos",
-      "count": 304
+      "count": 303
     },
     {
       "id": "553",
@@ -377,7 +377,7 @@
     {
       "id": "6556",
       "label": "Editorial Zig-Zag",
-      "count": 253
+      "count": 254
     },
     {
       "id": "7823",
@@ -474,7 +474,7 @@
     {
       "id": "1553",
       "label": "Desconocido/a",
-      "count": 4819
+      "count": 4804
     },
     {
       "id": "12825",
@@ -856,7 +856,7 @@
     {
       "id": "8344",
       "label": "Madera",
-      "count": 6155
+      "count": 6157
     },
     {
       "id": "8353",
@@ -876,7 +876,7 @@
     {
       "id": "8339",
       "label": "Papel",
-      "count": 13978
+      "count": 14013
     },
     {
       "id": "8336",
@@ -886,7 +886,7 @@
     {
       "id": "8334",
       "label": "Pintura al óleo",
-      "count": 3094
+      "count": 3095
     },
     {
       "id": "8387",
@@ -926,7 +926,7 @@
     {
       "id": "8346",
       "label": "Tinta",
-      "count": 6756
+      "count": 6787
     },
     {
       "id": "8351",
@@ -1023,7 +1023,7 @@
     {
       "id": "12351",
       "label": "Collage",
-      "count": 89
+      "count": 90
     },
     {
       "id": "12405",
@@ -1088,7 +1088,7 @@
     {
       "id": "12461",
       "label": "Escritura a máquina",
-      "count": 276
+      "count": 280
     },
     {
       "id": "12406",
@@ -1163,7 +1163,7 @@
     {
       "id": "12363",
       "label": "Impresión (técnica gráfica)",
-      "count": 4392
+      "count": 4394
     },
     {
       "id": "12385",
@@ -1193,7 +1193,7 @@
     {
       "id": "12361",
       "label": "Manuscrito",
-      "count": 2093
+      "count": 2102
     },
     {
       "id": "12393",
@@ -1253,7 +1253,7 @@
     {
       "id": "12414",
       "label": "Pintura al óleo",
-      "count": 1428
+      "count": 1429
     },
     {
       "id": "12475",
@@ -1485,7 +1485,7 @@
     {
       "id": "6387",
       "label": "Mapuche",
-      "count": 1049
+      "count": 1046
     },
     {
       "id": "6393",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 78320
+      "count": 78388
     },
     {
       "id": "stolen",
