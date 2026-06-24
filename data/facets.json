@@ -3,17 +3,17 @@
     {
       "id": "4",
       "label": "Museo Histórico Nacional",
-      "count": 25383
+      "count": 25418
     },
     {
       "id": "3",
       "label": "Museo Nacional de Bellas Artes",
-      "count": 6086
+      "count": 6087
     },
     {
       "id": "9",
       "label": "Museo Arqueológico de La Serena",
-      "count": 4260
+      "count": 4262
     },
     {
       "id": "5",
@@ -23,12 +23,12 @@
     {
       "id": "23",
       "label": "Museo de Artes Decorativas",
-      "count": 3422
+      "count": 3424
     },
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 3271
+      "count": 3333
     },
     {
       "id": "11",
@@ -73,7 +73,7 @@
     {
       "id": "8",
       "label": "Museo O'Higginiano y de Bellas Artes de Talca",
-      "count": 1613
+      "count": 1610
     },
     {
       "id": "17",
@@ -103,7 +103,7 @@
     {
       "id": "19",
       "label": "Museo Regional de Atacama",
-      "count": 850
+      "count": 861
     },
     {
       "id": "13",
@@ -163,7 +163,7 @@
     {
       "id": "29",
       "label": "Departamento de Antropología, Universidad de Chile",
-      "count": 229
+      "count": 230
     },
     {
       "id": "89",
@@ -188,7 +188,7 @@
     {
       "id": "35",
       "label": "Departamento de Sociología y Antropología, Universidad de Concepción",
-      "count": 136
+      "count": 138
     },
     {
       "id": "115",
@@ -230,22 +230,22 @@
     {
       "id": "551",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 20726
+      "count": 20732
     },
     {
       "id": "555",
       "label": "Artes Visuales",
-      "count": 13875
+      "count": 13872
     },
     {
       "id": "567",
       "label": "Libros y Documentos",
-      "count": 8341
+      "count": 8390
     },
     {
       "id": "560",
       "label": "Numismática, Filatelia y Objetos conmemorativos",
-      "count": 6578
+      "count": 6603
     },
     {
       "id": "561",
@@ -255,12 +255,12 @@
     {
       "id": "558",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 5319
+      "count": 5327
     },
     {
       "id": "556",
       "label": "Artes Decorativas",
-      "count": 4762
+      "count": 4764
     },
     {
       "id": "557",
@@ -270,12 +270,12 @@
     {
       "id": "552",
       "label": "Textil, Vestuario y Adornos",
-      "count": 3128
+      "count": 3151
     },
     {
       "id": "563",
       "label": "Armas y Armamentos",
-      "count": 1405
+      "count": 1408
     },
     {
       "id": "559",
@@ -387,7 +387,7 @@
     {
       "id": "6456",
       "label": "Fábrica de Cerámica de Lota",
-      "count": 383
+      "count": 385
     },
     {
       "id": "6450",
@@ -474,7 +474,7 @@
     {
       "id": "1553",
       "label": "Desconocido/a",
-      "count": 4805
+      "count": 4809
     },
     {
       "id": "12825",
@@ -574,7 +574,7 @@
     {
       "id": "2169",
       "label": "Juan Francisco González",
-      "count": 104
+      "count": 105
     },
     {
       "id": "3022",
@@ -741,7 +741,7 @@
     {
       "id": "8425",
       "label": "Cartón",
-      "count": 2256
+      "count": 2263
     },
     {
       "id": "8360",
@@ -751,7 +751,7 @@
     {
       "id": "8349",
       "label": "Cerámica",
-      "count": 5247
+      "count": 5250
     },
     {
       "id": "8352",
@@ -781,7 +781,7 @@
     {
       "id": "8373",
       "label": "Esmalte",
-      "count": 611
+      "count": 612
     },
     {
       "id": "8359",
@@ -876,17 +876,17 @@
     {
       "id": "8339",
       "label": "Papel",
-      "count": 14022
+      "count": 14055
     },
     {
       "id": "8336",
       "label": "Piedra",
-      "count": 5302
+      "count": 5303
     },
     {
       "id": "8334",
       "label": "Pintura al óleo",
-      "count": 3095
+      "count": 3097
     },
     {
       "id": "8387",
@@ -916,7 +916,7 @@
     {
       "id": "8335",
       "label": "Tela",
-      "count": 4106
+      "count": 4108
     },
     {
       "id": "8449",
@@ -1003,7 +1003,7 @@
     {
       "id": "12442",
       "label": "Calcomanía",
-      "count": 55
+      "count": 56
     },
     {
       "id": "12384",
@@ -1163,7 +1163,7 @@
     {
       "id": "12363",
       "label": "Impresión (técnica gráfica)",
-      "count": 4394
+      "count": 4404
     },
     {
       "id": "12385",
@@ -1193,7 +1193,7 @@
     {
       "id": "12361",
       "label": "Manuscrito",
-      "count": 2102
+      "count": 2103
     },
     {
       "id": "12393",
@@ -1218,7 +1218,7 @@
     {
       "id": "12470",
       "label": "Moldeo en barbotina",
-      "count": 621
+      "count": 623
     },
     {
       "id": "12418",
@@ -1243,7 +1243,7 @@
     {
       "id": "12474",
       "label": "Pintado a mano",
-      "count": 767
+      "count": 768
     },
     {
       "id": "12378",
@@ -1253,7 +1253,7 @@
     {
       "id": "12414",
       "label": "Pintura al óleo",
-      "count": 1429
+      "count": 1430
     },
     {
       "id": "12475",
@@ -1410,7 +1410,7 @@
     {
       "id": "491",
       "label": "Complejo Pitrén",
-      "count": 432
+      "count": 433
     },
     {
       "id": "513",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 78398
+      "count": 78511
     },
     {
       "id": "stolen",
