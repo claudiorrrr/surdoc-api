@@ -3,7 +3,7 @@
     {
       "id": "4",
       "label": "Museo Histórico Nacional",
-      "count": 25418
+      "count": 25534
     },
     {
       "id": "3",
@@ -13,7 +13,7 @@
     {
       "id": "9",
       "label": "Museo Arqueológico de La Serena",
-      "count": 4262
+      "count": 4270
     },
     {
       "id": "5",
@@ -28,7 +28,7 @@
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 3333
+      "count": 3377
     },
     {
       "id": "11",
@@ -118,7 +118,7 @@
     {
       "id": "105",
       "label": "Museo Andino",
-      "count": 592
+      "count": 597
     },
     {
       "id": "15",
@@ -230,32 +230,32 @@
     {
       "id": "551",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 20732
+      "count": 20745
     },
     {
       "id": "555",
       "label": "Artes Visuales",
-      "count": 13872
+      "count": 13874
     },
     {
       "id": "567",
       "label": "Libros y Documentos",
-      "count": 8390
+      "count": 8435
     },
     {
       "id": "560",
       "label": "Numismática, Filatelia y Objetos conmemorativos",
-      "count": 6603
+      "count": 6702
     },
     {
       "id": "561",
       "label": "Textil, Vestuario y Adornos",
-      "count": 5604
+      "count": 5605
     },
     {
       "id": "558",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 5327
+      "count": 5334
     },
     {
       "id": "556",
@@ -270,7 +270,7 @@
     {
       "id": "552",
       "label": "Textil, Vestuario y Adornos",
-      "count": 3151
+      "count": 3156
     },
     {
       "id": "563",
@@ -280,7 +280,7 @@
     {
       "id": "559",
       "label": "Mobiliario",
-      "count": 1363
+      "count": 1364
     },
     {
       "id": "562",
@@ -474,7 +474,7 @@
     {
       "id": "1553",
       "label": "Desconocido/a",
-      "count": 4809
+      "count": 4810
     },
     {
       "id": "12825",
@@ -856,12 +856,12 @@
     {
       "id": "8344",
       "label": "Madera",
-      "count": 6157
+      "count": 6158
     },
     {
       "id": "8353",
       "label": "Metal",
-      "count": 3829
+      "count": 3830
     },
     {
       "id": "8529",
@@ -876,7 +876,7 @@
     {
       "id": "8339",
       "label": "Papel",
-      "count": 14055
+      "count": 14094
     },
     {
       "id": "8336",
@@ -886,7 +886,7 @@
     {
       "id": "8334",
       "label": "Pintura al óleo",
-      "count": 3097
+      "count": 3098
     },
     {
       "id": "8387",
@@ -896,7 +896,7 @@
     {
       "id": "8337",
       "label": "Plata",
-      "count": 2173
+      "count": 2174
     },
     {
       "id": "8398",
@@ -916,7 +916,7 @@
     {
       "id": "8335",
       "label": "Tela",
-      "count": 4108
+      "count": 4109
     },
     {
       "id": "8449",
@@ -953,7 +953,7 @@
     {
       "id": "12366",
       "label": "Acuñación",
-      "count": 2676
+      "count": 2677
     },
     {
       "id": "12356",
@@ -968,7 +968,7 @@
     {
       "id": "12447",
       "label": "Alisado",
-      "count": 1099
+      "count": 1101
     },
     {
       "id": "12400",
@@ -988,7 +988,7 @@
     {
       "id": "12433",
       "label": "Bruñido",
-      "count": 371
+      "count": 372
     },
     {
       "id": "12386",
@@ -1043,7 +1043,7 @@
     {
       "id": "12375",
       "label": "Dibujo",
-      "count": 2007
+      "count": 2008
     },
     {
       "id": "12449",
@@ -1163,7 +1163,7 @@
     {
       "id": "12363",
       "label": "Impresión (técnica gráfica)",
-      "count": 4404
+      "count": 4420
     },
     {
       "id": "12385",
@@ -1193,7 +1193,7 @@
     {
       "id": "12361",
       "label": "Manuscrito",
-      "count": 2103
+      "count": 2105
     },
     {
       "id": "12393",
@@ -1208,7 +1208,7 @@
     {
       "id": "12338",
       "label": "Modelado de cerámica",
-      "count": 4304
+      "count": 4309
     },
     {
       "id": "12368",
@@ -1278,7 +1278,7 @@
     {
       "id": "12350",
       "label": "Pulido",
-      "count": 3086
+      "count": 3088
     },
     {
       "id": "12388",
@@ -1425,12 +1425,12 @@
     {
       "id": "474",
       "label": "Cultura Arica: Fase Gentilar",
-      "count": 58
+      "count": 59
     },
     {
       "id": "504",
       "label": "Cultura Arica: Fase San Miguel",
-      "count": 166
+      "count": 167
     },
     {
       "id": "479",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 78511
+      "count": 78685
     },
     {
       "id": "stolen",
