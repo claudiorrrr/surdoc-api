@@ -28,7 +28,7 @@
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 3377
+      "count": 3376
     },
     {
       "id": "11",
@@ -240,7 +240,7 @@
     {
       "id": "567",
       "label": "Libros y Documentos",
-      "count": 8435
+      "count": 8434
     },
     {
       "id": "560",
@@ -255,12 +255,12 @@
     {
       "id": "558",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 5334
+      "count": 5331
     },
     {
       "id": "556",
       "label": "Artes Decorativas",
-      "count": 4764
+      "count": 4767
     },
     {
       "id": "557",
@@ -876,7 +876,7 @@
     {
       "id": "8339",
       "label": "Papel",
-      "count": 14094
+      "count": 14093
     },
     {
       "id": "8336",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 78685
+      "count": 78684
     },
     {
       "id": "stolen",
