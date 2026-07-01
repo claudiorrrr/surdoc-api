@@ -3,7 +3,7 @@
     {
       "id": "4",
       "label": "Museo Histórico Nacional",
-      "count": 25534
+      "count": 25536
     },
     {
       "id": "3",
@@ -28,7 +28,7 @@
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 3376
+      "count": 3393
     },
     {
       "id": "11",
@@ -43,7 +43,7 @@
     {
       "id": "2",
       "label": "Museo Nacional de Historia Natural",
-      "count": 2418
+      "count": 2419
     },
     {
       "id": "26",
@@ -58,7 +58,7 @@
     {
       "id": "14",
       "label": "Museo de Arte y Artesanía de Linares",
-      "count": 1696
+      "count": 1700
     },
     {
       "id": "7",
@@ -230,47 +230,47 @@
     {
       "id": "551",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 20745
+      "count": 20746
     },
     {
       "id": "555",
       "label": "Artes Visuales",
-      "count": 13874
+      "count": 13871
     },
     {
       "id": "567",
       "label": "Libros y Documentos",
-      "count": 8434
+      "count": 8435
     },
     {
       "id": "560",
       "label": "Numismática, Filatelia y Objetos conmemorativos",
-      "count": 6702
+      "count": 6708
     },
     {
       "id": "561",
       "label": "Textil, Vestuario y Adornos",
-      "count": 5605
+      "count": 5617
     },
     {
       "id": "558",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 5331
+      "count": 5319
     },
     {
       "id": "556",
       "label": "Artes Decorativas",
-      "count": 4767
+      "count": 4774
     },
     {
       "id": "557",
       "label": "Artes Populares y Artesanía",
-      "count": 3731
+      "count": 3735
     },
     {
       "id": "552",
       "label": "Textil, Vestuario y Adornos",
-      "count": 3156
+      "count": 3162
     },
     {
       "id": "563",
@@ -280,7 +280,7 @@
     {
       "id": "559",
       "label": "Mobiliario",
-      "count": 1364
+      "count": 1365
     },
     {
       "id": "562",
@@ -305,7 +305,7 @@
     {
       "id": "568",
       "label": "Estructuras, Edificios y Partes",
-      "count": 345
+      "count": 346
     },
     {
       "id": "565",
@@ -474,7 +474,7 @@
     {
       "id": "1553",
       "label": "Desconocido/a",
-      "count": 4810
+      "count": 4807
     },
     {
       "id": "12825",
@@ -716,7 +716,7 @@
     {
       "id": "8508",
       "label": "Anilina",
-      "count": 297
+      "count": 301
     },
     {
       "id": "8342",
@@ -766,7 +766,7 @@
     {
       "id": "8532",
       "label": "Crin",
-      "count": 454
+      "count": 458
     },
     {
       "id": "8522",
@@ -831,7 +831,7 @@
     {
       "id": "8533",
       "label": "Ixtle",
-      "count": 291
+      "count": 295
     },
     {
       "id": "8447",
@@ -861,7 +861,7 @@
     {
       "id": "8353",
       "label": "Metal",
-      "count": 3830
+      "count": 3831
     },
     {
       "id": "8529",
@@ -881,7 +881,7 @@
     {
       "id": "8336",
       "label": "Piedra",
-      "count": 5303
+      "count": 5304
     },
     {
       "id": "8334",
@@ -936,7 +936,7 @@
     {
       "id": "8340",
       "label": "Yeso",
-      "count": 475
+      "count": 476
     }
   ],
   "technique": [
@@ -1198,7 +1198,7 @@
     {
       "id": "12393",
       "label": "Marquetería",
-      "count": 74
+      "count": 73
     },
     {
       "id": "12344",
@@ -1278,7 +1278,7 @@
     {
       "id": "12350",
       "label": "Pulido",
-      "count": 3088
+      "count": 3089
     },
     {
       "id": "12388",
@@ -1308,7 +1308,7 @@
     {
       "id": "12420",
       "label": "Tallado",
-      "count": 8367
+      "count": 8368
     },
     {
       "id": "12383",
@@ -1323,12 +1323,12 @@
     {
       "id": "12343",
       "label": "Tejido",
-      "count": 1454
+      "count": 1458
     },
     {
       "id": "12429",
       "label": "Teñido",
-      "count": 398
+      "count": 402
     },
     {
       "id": "12342",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 78684
+      "count": 78708
     },
     {
       "id": "stolen",
