@@ -2,12 +2,12 @@
   {
     "id": "4",
     "label": "Museo Histórico Nacional",
-    "count": 25536
+    "count": 25581
   },
   {
     "id": "3",
     "label": "Museo Nacional de Bellas Artes",
-    "count": 6087
+    "count": 6088
   },
   {
     "id": "9",
@@ -20,14 +20,14 @@
     "count": 4213
   },
   {
+    "id": "16",
+    "label": "Museo Regional de Magallanes",
+    "count": 3443
+  },
+  {
     "id": "23",
     "label": "Museo de Artes Decorativas",
     "count": 3424
-  },
-  {
-    "id": "16",
-    "label": "Museo Regional de Magallanes",
-    "count": 3393
   },
   {
     "id": "11",
@@ -117,7 +117,7 @@
   {
     "id": "105",
     "label": "Museo Andino",
-    "count": 597
+    "count": 601
   },
   {
     "id": "15",
