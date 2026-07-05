@@ -3,7 +3,7 @@
     {
       "id": "4",
       "label": "Museo Histórico Nacional",
-      "count": 25581
+      "count": 25594
     },
     {
       "id": "3",
@@ -23,7 +23,7 @@
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 3443
+      "count": 3456
     },
     {
       "id": "23",
@@ -230,37 +230,37 @@
     {
       "id": "551",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 20751
+      "count": 20752
     },
     {
       "id": "555",
       "label": "Artes Visuales",
-      "count": 13890
+      "count": 13891
     },
     {
       "id": "567",
       "label": "Libros y Documentos",
-      "count": 8455
+      "count": 8459
     },
     {
       "id": "560",
       "label": "Numismática, Filatelia y Objetos conmemorativos",
-      "count": 6722
+      "count": 6725
     },
     {
       "id": "561",
       "label": "Textil, Vestuario y Adornos",
-      "count": 5632
+      "count": 5633
     },
     {
       "id": "558",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 5331
+      "count": 5335
     },
     {
       "id": "556",
       "label": "Artes Decorativas",
-      "count": 4777
+      "count": 4779
     },
     {
       "id": "557",
@@ -270,7 +270,7 @@
     {
       "id": "552",
       "label": "Textil, Vestuario y Adornos",
-      "count": 3170
+      "count": 3180
     },
     {
       "id": "563",
@@ -377,7 +377,7 @@
     {
       "id": "6556",
       "label": "Editorial Zig-Zag",
-      "count": 254
+      "count": 261
     },
     {
       "id": "7823",
@@ -474,7 +474,7 @@
     {
       "id": "1553",
       "label": "Desconocido/a",
-      "count": 4816
+      "count": 4815
     },
     {
       "id": "12825",
@@ -484,7 +484,7 @@
     {
       "id": "3182",
       "label": "Elena Poirier",
-      "count": 699
+      "count": 700
     },
     {
       "id": "6121",
@@ -736,12 +736,12 @@
     {
       "id": "8343",
       "label": "Bronce",
-      "count": 1858
+      "count": 1859
     },
     {
       "id": "8425",
       "label": "Cartón",
-      "count": 2263
+      "count": 2270
     },
     {
       "id": "8360",
@@ -756,7 +756,7 @@
     {
       "id": "8352",
       "label": "Cobre (metal)",
-      "count": 1177
+      "count": 1178
     },
     {
       "id": "8370",
@@ -826,7 +826,7 @@
     {
       "id": "8347",
       "label": "Hueso (material animal orgánico)",
-      "count": 2218
+      "count": 2219
     },
     {
       "id": "8533",
@@ -856,12 +856,12 @@
     {
       "id": "8344",
       "label": "Madera",
-      "count": 6169
+      "count": 6170
     },
     {
       "id": "8353",
       "label": "Metal",
-      "count": 3832
+      "count": 3833
     },
     {
       "id": "8529",
@@ -876,7 +876,7 @@
     {
       "id": "8339",
       "label": "Papel",
-      "count": 14121
+      "count": 14127
     },
     {
       "id": "8336",
@@ -926,7 +926,7 @@
     {
       "id": "8346",
       "label": "Tinta",
-      "count": 6786
+      "count": 6794
     },
     {
       "id": "8351",
@@ -953,7 +953,7 @@
     {
       "id": "12366",
       "label": "Acuñación",
-      "count": 2685
+      "count": 2686
     },
     {
       "id": "12356",
@@ -1043,7 +1043,7 @@
     {
       "id": "12375",
       "label": "Dibujo",
-      "count": 2008
+      "count": 2009
     },
     {
       "id": "12449",
@@ -1068,7 +1068,7 @@
     {
       "id": "12455",
       "label": "Encuadernación",
-      "count": 1531
+      "count": 1538
     },
     {
       "id": "12377",
@@ -1133,7 +1133,7 @@
     {
       "id": "12465",
       "label": "Fundición",
-      "count": 2387
+      "count": 2388
     },
     {
       "id": "12464",
@@ -1163,7 +1163,7 @@
     {
       "id": "12363",
       "label": "Impresión (técnica gráfica)",
-      "count": 4421
+      "count": 4428
     },
     {
       "id": "12385",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 78808
+      "count": 78834
     },
     {
       "id": "stolen",
