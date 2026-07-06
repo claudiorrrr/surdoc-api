@@ -118,7 +118,7 @@
     {
       "id": "105",
       "label": "Museo Andino",
-      "count": 601
+      "count": 603
     },
     {
       "id": "15",
@@ -230,7 +230,7 @@
     {
       "id": "551",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 20752
+      "count": 20754
     },
     {
       "id": "555",
@@ -968,7 +968,7 @@
     {
       "id": "12447",
       "label": "Alisado",
-      "count": 1102
+      "count": 1103
     },
     {
       "id": "12400",
@@ -1208,7 +1208,7 @@
     {
       "id": "12338",
       "label": "Modelado de cerámica",
-      "count": 4311
+      "count": 4313
     },
     {
       "id": "12368",
@@ -1278,7 +1278,7 @@
     {
       "id": "12350",
       "label": "Pulido",
-      "count": 3090
+      "count": 3091
     },
     {
       "id": "12388",
@@ -1360,7 +1360,7 @@
     {
       "id": "14425",
       "label": "Arica",
-      "count": 84
+      "count": 85
     },
     {
       "id": "6378",
@@ -1480,7 +1480,7 @@
     {
       "id": "13551",
       "label": "Inca",
-      "count": 74
+      "count": 75
     },
     {
       "id": "6387",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 78834
+      "count": 78836
     },
     {
       "id": "stolen",
