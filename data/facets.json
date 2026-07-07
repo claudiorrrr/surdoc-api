@@ -3,7 +3,7 @@
     {
       "id": "4",
       "label": "Museo Histórico Nacional",
-      "count": 25594
+      "count": 25595
     },
     {
       "id": "3",
@@ -23,7 +23,7 @@
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 3456
+      "count": 3479
     },
     {
       "id": "23",
@@ -73,7 +73,7 @@
     {
       "id": "8",
       "label": "Museo O'Higginiano y de Bellas Artes de Talca",
-      "count": 1610
+      "count": 1609
     },
     {
       "id": "17",
@@ -235,17 +235,17 @@
     {
       "id": "555",
       "label": "Artes Visuales",
-      "count": 13891
+      "count": 13890
     },
     {
       "id": "567",
       "label": "Libros y Documentos",
-      "count": 8459
+      "count": 8482
     },
     {
       "id": "560",
       "label": "Numismática, Filatelia y Objetos conmemorativos",
-      "count": 6725
+      "count": 6726
     },
     {
       "id": "561",
@@ -861,7 +861,7 @@
     {
       "id": "8353",
       "label": "Metal",
-      "count": 3833
+      "count": 3834
     },
     {
       "id": "8529",
@@ -876,7 +876,7 @@
     {
       "id": "8339",
       "label": "Papel",
-      "count": 14127
+      "count": 14146
     },
     {
       "id": "8336",
@@ -1098,7 +1098,7 @@
     {
       "id": "12397",
       "label": "Esmaltado",
-      "count": 576
+      "count": 577
     },
     {
       "id": "12477",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 78836
+      "count": 78859
     },
     {
       "id": "stolen",
