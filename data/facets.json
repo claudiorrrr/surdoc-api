@@ -8,17 +8,17 @@
     {
       "id": "3",
       "label": "Museo Nacional de Bellas Artes",
-      "count": 6089
+      "count": 6090
     },
     {
       "id": "9",
       "label": "Museo Arqueológico de La Serena",
-      "count": 4271
+      "count": 4278
     },
     {
       "id": "5",
       "label": "Museo Historia Natural de Valparaíso",
-      "count": 4213
+      "count": 4215
     },
     {
       "id": "16",
@@ -230,12 +230,12 @@
     {
       "id": "551",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 20757
+      "count": 20764
     },
     {
       "id": "555",
       "label": "Artes Visuales",
-      "count": 13899
+      "count": 13900
     },
     {
       "id": "567",
@@ -245,7 +245,7 @@
     {
       "id": "560",
       "label": "Numismática, Filatelia y Objetos conmemorativos",
-      "count": 6735
+      "count": 6736
     },
     {
       "id": "561",
@@ -255,17 +255,17 @@
     {
       "id": "558",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 5344
+      "count": 5342
     },
     {
       "id": "556",
       "label": "Artes Decorativas",
-      "count": 4785
+      "count": 4786
     },
     {
       "id": "557",
       "label": "Artes Populares y Artesanía",
-      "count": 3745
+      "count": 3747
     },
     {
       "id": "552",
@@ -474,7 +474,7 @@
     {
       "id": "1553",
       "label": "Desconocido/a",
-      "count": 4828
+      "count": 4829
     },
     {
       "id": "12825",
@@ -691,7 +691,7 @@
     {
       "id": "8345",
       "label": "Acero",
-      "count": 826
+      "count": 828
     },
     {
       "id": "8386",
@@ -721,7 +721,7 @@
     {
       "id": "8342",
       "label": "Arcilla",
-      "count": 1667
+      "count": 1669
     },
     {
       "id": "8416",
@@ -856,7 +856,7 @@
     {
       "id": "8344",
       "label": "Madera",
-      "count": 6180
+      "count": 6182
     },
     {
       "id": "8353",
@@ -876,7 +876,7 @@
     {
       "id": "8339",
       "label": "Papel",
-      "count": 14238
+      "count": 14239
     },
     {
       "id": "8336",
@@ -916,7 +916,7 @@
     {
       "id": "8335",
       "label": "Tela",
-      "count": 4116
+      "count": 4117
     },
     {
       "id": "8449",
@@ -1018,7 +1018,7 @@
     {
       "id": "12407",
       "label": "Cocción",
-      "count": 314
+      "count": 316
     },
     {
       "id": "12351",
@@ -1073,7 +1073,7 @@
     {
       "id": "12377",
       "label": "Engobe",
-      "count": 623
+      "count": 625
     },
     {
       "id": "12460",
@@ -1208,7 +1208,7 @@
     {
       "id": "12338",
       "label": "Modelado de cerámica",
-      "count": 4313
+      "count": 4315
     },
     {
       "id": "12368",
@@ -1253,7 +1253,7 @@
     {
       "id": "12414",
       "label": "Pintura al óleo",
-      "count": 1430
+      "count": 1431
     },
     {
       "id": "12475",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 79024
+      "count": 79034
     },
     {
       "id": "stolen",
