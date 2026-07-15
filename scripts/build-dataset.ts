@@ -4,6 +4,7 @@
 //
 //   bun run build:dataset                 # facets + first MAX_PAGES of the index
 //   MAX_PAGES=0 bun run build:dataset     # full index (~3700 pages, slow)
+//   ROLL=1 bun run build:dataset          # crawl an advancing MAX_PAGES window
 //   DETAIL=1 bun run build:dataset        # also fetch full record detail
 //
 // Outputs under ./data:
@@ -25,6 +26,23 @@ const DATA = new URL("../data/", import.meta.url).pathname;
 const MAX_PAGES = Number(process.env.MAX_PAGES ?? 25); // 0 = all
 const DETAIL = process.env.DETAIL === "1";
 const SKIP_INDEX = process.env.SKIP_INDEX === "1"; // reuse committed index.json
+// Rolling mode: crawl a MAX_PAGES window that advances each run, wrapping at the
+// end of the catalog (~19 runs for a full sweep). SURDOC has no working sort and
+// new records scatter through every institution's block (not the tail), so a
+// fixed window never sees most additions — a moving window eventually does.
+// The cursor persists in data/crawl-state.json. Ignored when MAX_PAGES=0.
+const ROLL = process.env.ROLL === "1";
+const STATE_FILE = "crawl-state.json";
+
+async function loadNextPage(): Promise<number> {
+  if (!existsSync(DATA + STATE_FILE)) return 1;
+  try {
+    const s = JSON.parse(await readFile(DATA + STATE_FILE, "utf8"));
+    return Number.isInteger(s.nextPage) && s.nextPage > 0 ? s.nextPage : 1;
+  } catch {
+    return 1;
+  }
+}
 const MIN_INTERVAL_MS = Number(process.env.MIN_INTERVAL_MS ?? 700); // throttle
 
 const sd = new Surdoc(new Fetcher({ minIntervalMs: MIN_INTERVAL_MS, cacheTtlMs: 0 }));
@@ -86,8 +104,19 @@ async function main() {
   await writeJson("institutions.json", facets.institution ?? []);
 
   const total = first.total;
-  const lastPage = MAX_PAGES > 0 ? Math.min(MAX_PAGES, first.totalPages) : first.totalPages;
-  console.log(`→ total=${total} pages=${first.totalPages} crawling=${lastPage}`);
+  const totalPages = first.totalPages;
+  // Page params are 0-based; page 0 is `first` above. Crawl [startPage, endPage).
+  let startPage = 1;
+  let endPage = MAX_PAGES > 0 ? Math.min(MAX_PAGES, totalPages) : totalPages;
+  let nextPage = 1; // cursor to persist for the next rolling run
+  if (MAX_PAGES > 0 && ROLL) {
+    startPage = Math.min(Math.max(1, await loadNextPage()), totalPages - 1);
+    endPage = Math.min(startPage + MAX_PAGES, totalPages);
+    nextPage = endPage >= totalPages ? 1 : endPage; // wrap to the start
+  }
+  console.log(
+    `→ total=${total} pages=${totalPages} crawling=[${startPage},${endPage})${ROLL ? ` roll next=${nextPage}` : ""}`,
+  );
 
   // Merge into any existing index so runs accumulate coverage.
   const byId = new Map<string, SearchResult>();
@@ -95,7 +124,7 @@ async function main() {
   for (const r of first.results) byId.set(r.recordNumber, r);
 
   let skippedPages = 0;
-  for (let page = 1; page < lastPage && !SKIP_INDEX; page++) {
+  for (let page = startPage; page < endPage && !SKIP_INDEX; page++) {
     try {
       const res = await sd.search({ page });
       for (const r of res.results) byId.set(r.recordNumber, r);
@@ -105,13 +134,16 @@ async function main() {
     }
     if (page % 25 === 0) {
       await writeJson("index.json", [...byId.values()]);
-      console.log(`  page ${page}/${lastPage} — ${byId.size} records${skippedPages ? ` (${skippedPages} skipped)` : ""}`);
+      console.log(`  page ${page}/${endPage} — ${byId.size} records${skippedPages ? ` (${skippedPages} skipped)` : ""}`);
     }
   }
   if (SKIP_INDEX) console.log(`→ SKIP_INDEX: reusing ${byId.size} indexed records`);
 
   const index = [...byId.values()];
   await writeJson("index.json", index);
+
+  // Advance the rolling cursor only after a successful index crawl.
+  if (ROLL && !SKIP_INDEX) await writeJson(STATE_FILE, { nextPage, updatedAt: new Date().toISOString() });
 
   let detailFetched = 0;
   let notPublic = 0;
