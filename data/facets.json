@@ -3,7 +3,7 @@
     {
       "id": "4",
       "label": "Museo Histórico Nacional",
-      "count": 25677
+      "count": 25724
     },
     {
       "id": "3",
@@ -23,7 +23,7 @@
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 3548
+      "count": 3526
     },
     {
       "id": "23",
@@ -103,12 +103,12 @@
     {
       "id": "19",
       "label": "Museo Regional de Atacama",
-      "count": 861
+      "count": 867
     },
     {
       "id": "13",
       "label": "Museo de la Educación Gabriela Mistral",
-      "count": 749
+      "count": 751
     },
     {
       "id": "10",
@@ -118,7 +118,7 @@
     {
       "id": "105",
       "label": "Museo Andino",
-      "count": 605
+      "count": 607
     },
     {
       "id": "15",
@@ -230,17 +230,17 @@
     {
       "id": "551",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 20764
+      "count": 20766
     },
     {
       "id": "555",
       "label": "Artes Visuales",
-      "count": 13900
+      "count": 13944
     },
     {
       "id": "567",
       "label": "Libros y Documentos",
-      "count": 8584
+      "count": 8585
     },
     {
       "id": "560",
@@ -250,22 +250,22 @@
     {
       "id": "561",
       "label": "Textil, Vestuario y Adornos",
-      "count": 5632
+      "count": 5645
     },
     {
       "id": "558",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 5342
+      "count": 5324
     },
     {
       "id": "556",
       "label": "Artes Decorativas",
-      "count": 4786
+      "count": 4791
     },
     {
       "id": "557",
       "label": "Artes Populares y Artesanía",
-      "count": 3750
+      "count": 3752
     },
     {
       "id": "552",
@@ -280,7 +280,7 @@
     {
       "id": "559",
       "label": "Mobiliario",
-      "count": 1366
+      "count": 1352
     },
     {
       "id": "562",
@@ -474,7 +474,7 @@
     {
       "id": "1553",
       "label": "Desconocido/a",
-      "count": 4829
+      "count": 4831
     },
     {
       "id": "12825",
@@ -484,7 +484,7 @@
     {
       "id": "3182",
       "label": "Elena Poirier",
-      "count": 704
+      "count": 707
     },
     {
       "id": "6121",
@@ -597,6 +597,11 @@
       "count": 137
     },
     {
+      "id": "1659",
+      "label": "Narciso Desmadryl",
+      "count": 59
+    },
+    {
       "id": "1945",
       "label": "Nemesio Antúnez",
       "count": 126
@@ -635,11 +640,6 @@
       "id": "1761",
       "label": "Pilar Domínguez Fuenzalida",
       "count": 121
-    },
-    {
-      "id": "1980",
-      "label": "Raymond Monvoisin",
-      "count": 57
     },
     {
       "id": "1545",
@@ -691,7 +691,7 @@
     {
       "id": "8345",
       "label": "Acero",
-      "count": 828
+      "count": 829
     },
     {
       "id": "8386",
@@ -706,12 +706,12 @@
     {
       "id": "8341",
       "label": "Acuarela",
-      "count": 1309
+      "count": 1311
     },
     {
       "id": "8368",
       "label": "Algodón",
-      "count": 202
+      "count": 204
     },
     {
       "id": "8508",
@@ -721,7 +721,7 @@
     {
       "id": "8342",
       "label": "Arcilla",
-      "count": 1672
+      "count": 1673
     },
     {
       "id": "8416",
@@ -736,12 +736,12 @@
     {
       "id": "8343",
       "label": "Bronce",
-      "count": 1861
+      "count": 1854
     },
     {
       "id": "8425",
       "label": "Cartón",
-      "count": 2275
+      "count": 2274
     },
     {
       "id": "8360",
@@ -751,7 +751,7 @@
     {
       "id": "8349",
       "label": "Cerámica",
-      "count": 5253
+      "count": 5357
     },
     {
       "id": "8352",
@@ -776,7 +776,7 @@
     {
       "id": "8355",
       "label": "Cuero (material animal)",
-      "count": 1368
+      "count": 1367
     },
     {
       "id": "8373",
@@ -786,7 +786,7 @@
     {
       "id": "8359",
       "label": "Fibra vegetal",
-      "count": 1105
+      "count": 1106
     },
     {
       "id": "8510",
@@ -811,12 +811,12 @@
     {
       "id": "8354",
       "label": "Hierro",
-      "count": 1127
+      "count": 1126
     },
     {
       "id": "8357",
       "label": "Hilo",
-      "count": 307
+      "count": 300
     },
     {
       "id": "8476",
@@ -856,12 +856,12 @@
     {
       "id": "8344",
       "label": "Madera",
-      "count": 6182
+      "count": 6183
     },
     {
       "id": "8353",
       "label": "Metal",
-      "count": 3839
+      "count": 3841
     },
     {
       "id": "8529",
@@ -871,17 +871,17 @@
     {
       "id": "8374",
       "label": "Oro",
-      "count": 305
+      "count": 302
     },
     {
       "id": "8339",
       "label": "Papel",
-      "count": 14239
+      "count": 14258
     },
     {
       "id": "8336",
       "label": "Piedra",
-      "count": 5304
+      "count": 5306
     },
     {
       "id": "8334",
@@ -901,7 +901,7 @@
     {
       "id": "8398",
       "label": "Porcelana",
-      "count": 455
+      "count": 454
     },
     {
       "id": "8426",
@@ -916,7 +916,7 @@
     {
       "id": "8335",
       "label": "Tela",
-      "count": 4117
+      "count": 4116
     },
     {
       "id": "8449",
@@ -926,7 +926,7 @@
     {
       "id": "8346",
       "label": "Tinta",
-      "count": 6822
+      "count": 6823
     },
     {
       "id": "8351",
@@ -936,7 +936,7 @@
     {
       "id": "8340",
       "label": "Yeso",
-      "count": 477
+      "count": 478
     }
   ],
   "technique": [
@@ -963,7 +963,7 @@
     {
       "id": "12348",
       "label": "Aguatinta",
-      "count": 179
+      "count": 180
     },
     {
       "id": "12447",
@@ -983,7 +983,7 @@
     {
       "id": "12379",
       "label": "Bordado",
-      "count": 303
+      "count": 295
     },
     {
       "id": "12433",
@@ -1033,7 +1033,7 @@
     {
       "id": "12413",
       "label": "Cosido",
-      "count": 863
+      "count": 864
     },
     {
       "id": "12425",
@@ -1083,7 +1083,7 @@
     {
       "id": "12369",
       "label": "Ensamblado",
-      "count": 1729
+      "count": 1730
     },
     {
       "id": "12461",
@@ -1098,7 +1098,7 @@
     {
       "id": "12397",
       "label": "Esmaltado",
-      "count": 578
+      "count": 579
     },
     {
       "id": "12477",
@@ -1118,7 +1118,7 @@
     {
       "id": "12370",
       "label": "Forjado",
-      "count": 753
+      "count": 752
     },
     {
       "id": "12459",
@@ -1133,7 +1133,7 @@
     {
       "id": "12465",
       "label": "Fundición",
-      "count": 2388
+      "count": 2386
     },
     {
       "id": "12464",
@@ -1143,7 +1143,7 @@
     {
       "id": "12374",
       "label": "Grabado",
-      "count": 1202
+      "count": 1216
     },
     {
       "id": "12463",
@@ -1178,7 +1178,7 @@
     {
       "id": "12365",
       "label": "Labrado",
-      "count": 88
+      "count": 87
     },
     {
       "id": "12371",
@@ -1208,12 +1208,12 @@
     {
       "id": "12338",
       "label": "Modelado de cerámica",
-      "count": 4318
+      "count": 4319
     },
     {
       "id": "12368",
       "label": "Moldeado",
-      "count": 1454
+      "count": 1456
     },
     {
       "id": "12470",
@@ -1268,7 +1268,7 @@
     {
       "id": "12360",
       "label": "Policromía",
-      "count": 587
+      "count": 586
     },
     {
       "id": "12453",
@@ -1278,7 +1278,7 @@
     {
       "id": "12350",
       "label": "Pulido",
-      "count": 3091
+      "count": 3093
     },
     {
       "id": "12388",
@@ -1288,7 +1288,7 @@
     {
       "id": "12364",
       "label": "Repujado",
-      "count": 313
+      "count": 312
     },
     {
       "id": "12353",
@@ -1338,7 +1338,7 @@
     {
       "id": "12337",
       "label": "Trenzado",
-      "count": 196
+      "count": 197
     },
     {
       "id": "12396",
@@ -1353,14 +1353,14 @@
     {
       "id": "12347",
       "label": "Xilografía",
-      "count": 354
+      "count": 355
     }
   ],
   "cultura": [
     {
       "id": "14425",
       "label": "Arica",
-      "count": 87
+      "count": 95
     },
     {
       "id": "6378",
@@ -1430,7 +1430,7 @@
     {
       "id": "504",
       "label": "Cultura Arica: Fase San Miguel",
-      "count": 166
+      "count": 160
     },
     {
       "id": "479",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 79037
+      "count": 79072
     },
     {
       "id": "stolen",
