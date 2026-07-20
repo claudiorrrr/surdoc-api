@@ -23,7 +23,7 @@
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 3526
+      "count": 3528
     },
     {
       "id": "23",
@@ -103,7 +103,7 @@
     {
       "id": "19",
       "label": "Museo Regional de Atacama",
-      "count": 867
+      "count": 872
     },
     {
       "id": "13",
@@ -230,7 +230,7 @@
     {
       "id": "551",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 20766
+      "count": 20767
     },
     {
       "id": "555",
@@ -250,7 +250,7 @@
     {
       "id": "561",
       "label": "Textil, Vestuario y Adornos",
-      "count": 5645
+      "count": 5721
     },
     {
       "id": "558",
@@ -260,17 +260,17 @@
     {
       "id": "556",
       "label": "Artes Decorativas",
-      "count": 4791
+      "count": 4789
     },
     {
       "id": "557",
       "label": "Artes Populares y Artesanía",
-      "count": 3752
+      "count": 3756
     },
     {
       "id": "552",
       "label": "Textil, Vestuario y Adornos",
-      "count": 3192
+      "count": 3115
     },
     {
       "id": "563",
@@ -280,12 +280,12 @@
     {
       "id": "559",
       "label": "Mobiliario",
-      "count": 1352
+      "count": 1353
     },
     {
       "id": "562",
       "label": "Culto y Liturgia",
-      "count": 1098
+      "count": 1102
     },
     {
       "id": "570",
@@ -691,7 +691,7 @@
     {
       "id": "8345",
       "label": "Acero",
-      "count": 829
+      "count": 833
     },
     {
       "id": "8386",
@@ -736,7 +736,7 @@
     {
       "id": "8343",
       "label": "Bronce",
-      "count": 1854
+      "count": 1856
     },
     {
       "id": "8425",
@@ -856,12 +856,12 @@
     {
       "id": "8344",
       "label": "Madera",
-      "count": 6183
+      "count": 6187
     },
     {
       "id": "8353",
       "label": "Metal",
-      "count": 3841
+      "count": 3842
     },
     {
       "id": "8529",
@@ -1118,7 +1118,7 @@
     {
       "id": "12370",
       "label": "Forjado",
-      "count": 752
+      "count": 753
     },
     {
       "id": "12459",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 79072
+      "count": 79079
     },
     {
       "id": "stolen",
