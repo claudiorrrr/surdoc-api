@@ -3,7 +3,7 @@
     {
       "id": "4",
       "label": "Museo Histórico Nacional",
-      "count": 25724
+      "count": 25767
     },
     {
       "id": "3",
@@ -23,7 +23,7 @@
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 3528
+      "count": 3536
     },
     {
       "id": "23",
@@ -48,7 +48,7 @@
     {
       "id": "26",
       "label": "Museo Histórico Gabriel González Videla",
-      "count": 1848
+      "count": 1854
     },
     {
       "id": "18",
@@ -63,7 +63,7 @@
     {
       "id": "7",
       "label": "Museo Regional de La Araucanía de Temuco",
-      "count": 1652
+      "count": 1653
     },
     {
       "id": "12",
@@ -98,7 +98,7 @@
     {
       "id": "21",
       "label": "Museo Regional de Ancud",
-      "count": 923
+      "count": 921
     },
     {
       "id": "19",
@@ -118,7 +118,7 @@
     {
       "id": "105",
       "label": "Museo Andino",
-      "count": 607
+      "count": 610
     },
     {
       "id": "15",
@@ -230,32 +230,32 @@
     {
       "id": "551",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 20767
+      "count": 20772
     },
     {
       "id": "555",
       "label": "Artes Visuales",
-      "count": 13944
+      "count": 13948
     },
     {
       "id": "567",
       "label": "Libros y Documentos",
-      "count": 8585
+      "count": 8588
     },
     {
       "id": "560",
       "label": "Numismática, Filatelia y Objetos conmemorativos",
-      "count": 6736
+      "count": 6772
     },
     {
       "id": "561",
       "label": "Textil, Vestuario y Adornos",
-      "count": 5721
+      "count": 5729
     },
     {
       "id": "558",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 5324
+      "count": 5327
     },
     {
       "id": "556",
@@ -275,7 +275,7 @@
     {
       "id": "563",
       "label": "Armas y Armamentos",
-      "count": 1412
+      "count": 1411
     },
     {
       "id": "559",
@@ -320,7 +320,7 @@
     {
       "id": "564",
       "label": "Instrumentos Musicales",
-      "count": 90
+      "count": 91
     },
     {
       "id": "566",
@@ -377,7 +377,7 @@
     {
       "id": "6556",
       "label": "Editorial Zig-Zag",
-      "count": 261
+      "count": 264
     },
     {
       "id": "7823",
@@ -484,7 +484,7 @@
     {
       "id": "3182",
       "label": "Elena Poirier",
-      "count": 707
+      "count": 711
     },
     {
       "id": "6121",
@@ -706,7 +706,7 @@
     {
       "id": "8341",
       "label": "Acuarela",
-      "count": 1311
+      "count": 1314
     },
     {
       "id": "8368",
@@ -736,12 +736,12 @@
     {
       "id": "8343",
       "label": "Bronce",
-      "count": 1856
+      "count": 1859
     },
     {
       "id": "8425",
       "label": "Cartón",
-      "count": 2274
+      "count": 2277
     },
     {
       "id": "8360",
@@ -756,7 +756,7 @@
     {
       "id": "8352",
       "label": "Cobre (metal)",
-      "count": 1178
+      "count": 1180
     },
     {
       "id": "8370",
@@ -776,7 +776,7 @@
     {
       "id": "8355",
       "label": "Cuero (material animal)",
-      "count": 1367
+      "count": 1368
     },
     {
       "id": "8373",
@@ -811,7 +811,7 @@
     {
       "id": "8354",
       "label": "Hierro",
-      "count": 1126
+      "count": 1127
     },
     {
       "id": "8357",
@@ -851,17 +851,17 @@
     {
       "id": "8367",
       "label": "Latón",
-      "count": 226
+      "count": 227
     },
     {
       "id": "8344",
       "label": "Madera",
-      "count": 6187
+      "count": 6189
     },
     {
       "id": "8353",
       "label": "Metal",
-      "count": 3842
+      "count": 3843
     },
     {
       "id": "8529",
@@ -876,12 +876,12 @@
     {
       "id": "8339",
       "label": "Papel",
-      "count": 14258
+      "count": 14264
     },
     {
       "id": "8336",
       "label": "Piedra",
-      "count": 5306
+      "count": 5309
     },
     {
       "id": "8334",
@@ -916,7 +916,7 @@
     {
       "id": "8335",
       "label": "Tela",
-      "count": 4116
+      "count": 4117
     },
     {
       "id": "8449",
@@ -926,12 +926,12 @@
     {
       "id": "8346",
       "label": "Tinta",
-      "count": 6823
+      "count": 6826
     },
     {
       "id": "8351",
       "label": "Vidrio",
-      "count": 1699
+      "count": 1701
     },
     {
       "id": "8340",
@@ -1068,7 +1068,7 @@
     {
       "id": "12455",
       "label": "Encuadernación",
-      "count": 1537
+      "count": 1540
     },
     {
       "id": "12377",
@@ -1098,7 +1098,7 @@
     {
       "id": "12397",
       "label": "Esmaltado",
-      "count": 579
+      "count": 580
     },
     {
       "id": "12477",
@@ -1133,7 +1133,7 @@
     {
       "id": "12465",
       "label": "Fundición",
-      "count": 2386
+      "count": 2388
     },
     {
       "id": "12464",
@@ -1163,7 +1163,7 @@
     {
       "id": "12363",
       "label": "Impresión (técnica gráfica)",
-      "count": 4461
+      "count": 4464
     },
     {
       "id": "12385",
@@ -1208,7 +1208,7 @@
     {
       "id": "12338",
       "label": "Modelado de cerámica",
-      "count": 4319
+      "count": 4320
     },
     {
       "id": "12368",
@@ -1278,7 +1278,7 @@
     {
       "id": "12350",
       "label": "Pulido",
-      "count": 3093
+      "count": 3096
     },
     {
       "id": "12388",
@@ -1303,7 +1303,7 @@
     {
       "id": "12373",
       "label": "Soplado del vidrio",
-      "count": 804
+      "count": 805
     },
     {
       "id": "12420",
@@ -1333,7 +1333,7 @@
     {
       "id": "12342",
       "label": "Torneado",
-      "count": 525
+      "count": 526
     },
     {
       "id": "12337",
@@ -1360,7 +1360,7 @@
     {
       "id": "14425",
       "label": "Arica",
-      "count": 95
+      "count": 98
     },
     {
       "id": "6378",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 79079
+      "count": 79138
     },
     {
       "id": "stolen",
