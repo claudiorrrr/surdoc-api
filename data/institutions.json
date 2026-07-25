@@ -2,12 +2,12 @@
   {
     "id": "4",
     "label": "Museo Histórico Nacional",
-    "count": 25892
+    "count": 25901
   },
   {
     "id": "3",
     "label": "Museo Nacional de Bellas Artes",
-    "count": 6093
+    "count": 6095
   },
   {
     "id": "9",
@@ -17,12 +17,12 @@
   {
     "id": "5",
     "label": "Museo Historia Natural de Valparaíso",
-    "count": 4218
+    "count": 4221
   },
   {
     "id": "16",
     "label": "Museo Regional de Magallanes",
-    "count": 3542
+    "count": 3555
   },
   {
     "id": "23",
@@ -102,7 +102,7 @@
   {
     "id": "19",
     "label": "Museo Regional de Atacama",
-    "count": 872
+    "count": 881
   },
   {
     "id": "13",
@@ -117,7 +117,7 @@
   {
     "id": "105",
     "label": "Museo Andino",
-    "count": 617
+    "count": 622
   },
   {
     "id": "15",
