@@ -3,7 +3,7 @@
     {
       "id": "4",
       "label": "Museo Histórico Nacional",
-      "count": 25901
+      "count": 25900
     },
     {
       "id": "3",
@@ -23,7 +23,7 @@
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 3555
+      "count": 3558
     },
     {
       "id": "23",
@@ -33,7 +33,7 @@
     {
       "id": "11",
       "label": "Museo Regional de Rancagua",
-      "count": 2734
+      "count": 2735
     },
     {
       "id": "6",
@@ -103,7 +103,7 @@
     {
       "id": "19",
       "label": "Museo Regional de Atacama",
-      "count": 881
+      "count": 882
     },
     {
       "id": "13",
@@ -118,7 +118,7 @@
     {
       "id": "105",
       "label": "Museo Andino",
-      "count": 622
+      "count": 630
     },
     {
       "id": "15",
@@ -230,7 +230,7 @@
     {
       "id": "551",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 20784
+      "count": 20790
     },
     {
       "id": "555",
@@ -250,27 +250,27 @@
     {
       "id": "561",
       "label": "Textil, Vestuario y Adornos",
-      "count": 5781
+      "count": 5797
     },
     {
       "id": "558",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 5334
+      "count": 5326
     },
     {
       "id": "556",
       "label": "Artes Decorativas",
-      "count": 4790
+      "count": 4789
     },
     {
       "id": "557",
       "label": "Artes Populares y Artesanía",
-      "count": 3759
+      "count": 3760
     },
     {
       "id": "552",
       "label": "Textil, Vestuario y Adornos",
-      "count": 3120
+      "count": 3122
     },
     {
       "id": "563",
@@ -310,7 +310,7 @@
     {
       "id": "565",
       "label": "Deportes, Juguetes y Juegos",
-      "count": 305
+      "count": 301
     },
     {
       "id": "553",
@@ -751,7 +751,7 @@
     {
       "id": "8349",
       "label": "Cerámica",
-      "count": 5357
+      "count": 5356
     },
     {
       "id": "8352",
@@ -786,7 +786,7 @@
     {
       "id": "8359",
       "label": "Fibra vegetal",
-      "count": 1106
+      "count": 1105
     },
     {
       "id": "8510",
@@ -826,7 +826,7 @@
     {
       "id": "8347",
       "label": "Hueso (material animal orgánico)",
-      "count": 2224
+      "count": 2228
     },
     {
       "id": "8533",
@@ -836,7 +836,7 @@
     {
       "id": "8447",
       "label": "Lana",
-      "count": 668
+      "count": 669
     },
     {
       "id": "8540",
@@ -856,7 +856,7 @@
     {
       "id": "8344",
       "label": "Madera",
-      "count": 6198
+      "count": 6200
     },
     {
       "id": "8353",
@@ -881,7 +881,7 @@
     {
       "id": "8336",
       "label": "Piedra",
-      "count": 5310
+      "count": 5311
     },
     {
       "id": "8334",
@@ -931,7 +931,7 @@
     {
       "id": "8351",
       "label": "Vidrio",
-      "count": 1701
+      "count": 1700
     },
     {
       "id": "8340",
@@ -983,7 +983,7 @@
     {
       "id": "12379",
       "label": "Bordado",
-      "count": 298
+      "count": 299
     },
     {
       "id": "12433",
@@ -1083,7 +1083,7 @@
     {
       "id": "12369",
       "label": "Ensamblado",
-      "count": 1732
+      "count": 1733
     },
     {
       "id": "12461",
@@ -1098,7 +1098,7 @@
     {
       "id": "12397",
       "label": "Esmaltado",
-      "count": 580
+      "count": 581
     },
     {
       "id": "12477",
@@ -1268,7 +1268,7 @@
     {
       "id": "12360",
       "label": "Policromía",
-      "count": 586
+      "count": 588
     },
     {
       "id": "12453",
@@ -1278,7 +1278,7 @@
     {
       "id": "12350",
       "label": "Pulido",
-      "count": 3103
+      "count": 3105
     },
     {
       "id": "12388",
@@ -1308,7 +1308,7 @@
     {
       "id": "12420",
       "label": "Tallado",
-      "count": 8382
+      "count": 8388
     },
     {
       "id": "12383",
@@ -1323,7 +1323,7 @@
     {
       "id": "12343",
       "label": "Tejido",
-      "count": 1475
+      "count": 1474
     },
     {
       "id": "12429",
@@ -1360,7 +1360,7 @@
     {
       "id": "14425",
       "label": "Arica",
-      "count": 102
+      "count": 103
     },
     {
       "id": "6378",
@@ -1480,7 +1480,7 @@
     {
       "id": "13551",
       "label": "Inca",
-      "count": 75
+      "count": 76
     },
     {
       "id": "6387",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 79340
+      "count": 79352
     },
     {
       "id": "stolen",
