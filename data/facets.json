@@ -3,7 +3,7 @@
     {
       "id": "4",
       "label": "Museo Histórico Nacional",
-      "count": 25900
+      "count": 25961
     },
     {
       "id": "3",
@@ -118,7 +118,7 @@
     {
       "id": "105",
       "label": "Museo Andino",
-      "count": 630
+      "count": 638
     },
     {
       "id": "15",
@@ -230,7 +230,7 @@
     {
       "id": "551",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 20790
+      "count": 20793
     },
     {
       "id": "555",
@@ -245,7 +245,7 @@
     {
       "id": "560",
       "label": "Numismática, Filatelia y Objetos conmemorativos",
-      "count": 6864
+      "count": 6923
     },
     {
       "id": "561",
@@ -255,7 +255,7 @@
     {
       "id": "558",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 5326
+      "count": 5328
     },
     {
       "id": "556",
@@ -270,7 +270,7 @@
     {
       "id": "552",
       "label": "Textil, Vestuario y Adornos",
-      "count": 3122
+      "count": 3127
     },
     {
       "id": "563",
@@ -332,7 +332,7 @@
     {
       "id": "7217",
       "label": "Casa de Moneda de Chile",
-      "count": 141
+      "count": 142
     },
     {
       "id": "6498",
@@ -711,7 +711,7 @@
     {
       "id": "8368",
       "label": "Algodón",
-      "count": 211
+      "count": 213
     },
     {
       "id": "8508",
@@ -736,7 +736,7 @@
     {
       "id": "8343",
       "label": "Bronce",
-      "count": 1859
+      "count": 1860
     },
     {
       "id": "8425",
@@ -756,7 +756,7 @@
     {
       "id": "8352",
       "label": "Cobre (metal)",
-      "count": 1182
+      "count": 1183
     },
     {
       "id": "8370",
@@ -786,7 +786,7 @@
     {
       "id": "8359",
       "label": "Fibra vegetal",
-      "count": 1105
+      "count": 1106
     },
     {
       "id": "8510",
@@ -836,7 +836,7 @@
     {
       "id": "8447",
       "label": "Lana",
-      "count": 669
+      "count": 670
     },
     {
       "id": "8540",
@@ -856,12 +856,12 @@
     {
       "id": "8344",
       "label": "Madera",
-      "count": 6200
+      "count": 6201
     },
     {
       "id": "8353",
       "label": "Metal",
-      "count": 3849
+      "count": 3850
     },
     {
       "id": "8529",
@@ -881,7 +881,7 @@
     {
       "id": "8336",
       "label": "Piedra",
-      "count": 5311
+      "count": 5312
     },
     {
       "id": "8334",
@@ -891,7 +891,7 @@
     {
       "id": "8387",
       "label": "Plástico",
-      "count": 638
+      "count": 639
     },
     {
       "id": "8337",
@@ -953,7 +953,7 @@
     {
       "id": "12366",
       "label": "Acuñación",
-      "count": 2692
+      "count": 2693
     },
     {
       "id": "12356",
@@ -1083,7 +1083,7 @@
     {
       "id": "12369",
       "label": "Ensamblado",
-      "count": 1733
+      "count": 1734
     },
     {
       "id": "12461",
@@ -1278,7 +1278,7 @@
     {
       "id": "12350",
       "label": "Pulido",
-      "count": 3105
+      "count": 3110
     },
     {
       "id": "12388",
@@ -1308,7 +1308,7 @@
     {
       "id": "12420",
       "label": "Tallado",
-      "count": 8388
+      "count": 8389
     },
     {
       "id": "12383",
@@ -1400,7 +1400,7 @@
     {
       "id": "476",
       "label": "Complejo Huentelauquén",
-      "count": 99
+      "count": 102
     },
     {
       "id": "482",
@@ -1480,7 +1480,7 @@
     {
       "id": "13551",
       "label": "Inca",
-      "count": 76
+      "count": 77
     },
     {
       "id": "6387",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 79352
+      "count": 79421
     },
     {
       "id": "stolen",
