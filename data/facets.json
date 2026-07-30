@@ -3,12 +3,12 @@
     {
       "id": "4",
       "label": "Museo Histórico Nacional",
-      "count": 25961
+      "count": 25999
     },
     {
       "id": "3",
       "label": "Museo Nacional de Bellas Artes",
-      "count": 6095
+      "count": 6097
     },
     {
       "id": "9",
@@ -18,12 +18,12 @@
     {
       "id": "5",
       "label": "Museo Historia Natural de Valparaíso",
-      "count": 4221
+      "count": 4222
     },
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 3558
+      "count": 3546
     },
     {
       "id": "23",
@@ -118,7 +118,7 @@
     {
       "id": "105",
       "label": "Museo Andino",
-      "count": 638
+      "count": 647
     },
     {
       "id": "15",
@@ -153,7 +153,7 @@
     {
       "id": "48",
       "label": "Presidencia de la República de Chile",
-      "count": 278
+      "count": 280
     },
     {
       "id": "83",
@@ -230,12 +230,12 @@
     {
       "id": "551",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 20793
+      "count": 20800
     },
     {
       "id": "555",
       "label": "Artes Visuales",
-      "count": 13967
+      "count": 13969
     },
     {
       "id": "567",
@@ -245,7 +245,7 @@
     {
       "id": "560",
       "label": "Numismática, Filatelia y Objetos conmemorativos",
-      "count": 6923
+      "count": 6961
     },
     {
       "id": "561",
@@ -255,7 +255,7 @@
     {
       "id": "558",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 5328
+      "count": 5317
     },
     {
       "id": "556",
@@ -265,12 +265,12 @@
     {
       "id": "557",
       "label": "Artes Populares y Artesanía",
-      "count": 3760
+      "count": 3761
     },
     {
       "id": "552",
       "label": "Textil, Vestuario y Adornos",
-      "count": 3127
+      "count": 3129
     },
     {
       "id": "563",
@@ -280,7 +280,7 @@
     {
       "id": "559",
       "label": "Mobiliario",
-      "count": 1353
+      "count": 1355
     },
     {
       "id": "562",
@@ -300,7 +300,7 @@
     {
       "id": "569",
       "label": "Otros",
-      "count": 498
+      "count": 497
     },
     {
       "id": "568",
@@ -474,7 +474,7 @@
     {
       "id": "1553",
       "label": "Desconocido/a",
-      "count": 4840
+      "count": 4841
     },
     {
       "id": "12825",
@@ -701,7 +701,7 @@
     {
       "id": "8390",
       "label": "Acrílico",
-      "count": 212
+      "count": 213
     },
     {
       "id": "8341",
@@ -721,7 +721,7 @@
     {
       "id": "8342",
       "label": "Arcilla",
-      "count": 1676
+      "count": 1677
     },
     {
       "id": "8416",
@@ -761,7 +761,7 @@
     {
       "id": "8370",
       "label": "Concha",
-      "count": 499
+      "count": 501
     },
     {
       "id": "8532",
@@ -771,12 +771,12 @@
     {
       "id": "8522",
       "label": "Cuarzo",
-      "count": 202
+      "count": 208
     },
     {
       "id": "8355",
       "label": "Cuero (material animal)",
-      "count": 1370
+      "count": 1371
     },
     {
       "id": "8373",
@@ -826,7 +826,7 @@
     {
       "id": "8347",
       "label": "Hueso (material animal orgánico)",
-      "count": 2228
+      "count": 2229
     },
     {
       "id": "8533",
@@ -836,7 +836,7 @@
     {
       "id": "8447",
       "label": "Lana",
-      "count": 670
+      "count": 676
     },
     {
       "id": "8540",
@@ -856,7 +856,7 @@
     {
       "id": "8344",
       "label": "Madera",
-      "count": 6201
+      "count": 6209
     },
     {
       "id": "8353",
@@ -886,7 +886,7 @@
     {
       "id": "8334",
       "label": "Pintura al óleo",
-      "count": 3101
+      "count": 3102
     },
     {
       "id": "8387",
@@ -916,7 +916,7 @@
     {
       "id": "8335",
       "label": "Tela",
-      "count": 4119
+      "count": 4120
     },
     {
       "id": "8449",
@@ -1018,7 +1018,7 @@
     {
       "id": "12407",
       "label": "Cocción",
-      "count": 322
+      "count": 323
     },
     {
       "id": "12351",
@@ -1073,7 +1073,7 @@
     {
       "id": "12377",
       "label": "Engobe",
-      "count": 631
+      "count": 632
     },
     {
       "id": "12460",
@@ -1208,7 +1208,7 @@
     {
       "id": "12338",
       "label": "Modelado de cerámica",
-      "count": 4323
+      "count": 4324
     },
     {
       "id": "12368",
@@ -1248,12 +1248,12 @@
     {
       "id": "12378",
       "label": "Pintura",
-      "count": 1331
+      "count": 1332
     },
     {
       "id": "12414",
       "label": "Pintura al óleo",
-      "count": 1430
+      "count": 1431
     },
     {
       "id": "12475",
@@ -1278,7 +1278,7 @@
     {
       "id": "12350",
       "label": "Pulido",
-      "count": 3110
+      "count": 3111
     },
     {
       "id": "12388",
@@ -1440,7 +1440,7 @@
     {
       "id": "477",
       "label": "Cultura El Molle",
-      "count": 430
+      "count": 431
     },
     {
       "id": "484",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 79421
+      "count": 79461
     },
     {
       "id": "stolen",
