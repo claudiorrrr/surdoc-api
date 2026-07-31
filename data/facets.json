@@ -3,7 +3,7 @@
     {
       "id": "4",
       "label": "Museo Histórico Nacional",
-      "count": 25999
+      "count": 26030
     },
     {
       "id": "3",
@@ -23,7 +23,7 @@
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 3546
+      "count": 3528
     },
     {
       "id": "23",
@@ -118,7 +118,7 @@
     {
       "id": "105",
       "label": "Museo Andino",
-      "count": 647
+      "count": 654
     },
     {
       "id": "15",
@@ -230,7 +230,7 @@
     {
       "id": "551",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 20800
+      "count": 20803
     },
     {
       "id": "555",
@@ -245,7 +245,7 @@
     {
       "id": "560",
       "label": "Numismática, Filatelia y Objetos conmemorativos",
-      "count": 6961
+      "count": 6991
     },
     {
       "id": "561",
@@ -255,7 +255,7 @@
     {
       "id": "558",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 5317
+      "count": 5308
     },
     {
       "id": "556",
@@ -270,7 +270,7 @@
     {
       "id": "552",
       "label": "Textil, Vestuario y Adornos",
-      "count": 3129
+      "count": 3133
     },
     {
       "id": "563",
@@ -280,7 +280,7 @@
     {
       "id": "559",
       "label": "Mobiliario",
-      "count": 1355
+      "count": 1356
     },
     {
       "id": "562",
@@ -300,7 +300,7 @@
     {
       "id": "569",
       "label": "Otros",
-      "count": 497
+      "count": 488
     },
     {
       "id": "568",
@@ -771,7 +771,7 @@
     {
       "id": "8522",
       "label": "Cuarzo",
-      "count": 208
+      "count": 209
     },
     {
       "id": "8355",
@@ -836,7 +836,7 @@
     {
       "id": "8447",
       "label": "Lana",
-      "count": 676
+      "count": 678
     },
     {
       "id": "8540",
@@ -856,12 +856,12 @@
     {
       "id": "8344",
       "label": "Madera",
-      "count": 6209
+      "count": 6212
     },
     {
       "id": "8353",
       "label": "Metal",
-      "count": 3850
+      "count": 3851
     },
     {
       "id": "8529",
@@ -881,7 +881,7 @@
     {
       "id": "8336",
       "label": "Piedra",
-      "count": 5312
+      "count": 5321
     },
     {
       "id": "8334",
@@ -1083,7 +1083,7 @@
     {
       "id": "12369",
       "label": "Ensamblado",
-      "count": 1734
+      "count": 1735
     },
     {
       "id": "12461",
@@ -1278,7 +1278,7 @@
     {
       "id": "12350",
       "label": "Pulido",
-      "count": 3111
+      "count": 3116
     },
     {
       "id": "12388",
@@ -1400,7 +1400,7 @@
     {
       "id": "476",
       "label": "Complejo Huentelauquén",
-      "count": 102
+      "count": 107
     },
     {
       "id": "482",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 79461
+      "count": 79481
     },
     {
       "id": "stolen",
