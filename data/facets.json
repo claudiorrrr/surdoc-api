@@ -3,7 +3,7 @@
     {
       "id": "4",
       "label": "Museo Histórico Nacional",
-      "count": 26030
+      "count": 26075
     },
     {
       "id": "3",
@@ -23,7 +23,7 @@
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 3528
+      "count": 3540
     },
     {
       "id": "23",
@@ -43,7 +43,7 @@
     {
       "id": "2",
       "label": "Museo Nacional de Historia Natural",
-      "count": 2419
+      "count": 2420
     },
     {
       "id": "26",
@@ -118,7 +118,7 @@
     {
       "id": "105",
       "label": "Museo Andino",
-      "count": 654
+      "count": 663
     },
     {
       "id": "15",
@@ -230,12 +230,12 @@
     {
       "id": "551",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 20803
+      "count": 20805
     },
     {
       "id": "555",
       "label": "Artes Visuales",
-      "count": 13969
+      "count": 14007
     },
     {
       "id": "567",
@@ -245,17 +245,17 @@
     {
       "id": "560",
       "label": "Numismática, Filatelia y Objetos conmemorativos",
-      "count": 6991
+      "count": 6998
     },
     {
       "id": "561",
       "label": "Textil, Vestuario y Adornos",
-      "count": 5797
+      "count": 5810
     },
     {
       "id": "558",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 5308
+      "count": 5307
     },
     {
       "id": "556",
@@ -270,7 +270,7 @@
     {
       "id": "552",
       "label": "Textil, Vestuario y Adornos",
-      "count": 3133
+      "count": 3141
     },
     {
       "id": "563",
@@ -474,7 +474,7 @@
     {
       "id": "1553",
       "label": "Desconocido/a",
-      "count": 4841
+      "count": 4845
     },
     {
       "id": "12825",
@@ -599,7 +599,7 @@
     {
       "id": "1659",
       "label": "Narciso Desmadryl",
-      "count": 59
+      "count": 72
     },
     {
       "id": "1945",
@@ -761,7 +761,7 @@
     {
       "id": "8370",
       "label": "Concha",
-      "count": 501
+      "count": 509
     },
     {
       "id": "8532",
@@ -786,7 +786,7 @@
     {
       "id": "8359",
       "label": "Fibra vegetal",
-      "count": 1106
+      "count": 1107
     },
     {
       "id": "8510",
@@ -826,7 +826,7 @@
     {
       "id": "8347",
       "label": "Hueso (material animal orgánico)",
-      "count": 2229
+      "count": 2230
     },
     {
       "id": "8533",
@@ -1308,7 +1308,7 @@
     {
       "id": "12420",
       "label": "Tallado",
-      "count": 8389
+      "count": 8397
     },
     {
       "id": "12383",
@@ -1480,7 +1480,7 @@
     {
       "id": "13551",
       "label": "Inca",
-      "count": 77
+      "count": 89
     },
     {
       "id": "6387",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 79481
+      "count": 79548
     },
     {
       "id": "stolen",
