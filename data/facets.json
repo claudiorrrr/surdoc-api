@@ -3,12 +3,12 @@
     {
       "id": "4",
       "label": "Museo Histórico Nacional",
-      "count": 26085
+      "count": 26112
     },
     {
       "id": "3",
       "label": "Museo Nacional de Bellas Artes",
-      "count": 6099
+      "count": 6101
     },
     {
       "id": "9",
@@ -23,7 +23,7 @@
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 3561
+      "count": 3559
     },
     {
       "id": "23",
@@ -73,7 +73,7 @@
     {
       "id": "8",
       "label": "Museo O'Higginiano y de Bellas Artes de Talca",
-      "count": 1608
+      "count": 1605
     },
     {
       "id": "17",
@@ -230,12 +230,12 @@
     {
       "id": "551",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 20805
+      "count": 20803
     },
     {
       "id": "555",
       "label": "Artes Visuales",
-      "count": 14006
+      "count": 14030
     },
     {
       "id": "567",
@@ -245,7 +245,7 @@
     {
       "id": "560",
       "label": "Numismática, Filatelia y Objetos conmemorativos",
-      "count": 6999
+      "count": 7000
     },
     {
       "id": "561",
@@ -255,12 +255,12 @@
     {
       "id": "558",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 5310
+      "count": 5309
     },
     {
       "id": "556",
       "label": "Artes Decorativas",
-      "count": 4790
+      "count": 4792
     },
     {
       "id": "557",
@@ -474,7 +474,7 @@
     {
       "id": "1553",
       "label": "Desconocido/a",
-      "count": 4841
+      "count": 4861
     },
     {
       "id": "12825",
@@ -736,12 +736,12 @@
     {
       "id": "8343",
       "label": "Bronce",
-      "count": 1861
+      "count": 1859
     },
     {
       "id": "8425",
       "label": "Cartón",
-      "count": 2287
+      "count": 2286
     },
     {
       "id": "8360",
@@ -776,7 +776,7 @@
     {
       "id": "8355",
       "label": "Cuero (material animal)",
-      "count": 1372
+      "count": 1371
     },
     {
       "id": "8373",
@@ -856,12 +856,12 @@
     {
       "id": "8344",
       "label": "Madera",
-      "count": 6213
+      "count": 6212
     },
     {
       "id": "8353",
       "label": "Metal",
-      "count": 3851
+      "count": 3849
     },
     {
       "id": "8529",
@@ -886,7 +886,7 @@
     {
       "id": "8334",
       "label": "Pintura al óleo",
-      "count": 3104
+      "count": 3102
     },
     {
       "id": "8387",
@@ -901,7 +901,7 @@
     {
       "id": "8398",
       "label": "Porcelana",
-      "count": 454
+      "count": 456
     },
     {
       "id": "8426",
@@ -921,7 +921,7 @@
     {
       "id": "8449",
       "label": "Terciopelo",
-      "count": 209
+      "count": 211
     },
     {
       "id": "8346",
@@ -1098,7 +1098,7 @@
     {
       "id": "12397",
       "label": "Esmaltado",
-      "count": 581
+      "count": 583
     },
     {
       "id": "12477",
@@ -1208,7 +1208,7 @@
     {
       "id": "12338",
       "label": "Modelado de cerámica",
-      "count": 4326
+      "count": 4328
     },
     {
       "id": "12368",
@@ -1308,12 +1308,12 @@
     {
       "id": "12420",
       "label": "Tallado",
-      "count": 8398
+      "count": 8400
     },
     {
       "id": "12383",
       "label": "Tapizado",
-      "count": 194
+      "count": 196
     },
     {
       "id": "12466",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 79580
+      "count": 79604
     },
     {
       "id": "stolen",
