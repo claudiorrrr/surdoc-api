@@ -3,12 +3,12 @@
     {
       "id": "4",
       "label": "Museo Histórico Nacional",
-      "count": 26112
+      "count": 26117
     },
     {
       "id": "3",
       "label": "Museo Nacional de Bellas Artes",
-      "count": 6101
+      "count": 6100
     },
     {
       "id": "9",
@@ -18,12 +18,12 @@
     {
       "id": "5",
       "label": "Museo Historia Natural de Valparaíso",
-      "count": 4224
+      "count": 4225
     },
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 3559
+      "count": 3584
     },
     {
       "id": "23",
@@ -43,7 +43,7 @@
     {
       "id": "2",
       "label": "Museo Nacional de Historia Natural",
-      "count": 2420
+      "count": 2421
     },
     {
       "id": "26",
@@ -88,7 +88,7 @@
     {
       "id": "30",
       "label": "Pinacoteca Universidad de Concepción",
-      "count": 1463
+      "count": 1464
     },
     {
       "id": "31",
@@ -230,7 +230,7 @@
     {
       "id": "551",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 20803
+      "count": 20804
     },
     {
       "id": "555",
@@ -240,7 +240,7 @@
     {
       "id": "567",
       "label": "Libros y Documentos",
-      "count": 8598
+      "count": 8623
     },
     {
       "id": "560",
@@ -250,7 +250,7 @@
     {
       "id": "561",
       "label": "Textil, Vestuario y Adornos",
-      "count": 5834
+      "count": 5839
     },
     {
       "id": "558",
@@ -265,7 +265,7 @@
     {
       "id": "557",
       "label": "Artes Populares y Artesanía",
-      "count": 3762
+      "count": 3763
     },
     {
       "id": "552",
@@ -377,7 +377,7 @@
     {
       "id": "6556",
       "label": "Editorial Zig-Zag",
-      "count": 273
+      "count": 278
     },
     {
       "id": "7823",
@@ -721,7 +721,7 @@
     {
       "id": "8342",
       "label": "Arcilla",
-      "count": 1679
+      "count": 1680
     },
     {
       "id": "8416",
@@ -741,7 +741,7 @@
     {
       "id": "8425",
       "label": "Cartón",
-      "count": 2286
+      "count": 2287
     },
     {
       "id": "8360",
@@ -761,7 +761,7 @@
     {
       "id": "8370",
       "label": "Concha",
-      "count": 509
+      "count": 510
     },
     {
       "id": "8532",
@@ -856,7 +856,7 @@
     {
       "id": "8344",
       "label": "Madera",
-      "count": 6212
+      "count": 6211
     },
     {
       "id": "8353",
@@ -876,7 +876,7 @@
     {
       "id": "8339",
       "label": "Papel",
-      "count": 14275
+      "count": 14299
     },
     {
       "id": "8336",
@@ -886,7 +886,7 @@
     {
       "id": "8334",
       "label": "Pintura al óleo",
-      "count": 3102
+      "count": 3101
     },
     {
       "id": "8387",
@@ -926,7 +926,7 @@
     {
       "id": "8346",
       "label": "Tinta",
-      "count": 6836
+      "count": 6841
     },
     {
       "id": "8351",
@@ -1018,7 +1018,7 @@
     {
       "id": "12407",
       "label": "Cocción",
-      "count": 325
+      "count": 326
     },
     {
       "id": "12351",
@@ -1068,12 +1068,12 @@
     {
       "id": "12455",
       "label": "Encuadernación",
-      "count": 1549
+      "count": 1554
     },
     {
       "id": "12377",
       "label": "Engobe",
-      "count": 634
+      "count": 635
     },
     {
       "id": "12460",
@@ -1163,7 +1163,7 @@
     {
       "id": "12363",
       "label": "Impresión (técnica gráfica)",
-      "count": 4481
+      "count": 4486
     },
     {
       "id": "12385",
@@ -1208,7 +1208,7 @@
     {
       "id": "12338",
       "label": "Modelado de cerámica",
-      "count": 4328
+      "count": 4329
     },
     {
       "id": "12368",
@@ -1278,7 +1278,7 @@
     {
       "id": "12350",
       "label": "Pulido",
-      "count": 3116
+      "count": 3117
     },
     {
       "id": "12388",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 79604
+      "count": 79636
     },
     {
       "id": "stolen",
