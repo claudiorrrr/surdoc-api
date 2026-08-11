@@ -3,27 +3,27 @@
     {
       "id": "4",
       "label": "Museo Histórico Nacional",
-      "count": 26117
+      "count": 26131
     },
     {
       "id": "3",
       "label": "Museo Nacional de Bellas Artes",
-      "count": 6100
+      "count": 6101
     },
     {
       "id": "9",
       "label": "Museo Arqueológico de La Serena",
-      "count": 4278
+      "count": 4282
     },
     {
       "id": "5",
       "label": "Museo Historia Natural de Valparaíso",
-      "count": 4225
+      "count": 4231
     },
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 3584
+      "count": 3583
     },
     {
       "id": "23",
@@ -73,7 +73,7 @@
     {
       "id": "8",
       "label": "Museo O'Higginiano y de Bellas Artes de Talca",
-      "count": 1605
+      "count": 1604
     },
     {
       "id": "17",
@@ -118,7 +118,7 @@
     {
       "id": "105",
       "label": "Museo Andino",
-      "count": 663
+      "count": 664
     },
     {
       "id": "15",
@@ -230,7 +230,7 @@
     {
       "id": "551",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 20804
+      "count": 20809
     },
     {
       "id": "555",
@@ -240,7 +240,7 @@
     {
       "id": "567",
       "label": "Libros y Documentos",
-      "count": 8623
+      "count": 8637
     },
     {
       "id": "560",
@@ -255,7 +255,7 @@
     {
       "id": "558",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 5309
+      "count": 5308
     },
     {
       "id": "556",
@@ -265,7 +265,7 @@
     {
       "id": "557",
       "label": "Artes Populares y Artesanía",
-      "count": 3763
+      "count": 3769
     },
     {
       "id": "552",
@@ -377,7 +377,7 @@
     {
       "id": "6556",
       "label": "Editorial Zig-Zag",
-      "count": 278
+      "count": 292
     },
     {
       "id": "7823",
@@ -706,7 +706,7 @@
     {
       "id": "8341",
       "label": "Acuarela",
-      "count": 1316
+      "count": 1317
     },
     {
       "id": "8368",
@@ -721,7 +721,7 @@
     {
       "id": "8342",
       "label": "Arcilla",
-      "count": 1680
+      "count": 1686
     },
     {
       "id": "8416",
@@ -736,12 +736,12 @@
     {
       "id": "8343",
       "label": "Bronce",
-      "count": 1859
+      "count": 1858
     },
     {
       "id": "8425",
       "label": "Cartón",
-      "count": 2287
+      "count": 2299
     },
     {
       "id": "8360",
@@ -876,7 +876,7 @@
     {
       "id": "8339",
       "label": "Papel",
-      "count": 14299
+      "count": 14313
     },
     {
       "id": "8336",
@@ -926,7 +926,7 @@
     {
       "id": "8346",
       "label": "Tinta",
-      "count": 6841
+      "count": 6855
     },
     {
       "id": "8351",
@@ -968,7 +968,7 @@
     {
       "id": "12447",
       "label": "Alisado",
-      "count": 1103
+      "count": 1104
     },
     {
       "id": "12400",
@@ -1018,7 +1018,7 @@
     {
       "id": "12407",
       "label": "Cocción",
-      "count": 326
+      "count": 332
     },
     {
       "id": "12351",
@@ -1068,12 +1068,12 @@
     {
       "id": "12455",
       "label": "Encuadernación",
-      "count": 1554
+      "count": 1568
     },
     {
       "id": "12377",
       "label": "Engobe",
-      "count": 635
+      "count": 641
     },
     {
       "id": "12460",
@@ -1133,7 +1133,7 @@
     {
       "id": "12465",
       "label": "Fundición",
-      "count": 2390
+      "count": 2389
     },
     {
       "id": "12464",
@@ -1163,7 +1163,7 @@
     {
       "id": "12363",
       "label": "Impresión (técnica gráfica)",
-      "count": 4486
+      "count": 4500
     },
     {
       "id": "12385",
@@ -1208,7 +1208,7 @@
     {
       "id": "12338",
       "label": "Modelado de cerámica",
-      "count": 4329
+      "count": 4336
     },
     {
       "id": "12368",
@@ -1308,7 +1308,7 @@
     {
       "id": "12420",
       "label": "Tallado",
-      "count": 8400
+      "count": 8399
     },
     {
       "id": "12383",
@@ -1360,7 +1360,7 @@
     {
       "id": "14425",
       "label": "Arica",
-      "count": 104
+      "count": 105
     },
     {
       "id": "6378",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 79636
+      "count": 79660
     },
     {
       "id": "stolen",
