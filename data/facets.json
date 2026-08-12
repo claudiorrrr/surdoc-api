@@ -18,12 +18,12 @@
     {
       "id": "5",
       "label": "Museo Historia Natural de Valparaíso",
-      "count": 4231
+      "count": 4232
     },
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 3583
+      "count": 3584
     },
     {
       "id": "23",
@@ -260,12 +260,12 @@
     {
       "id": "556",
       "label": "Artes Decorativas",
-      "count": 4792
+      "count": 4793
     },
     {
       "id": "557",
       "label": "Artes Populares y Artesanía",
-      "count": 3769
+      "count": 3770
     },
     {
       "id": "552",
@@ -721,7 +721,7 @@
     {
       "id": "8342",
       "label": "Arcilla",
-      "count": 1686
+      "count": 1687
     },
     {
       "id": "8416",
@@ -736,7 +736,7 @@
     {
       "id": "8343",
       "label": "Bronce",
-      "count": 1858
+      "count": 1859
     },
     {
       "id": "8425",
@@ -836,7 +836,7 @@
     {
       "id": "8447",
       "label": "Lana",
-      "count": 678
+      "count": 677
     },
     {
       "id": "8540",
@@ -876,7 +876,7 @@
     {
       "id": "8339",
       "label": "Papel",
-      "count": 14313
+      "count": 14314
     },
     {
       "id": "8336",
@@ -1018,7 +1018,7 @@
     {
       "id": "12407",
       "label": "Cocción",
-      "count": 332
+      "count": 333
     },
     {
       "id": "12351",
@@ -1073,7 +1073,7 @@
     {
       "id": "12377",
       "label": "Engobe",
-      "count": 641
+      "count": 642
     },
     {
       "id": "12460",
@@ -1133,7 +1133,7 @@
     {
       "id": "12465",
       "label": "Fundición",
-      "count": 2389
+      "count": 2390
     },
     {
       "id": "12464",
@@ -1208,7 +1208,7 @@
     {
       "id": "12338",
       "label": "Modelado de cerámica",
-      "count": 4336
+      "count": 4337
     },
     {
       "id": "12368",
@@ -1308,7 +1308,7 @@
     {
       "id": "12420",
       "label": "Tallado",
-      "count": 8399
+      "count": 8400
     },
     {
       "id": "12383",
@@ -1323,7 +1323,7 @@
     {
       "id": "12343",
       "label": "Tejido",
-      "count": 1474
+      "count": 1473
     },
     {
       "id": "12429",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 79660
+      "count": 79662
     },
     {
       "id": "stolen",
