@@ -3,17 +3,17 @@
     {
       "id": "4",
       "label": "Museo Histórico Nacional",
-      "count": 26131
+      "count": 26132
     },
     {
       "id": "3",
       "label": "Museo Nacional de Bellas Artes",
-      "count": 6101
+      "count": 6102
     },
     {
       "id": "9",
       "label": "Museo Arqueológico de La Serena",
-      "count": 4282
+      "count": 4286
     },
     {
       "id": "5",
@@ -23,7 +23,7 @@
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 3584
+      "count": 3470
     },
     {
       "id": "23",
@@ -230,12 +230,12 @@
     {
       "id": "551",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 20809
+      "count": 20812
     },
     {
       "id": "555",
       "label": "Artes Visuales",
-      "count": 14030
+      "count": 14031
     },
     {
       "id": "567",
@@ -250,17 +250,17 @@
     {
       "id": "561",
       "label": "Textil, Vestuario y Adornos",
-      "count": 5839
+      "count": 5805
     },
     {
       "id": "558",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 5308
+      "count": 5286
     },
     {
       "id": "556",
       "label": "Artes Decorativas",
-      "count": 4793
+      "count": 4778
     },
     {
       "id": "557",
@@ -270,7 +270,7 @@
     {
       "id": "552",
       "label": "Textil, Vestuario y Adornos",
-      "count": 3141
+      "count": 3142
     },
     {
       "id": "563",
@@ -280,7 +280,7 @@
     {
       "id": "559",
       "label": "Mobiliario",
-      "count": 1359
+      "count": 1330
     },
     {
       "id": "562",
@@ -310,7 +310,7 @@
     {
       "id": "565",
       "label": "Deportes, Juguetes y Juegos",
-      "count": 301
+      "count": 288
     },
     {
       "id": "553",
@@ -711,7 +711,7 @@
     {
       "id": "8368",
       "label": "Algodón",
-      "count": 219
+      "count": 215
     },
     {
       "id": "8508",
@@ -736,12 +736,12 @@
     {
       "id": "8343",
       "label": "Bronce",
-      "count": 1859
+      "count": 1832
     },
     {
       "id": "8425",
       "label": "Cartón",
-      "count": 2299
+      "count": 2300
     },
     {
       "id": "8360",
@@ -756,7 +756,7 @@
     {
       "id": "8352",
       "label": "Cobre (metal)",
-      "count": 1183
+      "count": 1182
     },
     {
       "id": "8370",
@@ -776,7 +776,7 @@
     {
       "id": "8355",
       "label": "Cuero (material animal)",
-      "count": 1371
+      "count": 1370
     },
     {
       "id": "8373",
@@ -811,12 +811,12 @@
     {
       "id": "8354",
       "label": "Hierro",
-      "count": 1128
+      "count": 1127
     },
     {
       "id": "8357",
       "label": "Hilo",
-      "count": 300
+      "count": 297
     },
     {
       "id": "8476",
@@ -836,7 +836,7 @@
     {
       "id": "8447",
       "label": "Lana",
-      "count": 677
+      "count": 672
     },
     {
       "id": "8540",
@@ -856,12 +856,12 @@
     {
       "id": "8344",
       "label": "Madera",
-      "count": 6211
+      "count": 6162
     },
     {
       "id": "8353",
       "label": "Metal",
-      "count": 3849
+      "count": 3845
     },
     {
       "id": "8529",
@@ -886,7 +886,7 @@
     {
       "id": "8334",
       "label": "Pintura al óleo",
-      "count": 3101
+      "count": 3102
     },
     {
       "id": "8387",
@@ -906,7 +906,7 @@
     {
       "id": "8426",
       "label": "Seda",
-      "count": 422
+      "count": 411
     },
     {
       "id": "8563",
@@ -916,7 +916,7 @@
     {
       "id": "8335",
       "label": "Tela",
-      "count": 4122
+      "count": 4116
     },
     {
       "id": "8449",
@@ -931,7 +931,7 @@
     {
       "id": "8351",
       "label": "Vidrio",
-      "count": 1700
+      "count": 1694
     },
     {
       "id": "8340",
@@ -968,7 +968,7 @@
     {
       "id": "12447",
       "label": "Alisado",
-      "count": 1104
+      "count": 1105
     },
     {
       "id": "12400",
@@ -978,7 +978,7 @@
     {
       "id": "12424",
       "label": "Barnizado",
-      "count": 154
+      "count": 153
     },
     {
       "id": "12379",
@@ -1013,7 +1013,7 @@
     {
       "id": "12372",
       "label": "Cincelado",
-      "count": 111
+      "count": 109
     },
     {
       "id": "12407",
@@ -1033,7 +1033,7 @@
     {
       "id": "12413",
       "label": "Cosido",
-      "count": 864
+      "count": 862
     },
     {
       "id": "12425",
@@ -1053,7 +1053,7 @@
     {
       "id": "12362",
       "label": "Dorado",
-      "count": 477
+      "count": 473
     },
     {
       "id": "12415",
@@ -1133,7 +1133,7 @@
     {
       "id": "12465",
       "label": "Fundición",
-      "count": 2390
+      "count": 2385
     },
     {
       "id": "12464",
@@ -1183,7 +1183,7 @@
     {
       "id": "12371",
       "label": "Laminado",
-      "count": 1129
+      "count": 1128
     },
     {
       "id": "12340",
@@ -1198,7 +1198,7 @@
     {
       "id": "12393",
       "label": "Marquetería",
-      "count": 75
+      "count": 70
     },
     {
       "id": "12344",
@@ -1208,7 +1208,7 @@
     {
       "id": "12338",
       "label": "Modelado de cerámica",
-      "count": 4337
+      "count": 4338
     },
     {
       "id": "12368",
@@ -1303,17 +1303,17 @@
     {
       "id": "12373",
       "label": "Soplado del vidrio",
-      "count": 805
+      "count": 803
     },
     {
       "id": "12420",
       "label": "Tallado",
-      "count": 8400
+      "count": 8368
     },
     {
       "id": "12383",
       "label": "Tapizado",
-      "count": 196
+      "count": 184
     },
     {
       "id": "12466",
@@ -1323,7 +1323,7 @@
     {
       "id": "12343",
       "label": "Tejido",
-      "count": 1473
+      "count": 1472
     },
     {
       "id": "12429",
@@ -1338,7 +1338,7 @@
     {
       "id": "12337",
       "label": "Trenzado",
-      "count": 197
+      "count": 195
     },
     {
       "id": "12396",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 79662
+      "count": 79554
     },
     {
       "id": "stolen",
