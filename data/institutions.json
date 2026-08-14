@@ -7,7 +7,7 @@
   {
     "id": "3",
     "label": "Museo Nacional de Bellas Artes",
-    "count": 6102
+    "count": 6101
   },
   {
     "id": "9",
@@ -20,14 +20,14 @@
     "count": 4232
   },
   {
-    "id": "16",
-    "label": "Museo Regional de Magallanes",
-    "count": 3470
-  },
-  {
     "id": "23",
     "label": "Museo de Artes Decorativas",
     "count": 3424
+  },
+  {
+    "id": "16",
+    "label": "Museo Regional de Magallanes",
+    "count": 3287
   },
   {
     "id": "11",
@@ -62,7 +62,7 @@
   {
     "id": "7",
     "label": "Museo Regional de La Araucanía de Temuco",
-    "count": 1653
+    "count": 1656
   },
   {
     "id": "12",

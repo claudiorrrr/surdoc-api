@@ -8,7 +8,7 @@
     {
       "id": "3",
       "label": "Museo Nacional de Bellas Artes",
-      "count": 6102
+      "count": 6101
     },
     {
       "id": "9",
@@ -21,14 +21,14 @@
       "count": 4232
     },
     {
-      "id": "16",
-      "label": "Museo Regional de Magallanes",
-      "count": 3470
-    },
-    {
       "id": "23",
       "label": "Museo de Artes Decorativas",
       "count": 3424
+    },
+    {
+      "id": "16",
+      "label": "Museo Regional de Magallanes",
+      "count": 3287
     },
     {
       "id": "11",
@@ -63,7 +63,7 @@
     {
       "id": "7",
       "label": "Museo Regional de La Araucanía de Temuco",
-      "count": 1653
+      "count": 1656
     },
     {
       "id": "12",
@@ -230,12 +230,12 @@
     {
       "id": "551",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 20812
+      "count": 20773
     },
     {
       "id": "555",
       "label": "Artes Visuales",
-      "count": 14031
+      "count": 14030
     },
     {
       "id": "567",
@@ -250,17 +250,17 @@
     {
       "id": "561",
       "label": "Textil, Vestuario y Adornos",
-      "count": 5805
+      "count": 5794
     },
     {
       "id": "558",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 5286
+      "count": 5218
     },
     {
       "id": "556",
       "label": "Artes Decorativas",
-      "count": 4778
+      "count": 4760
     },
     {
       "id": "557",
@@ -275,12 +275,12 @@
     {
       "id": "563",
       "label": "Armas y Armamentos",
-      "count": 1409
+      "count": 1403
     },
     {
       "id": "559",
       "label": "Mobiliario",
-      "count": 1330
+      "count": 1302
     },
     {
       "id": "562",
@@ -295,7 +295,7 @@
     {
       "id": "554",
       "label": "Otros",
-      "count": 585
+      "count": 586
     },
     {
       "id": "569",
@@ -305,7 +305,7 @@
     {
       "id": "568",
       "label": "Estructuras, Edificios y Partes",
-      "count": 346
+      "count": 335
     },
     {
       "id": "565",
@@ -691,7 +691,7 @@
     {
       "id": "8345",
       "label": "Acero",
-      "count": 834
+      "count": 830
     },
     {
       "id": "8386",
@@ -736,7 +736,7 @@
     {
       "id": "8343",
       "label": "Bronce",
-      "count": 1832
+      "count": 1818
     },
     {
       "id": "8425",
@@ -751,7 +751,7 @@
     {
       "id": "8349",
       "label": "Cerámica",
-      "count": 5356
+      "count": 5324
     },
     {
       "id": "8352",
@@ -776,7 +776,7 @@
     {
       "id": "8355",
       "label": "Cuero (material animal)",
-      "count": 1370
+      "count": 1369
     },
     {
       "id": "8373",
@@ -806,17 +806,17 @@
     {
       "id": "8338",
       "label": "Greda",
-      "count": 876
+      "count": 874
     },
     {
       "id": "8354",
       "label": "Hierro",
-      "count": 1127
+      "count": 1111
     },
     {
       "id": "8357",
       "label": "Hilo",
-      "count": 297
+      "count": 289
     },
     {
       "id": "8476",
@@ -826,7 +826,7 @@
     {
       "id": "8347",
       "label": "Hueso (material animal orgánico)",
-      "count": 2230
+      "count": 2228
     },
     {
       "id": "8533",
@@ -856,17 +856,17 @@
     {
       "id": "8344",
       "label": "Madera",
-      "count": 6162
+      "count": 6127
     },
     {
       "id": "8353",
       "label": "Metal",
-      "count": 3845
+      "count": 3838
     },
     {
       "id": "8529",
       "label": "Obsidiana",
-      "count": 989
+      "count": 988
     },
     {
       "id": "8374",
@@ -876,17 +876,17 @@
     {
       "id": "8339",
       "label": "Papel",
-      "count": 14314
+      "count": 14313
     },
     {
       "id": "8336",
       "label": "Piedra",
-      "count": 5321
+      "count": 5310
     },
     {
       "id": "8334",
       "label": "Pintura al óleo",
-      "count": 3102
+      "count": 3101
     },
     {
       "id": "8387",
@@ -896,7 +896,7 @@
     {
       "id": "8337",
       "label": "Plata",
-      "count": 2177
+      "count": 2175
     },
     {
       "id": "8398",
@@ -916,7 +916,7 @@
     {
       "id": "8335",
       "label": "Tela",
-      "count": 4116
+      "count": 4109
     },
     {
       "id": "8449",
@@ -926,12 +926,12 @@
     {
       "id": "8346",
       "label": "Tinta",
-      "count": 6855
+      "count": 6854
     },
     {
       "id": "8351",
       "label": "Vidrio",
-      "count": 1694
+      "count": 1684
     },
     {
       "id": "8340",
@@ -1033,7 +1033,7 @@
     {
       "id": "12413",
       "label": "Cosido",
-      "count": 862
+      "count": 861
     },
     {
       "id": "12425",
@@ -1053,7 +1053,7 @@
     {
       "id": "12362",
       "label": "Dorado",
-      "count": 473
+      "count": 472
     },
     {
       "id": "12415",
@@ -1118,7 +1118,7 @@
     {
       "id": "12370",
       "label": "Forjado",
-      "count": 753
+      "count": 752
     },
     {
       "id": "12459",
@@ -1133,7 +1133,7 @@
     {
       "id": "12465",
       "label": "Fundición",
-      "count": 2385
+      "count": 2371
     },
     {
       "id": "12464",
@@ -1303,12 +1303,12 @@
     {
       "id": "12373",
       "label": "Soplado del vidrio",
-      "count": 803
+      "count": 802
     },
     {
       "id": "12420",
       "label": "Tallado",
-      "count": 8368
+      "count": 8367
     },
     {
       "id": "12383",
@@ -1323,7 +1323,7 @@
     {
       "id": "12343",
       "label": "Tejido",
-      "count": 1472
+      "count": 1471
     },
     {
       "id": "12429",
@@ -1465,7 +1465,7 @@
     {
       "id": "487",
       "label": "Cultura Mapuche",
-      "count": 694
+      "count": 697
     },
     {
       "id": "6398",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 79554
+      "count": 79373
     },
     {
       "id": "stolen",
