@@ -3,12 +3,12 @@
     {
       "id": "4",
       "label": "Museo Histórico Nacional",
-      "count": 26132
+      "count": 26134
     },
     {
       "id": "3",
       "label": "Museo Nacional de Bellas Artes",
-      "count": 6101
+      "count": 6099
     },
     {
       "id": "9",
@@ -28,7 +28,7 @@
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 3287
+      "count": 3250
     },
     {
       "id": "11",
@@ -230,17 +230,17 @@
     {
       "id": "551",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 20773
+      "count": 20747
     },
     {
       "id": "555",
       "label": "Artes Visuales",
-      "count": 14030
+      "count": 14028
     },
     {
       "id": "567",
       "label": "Libros y Documentos",
-      "count": 8637
+      "count": 8636
     },
     {
       "id": "560",
@@ -250,17 +250,17 @@
     {
       "id": "561",
       "label": "Textil, Vestuario y Adornos",
-      "count": 5794
+      "count": 5800
     },
     {
       "id": "558",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 5218
+      "count": 5206
     },
     {
       "id": "556",
       "label": "Artes Decorativas",
-      "count": 4760
+      "count": 4759
     },
     {
       "id": "557",
@@ -280,7 +280,7 @@
     {
       "id": "559",
       "label": "Mobiliario",
-      "count": 1302
+      "count": 1301
     },
     {
       "id": "562",
@@ -811,7 +811,7 @@
     {
       "id": "8354",
       "label": "Hierro",
-      "count": 1111
+      "count": 1101
     },
     {
       "id": "8357",
@@ -826,7 +826,7 @@
     {
       "id": "8347",
       "label": "Hueso (material animal orgánico)",
-      "count": 2228
+      "count": 2223
     },
     {
       "id": "8533",
@@ -856,7 +856,7 @@
     {
       "id": "8344",
       "label": "Madera",
-      "count": 6127
+      "count": 6125
     },
     {
       "id": "8353",
@@ -866,7 +866,7 @@
     {
       "id": "8529",
       "label": "Obsidiana",
-      "count": 988
+      "count": 981
     },
     {
       "id": "8374",
@@ -876,22 +876,22 @@
     {
       "id": "8339",
       "label": "Papel",
-      "count": 14313
+      "count": 14312
     },
     {
       "id": "8336",
       "label": "Piedra",
-      "count": 5310
+      "count": 5297
     },
     {
       "id": "8334",
       "label": "Pintura al óleo",
-      "count": 3101
+      "count": 3099
     },
     {
       "id": "8387",
       "label": "Plástico",
-      "count": 639
+      "count": 641
     },
     {
       "id": "8337",
@@ -916,7 +916,7 @@
     {
       "id": "8335",
       "label": "Tela",
-      "count": 4109
+      "count": 4107
     },
     {
       "id": "8449",
@@ -931,7 +931,7 @@
     {
       "id": "8351",
       "label": "Vidrio",
-      "count": 1684
+      "count": 1683
     },
     {
       "id": "8340",
@@ -1083,7 +1083,7 @@
     {
       "id": "12369",
       "label": "Ensamblado",
-      "count": 1735
+      "count": 1737
     },
     {
       "id": "12461",
@@ -1093,7 +1093,7 @@
     {
       "id": "12406",
       "label": "Esculpir",
-      "count": 78
+      "count": 77
     },
     {
       "id": "12397",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 79373
+      "count": 79336
     },
     {
       "id": "stolen",
