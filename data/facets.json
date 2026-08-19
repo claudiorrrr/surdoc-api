@@ -28,7 +28,7 @@
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 3256
+      "count": 3264
     },
     {
       "id": "11",
@@ -103,7 +103,7 @@
     {
       "id": "19",
       "label": "Museo Regional de Atacama",
-      "count": 884
+      "count": 885
     },
     {
       "id": "13",
@@ -250,7 +250,7 @@
     {
       "id": "561",
       "label": "Textil, Vestuario y Adornos",
-      "count": 5806
+      "count": 5815
     },
     {
       "id": "558",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 79342
+      "count": 79351
     },
     {
       "id": "stolen",
