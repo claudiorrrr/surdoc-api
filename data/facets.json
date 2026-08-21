@@ -13,7 +13,7 @@
     {
       "id": "9",
       "label": "Museo Arqueológico de La Serena",
-      "count": 4286
+      "count": 4287
     },
     {
       "id": "5",
@@ -28,7 +28,7 @@
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 3265
+      "count": 3275
     },
     {
       "id": "11",
@@ -250,12 +250,12 @@
     {
       "id": "561",
       "label": "Textil, Vestuario y Adornos",
-      "count": 5825
+      "count": 5833
     },
     {
       "id": "558",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 5205
+      "count": 5206
     },
     {
       "id": "556",
@@ -270,7 +270,7 @@
     {
       "id": "552",
       "label": "Textil, Vestuario y Adornos",
-      "count": 3142
+      "count": 3143
     },
     {
       "id": "563",
@@ -280,12 +280,12 @@
     {
       "id": "559",
       "label": "Mobiliario",
-      "count": 1299
+      "count": 1298
     },
     {
       "id": "562",
       "label": "Culto y Liturgia",
-      "count": 1102
+      "count": 1104
     },
     {
       "id": "570",
@@ -856,7 +856,7 @@
     {
       "id": "8344",
       "label": "Madera",
-      "count": 6116
+      "count": 6115
     },
     {
       "id": "8353",
@@ -1238,7 +1238,7 @@
     {
       "id": "12428",
       "label": "Perforado",
-      "count": 1066
+      "count": 1067
     },
     {
       "id": "12474",
@@ -1278,7 +1278,7 @@
     {
       "id": "12350",
       "label": "Pulido",
-      "count": 3117
+      "count": 3118
     },
     {
       "id": "12388",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 79355
+      "count": 79366
     },
     {
       "id": "stolen",
