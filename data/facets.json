@@ -3,7 +3,7 @@
     {
       "id": "4",
       "label": "Museo Histórico Nacional",
-      "count": 26153
+      "count": 26157
     },
     {
       "id": "3",
@@ -28,7 +28,7 @@
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 3298
+      "count": 3305
     },
     {
       "id": "11",
@@ -73,7 +73,7 @@
     {
       "id": "8",
       "label": "Museo O'Higginiano y de Bellas Artes de Talca",
-      "count": 1604
+      "count": 1607
     },
     {
       "id": "17",
@@ -230,7 +230,7 @@
     {
       "id": "551",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 20748
+      "count": 20752
     },
     {
       "id": "555",
@@ -245,7 +245,7 @@
     {
       "id": "560",
       "label": "Numismática, Filatelia y Objetos conmemorativos",
-      "count": 7016
+      "count": 7020
     },
     {
       "id": "561",
@@ -255,7 +255,7 @@
     {
       "id": "558",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 5204
+      "count": 5209
     },
     {
       "id": "556",
@@ -280,7 +280,7 @@
     {
       "id": "559",
       "label": "Mobiliario",
-      "count": 1298
+      "count": 1299
     },
     {
       "id": "562",
@@ -474,7 +474,7 @@
     {
       "id": "1553",
       "label": "Desconocido/a",
-      "count": 4861
+      "count": 4860
     },
     {
       "id": "12825",
@@ -806,7 +806,7 @@
     {
       "id": "8338",
       "label": "Greda",
-      "count": 874
+      "count": 876
     },
     {
       "id": "8354",
@@ -856,12 +856,12 @@
     {
       "id": "8344",
       "label": "Madera",
-      "count": 6115
+      "count": 6117
     },
     {
       "id": "8353",
       "label": "Metal",
-      "count": 3831
+      "count": 3835
     },
     {
       "id": "8529",
@@ -931,7 +931,7 @@
     {
       "id": "8351",
       "label": "Vidrio",
-      "count": 1683
+      "count": 1687
     },
     {
       "id": "8340",
@@ -1465,7 +1465,7 @@
     {
       "id": "487",
       "label": "Cultura Mapuche",
-      "count": 699
+      "count": 701
     },
     {
       "id": "6398",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 79405
+      "count": 79419
     },
     {
       "id": "stolen",
