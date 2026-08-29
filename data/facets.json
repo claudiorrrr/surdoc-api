@@ -3,7 +3,7 @@
     {
       "id": "4",
       "label": "Museo Histórico Nacional",
-      "count": 26178
+      "count": 26189
     },
     {
       "id": "3",
@@ -28,7 +28,7 @@
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 3323
+      "count": 3332
     },
     {
       "id": "11",
@@ -113,7 +113,7 @@
     {
       "id": "10",
       "label": "Museo Nacional Benjamín Vicuña Mackenna",
-      "count": 734
+      "count": 731
     },
     {
       "id": "105",
@@ -240,17 +240,17 @@
     {
       "id": "567",
       "label": "Libros y Documentos",
-      "count": 8647
+      "count": 8649
     },
     {
       "id": "560",
       "label": "Numismática, Filatelia y Objetos conmemorativos",
-      "count": 7039
+      "count": 7050
     },
     {
       "id": "561",
       "label": "Textil, Vestuario y Adornos",
-      "count": 5866
+      "count": 5871
     },
     {
       "id": "558",
@@ -285,7 +285,7 @@
     {
       "id": "562",
       "label": "Culto y Liturgia",
-      "count": 1103
+      "count": 1102
     },
     {
       "id": "570",
@@ -474,7 +474,7 @@
     {
       "id": "1553",
       "label": "Desconocido/a",
-      "count": 4858
+      "count": 4856
     },
     {
       "id": "12825",
@@ -776,7 +776,7 @@
     {
       "id": "8355",
       "label": "Cuero (material animal)",
-      "count": 1369
+      "count": 1368
     },
     {
       "id": "8373",
@@ -861,7 +861,7 @@
     {
       "id": "8353",
       "label": "Metal",
-      "count": 3836
+      "count": 3835
     },
     {
       "id": "8529",
@@ -871,12 +871,12 @@
     {
       "id": "8374",
       "label": "Oro",
-      "count": 302
+      "count": 301
     },
     {
       "id": "8339",
       "label": "Papel",
-      "count": 14322
+      "count": 14324
     },
     {
       "id": "8336",
@@ -921,7 +921,7 @@
     {
       "id": "8449",
       "label": "Terciopelo",
-      "count": 211
+      "count": 210
     },
     {
       "id": "8346",
@@ -1178,7 +1178,7 @@
     {
       "id": "12365",
       "label": "Labrado",
-      "count": 86
+      "count": 85
     },
     {
       "id": "12371",
@@ -1323,7 +1323,7 @@
     {
       "id": "12343",
       "label": "Tejido",
-      "count": 1471
+      "count": 1470
     },
     {
       "id": "12429",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 79451
+      "count": 79468
     },
     {
       "id": "stolen",
