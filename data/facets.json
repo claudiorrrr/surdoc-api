@@ -3,7 +3,7 @@
     {
       "id": "4",
       "label": "Museo Histórico Nacional",
-      "count": 26189
+      "count": 26221
     },
     {
       "id": "3",
@@ -28,7 +28,7 @@
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 3331
+      "count": 3338
     },
     {
       "id": "11",
@@ -68,7 +68,7 @@
     {
       "id": "12",
       "label": "Museo del Limarí",
-      "count": 1628
+      "count": 1629
     },
     {
       "id": "8",
@@ -230,7 +230,7 @@
     {
       "id": "551",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 20752
+      "count": 20753
     },
     {
       "id": "555",
@@ -240,12 +240,12 @@
     {
       "id": "567",
       "label": "Libros y Documentos",
-      "count": 8649
+      "count": 8656
     },
     {
       "id": "560",
       "label": "Numismática, Filatelia y Objetos conmemorativos",
-      "count": 7050
+      "count": 7082
     },
     {
       "id": "561",
@@ -861,7 +861,7 @@
     {
       "id": "8353",
       "label": "Metal",
-      "count": 3835
+      "count": 3834
     },
     {
       "id": "8529",
@@ -876,12 +876,12 @@
     {
       "id": "8339",
       "label": "Papel",
-      "count": 14324
+      "count": 14331
     },
     {
       "id": "8336",
       "label": "Piedra",
-      "count": 5297
+      "count": 5298
     },
     {
       "id": "8334",
@@ -1278,7 +1278,7 @@
     {
       "id": "12350",
       "label": "Pulido",
-      "count": 3119
+      "count": 3120
     },
     {
       "id": "12388",
@@ -1308,7 +1308,7 @@
     {
       "id": "12420",
       "label": "Tallado",
-      "count": 8366
+      "count": 8367
     },
     {
       "id": "12383",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 79467
+      "count": 79507
     },
     {
       "id": "stolen",
