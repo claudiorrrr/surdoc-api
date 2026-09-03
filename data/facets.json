@@ -3,12 +3,12 @@
     {
       "id": "4",
       "label": "Museo Histórico Nacional",
-      "count": 26236
+      "count": 26245
     },
     {
       "id": "3",
       "label": "Museo Nacional de Bellas Artes",
-      "count": 6099
+      "count": 6105
     },
     {
       "id": "9",
@@ -28,7 +28,7 @@
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 3344
+      "count": 3355
     },
     {
       "id": "11",
@@ -118,7 +118,7 @@
     {
       "id": "105",
       "label": "Museo Andino",
-      "count": 671
+      "count": 675
     },
     {
       "id": "15",
@@ -230,22 +230,22 @@
     {
       "id": "551",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 20759
+      "count": 20762
     },
     {
       "id": "555",
       "label": "Artes Visuales",
-      "count": 14026
+      "count": 14031
     },
     {
       "id": "567",
       "label": "Libros y Documentos",
-      "count": 8662
+      "count": 8673
     },
     {
       "id": "560",
       "label": "Numismática, Filatelia y Objetos conmemorativos",
-      "count": 7097
+      "count": 7106
     },
     {
       "id": "561",
@@ -270,7 +270,7 @@
     {
       "id": "552",
       "label": "Textil, Vestuario y Adornos",
-      "count": 3144
+      "count": 3145
     },
     {
       "id": "563",
@@ -290,7 +290,7 @@
     {
       "id": "570",
       "label": "Fotografía",
-      "count": 672
+      "count": 673
     },
     {
       "id": "554",
@@ -826,7 +826,7 @@
     {
       "id": "8347",
       "label": "Hueso (material animal orgánico)",
-      "count": 2223
+      "count": 2224
     },
     {
       "id": "8533",
@@ -836,7 +836,7 @@
     {
       "id": "8447",
       "label": "Lana",
-      "count": 673
+      "count": 675
     },
     {
       "id": "8540",
@@ -856,7 +856,7 @@
     {
       "id": "8344",
       "label": "Madera",
-      "count": 6120
+      "count": 6122
     },
     {
       "id": "8353",
@@ -876,7 +876,7 @@
     {
       "id": "8339",
       "label": "Papel",
-      "count": 14337
+      "count": 14344
     },
     {
       "id": "8336",
@@ -886,7 +886,7 @@
     {
       "id": "8334",
       "label": "Pintura al óleo",
-      "count": 3098
+      "count": 3099
     },
     {
       "id": "8387",
@@ -916,7 +916,7 @@
     {
       "id": "8335",
       "label": "Tela",
-      "count": 4106
+      "count": 4105
     },
     {
       "id": "8449",
@@ -1253,7 +1253,7 @@
     {
       "id": "12414",
       "label": "Pintura al óleo",
-      "count": 1431
+      "count": 1430
     },
     {
       "id": "12475",
@@ -1308,7 +1308,7 @@
     {
       "id": "12420",
       "label": "Tallado",
-      "count": 8372
+      "count": 8373
     },
     {
       "id": "12383",
@@ -1360,7 +1360,7 @@
     {
       "id": "14425",
       "label": "Arica",
-      "count": 111
+      "count": 113
     },
     {
       "id": "6378",
@@ -1485,7 +1485,7 @@
     {
       "id": "6387",
       "label": "Mapuche",
-      "count": 1046
+      "count": 1044
     },
     {
       "id": "6393",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 79535
+      "count": 79565
     },
     {
       "id": "stolen",
