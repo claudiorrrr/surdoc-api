@@ -3,12 +3,12 @@
     {
       "id": "4",
       "label": "Museo Histórico Nacional",
-      "count": 26245
+      "count": 26246
     },
     {
       "id": "3",
       "label": "Museo Nacional de Bellas Artes",
-      "count": 6105
+      "count": 6103
     },
     {
       "id": "9",
@@ -28,7 +28,7 @@
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 3355
+      "count": 3359
     },
     {
       "id": "11",
@@ -118,7 +118,7 @@
     {
       "id": "105",
       "label": "Museo Andino",
-      "count": 675
+      "count": 684
     },
     {
       "id": "15",
@@ -230,17 +230,17 @@
     {
       "id": "551",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 20762
+      "count": 20769
     },
     {
       "id": "555",
       "label": "Artes Visuales",
-      "count": 14031
+      "count": 14030
     },
     {
       "id": "567",
       "label": "Libros y Documentos",
-      "count": 8673
+      "count": 8677
     },
     {
       "id": "560",
@@ -270,7 +270,7 @@
     {
       "id": "552",
       "label": "Textil, Vestuario y Adornos",
-      "count": 3145
+      "count": 3147
     },
     {
       "id": "563",
@@ -474,7 +474,7 @@
     {
       "id": "1553",
       "label": "Desconocido/a",
-      "count": 4855
+      "count": 4854
     },
     {
       "id": "12825",
@@ -484,7 +484,7 @@
     {
       "id": "3182",
       "label": "Elena Poirier",
-      "count": 712
+      "count": 713
     },
     {
       "id": "6121",
@@ -836,7 +836,7 @@
     {
       "id": "8447",
       "label": "Lana",
-      "count": 675
+      "count": 677
     },
     {
       "id": "8540",
@@ -856,7 +856,7 @@
     {
       "id": "8344",
       "label": "Madera",
-      "count": 6122
+      "count": 6129
     },
     {
       "id": "8353",
@@ -876,7 +876,7 @@
     {
       "id": "8339",
       "label": "Papel",
-      "count": 14344
+      "count": 14348
     },
     {
       "id": "8336",
@@ -886,7 +886,7 @@
     {
       "id": "8334",
       "label": "Pintura al óleo",
-      "count": 3099
+      "count": 3098
     },
     {
       "id": "8387",
@@ -916,7 +916,7 @@
     {
       "id": "8335",
       "label": "Tela",
-      "count": 4105
+      "count": 4103
     },
     {
       "id": "8449",
@@ -926,7 +926,7 @@
     {
       "id": "8346",
       "label": "Tinta",
-      "count": 6856
+      "count": 6857
     },
     {
       "id": "8351",
@@ -1043,7 +1043,7 @@
     {
       "id": "12375",
       "label": "Dibujo",
-      "count": 2009
+      "count": 2010
     },
     {
       "id": "12449",
@@ -1278,7 +1278,7 @@
     {
       "id": "12350",
       "label": "Pulido",
-      "count": 3121
+      "count": 3122
     },
     {
       "id": "12388",
@@ -1308,7 +1308,7 @@
     {
       "id": "12420",
       "label": "Tallado",
-      "count": 8373
+      "count": 8380
     },
     {
       "id": "12383",
@@ -1360,7 +1360,7 @@
     {
       "id": "14425",
       "label": "Arica",
-      "count": 113
+      "count": 121
     },
     {
       "id": "6378",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 79565
+      "count": 79578
     },
     {
       "id": "stolen",
