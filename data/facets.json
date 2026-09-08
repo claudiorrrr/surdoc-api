@@ -8,7 +8,7 @@
     {
       "id": "3",
       "label": "Museo Nacional de Bellas Artes",
-      "count": 6106
+      "count": 6107
     },
     {
       "id": "9",
@@ -28,7 +28,7 @@
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 3408
+      "count": 3420
     },
     {
       "id": "11",
@@ -118,7 +118,7 @@
     {
       "id": "105",
       "label": "Museo Andino",
-      "count": 686
+      "count": 688
     },
     {
       "id": "15",
@@ -230,12 +230,12 @@
     {
       "id": "551",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 20771
+      "count": 20773
     },
     {
       "id": "555",
       "label": "Artes Visuales",
-      "count": 14033
+      "count": 14034
     },
     {
       "id": "567",
@@ -250,7 +250,7 @@
     {
       "id": "561",
       "label": "Textil, Vestuario y Adornos",
-      "count": 5905
+      "count": 5917
     },
     {
       "id": "558",
@@ -564,7 +564,7 @@
     {
       "id": "1783",
       "label": "José Perotti",
-      "count": 99
+      "count": 100
     },
     {
       "id": "2718",
@@ -968,7 +968,7 @@
     {
       "id": "12447",
       "label": "Alisado",
-      "count": 1105
+      "count": 1106
     },
     {
       "id": "12400",
@@ -1208,7 +1208,7 @@
     {
       "id": "12338",
       "label": "Modelado de cerámica",
-      "count": 4338
+      "count": 4340
     },
     {
       "id": "12368",
@@ -1278,7 +1278,7 @@
     {
       "id": "12350",
       "label": "Pulido",
-      "count": 3122
+      "count": 3123
     },
     {
       "id": "12388",
@@ -1430,7 +1430,7 @@
     {
       "id": "504",
       "label": "Cultura Arica: Fase San Miguel",
-      "count": 160
+      "count": 161
     },
     {
       "id": "479",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 79640
+      "count": 79655
     },
     {
       "id": "stolen",
