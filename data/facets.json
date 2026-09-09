@@ -73,7 +73,7 @@
     {
       "id": "8",
       "label": "Museo O'Higginiano y de Bellas Artes de Talca",
-      "count": 1606
+      "count": 1607
     },
     {
       "id": "17",
@@ -118,7 +118,7 @@
     {
       "id": "105",
       "label": "Museo Andino",
-      "count": 688
+      "count": 690
     },
     {
       "id": "15",
@@ -133,7 +133,7 @@
     {
       "id": "34",
       "label": "Museo Marítimo Nacional",
-      "count": 424
+      "count": 426
     },
     {
       "id": "20",
@@ -230,7 +230,7 @@
     {
       "id": "551",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 20773
+      "count": 20774
     },
     {
       "id": "555",
@@ -260,7 +260,7 @@
     {
       "id": "556",
       "label": "Artes Decorativas",
-      "count": 4759
+      "count": 4761
     },
     {
       "id": "557",
@@ -270,7 +270,7 @@
     {
       "id": "552",
       "label": "Textil, Vestuario y Adornos",
-      "count": 3147
+      "count": 3148
     },
     {
       "id": "563",
@@ -280,7 +280,7 @@
     {
       "id": "559",
       "label": "Mobiliario",
-      "count": 1299
+      "count": 1300
     },
     {
       "id": "562",
@@ -474,7 +474,7 @@
     {
       "id": "1553",
       "label": "Desconocido/a",
-      "count": 4854
+      "count": 4856
     },
     {
       "id": "12825",
@@ -736,7 +736,7 @@
     {
       "id": "8343",
       "label": "Bronce",
-      "count": 1818
+      "count": 1822
     },
     {
       "id": "8425",
@@ -761,7 +761,7 @@
     {
       "id": "8370",
       "label": "Concha",
-      "count": 510
+      "count": 511
     },
     {
       "id": "8532",
@@ -861,7 +861,7 @@
     {
       "id": "8353",
       "label": "Metal",
-      "count": 3834
+      "count": 3835
     },
     {
       "id": "8529",
@@ -968,7 +968,7 @@
     {
       "id": "12447",
       "label": "Alisado",
-      "count": 1106
+      "count": 1107
     },
     {
       "id": "12400",
@@ -1133,7 +1133,7 @@
     {
       "id": "12465",
       "label": "Fundición",
-      "count": 2371
+      "count": 2373
     },
     {
       "id": "12464",
@@ -1208,7 +1208,7 @@
     {
       "id": "12338",
       "label": "Modelado de cerámica",
-      "count": 4340
+      "count": 4341
     },
     {
       "id": "12368",
@@ -1243,7 +1243,7 @@
     {
       "id": "12474",
       "label": "Pintado a mano",
-      "count": 768
+      "count": 769
     },
     {
       "id": "12378",
@@ -1425,12 +1425,12 @@
     {
       "id": "474",
       "label": "Cultura Arica: Fase Gentilar",
-      "count": 62
+      "count": 61
     },
     {
       "id": "504",
       "label": "Cultura Arica: Fase San Miguel",
-      "count": 161
+      "count": 163
     },
     {
       "id": "479",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 79655
+      "count": 79660
     },
     {
       "id": "stolen",
