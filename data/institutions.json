@@ -2,7 +2,7 @@
   {
     "id": "4",
     "label": "Museo Histórico Nacional",
-    "count": 26254
+    "count": 26282
   },
   {
     "id": "3",
@@ -12,7 +12,7 @@
   {
     "id": "9",
     "label": "Museo Arqueológico de La Serena",
-    "count": 4287
+    "count": 4286
   },
   {
     "id": "5",
@@ -20,14 +20,14 @@
     "count": 4232
   },
   {
+    "id": "16",
+    "label": "Museo Regional de Magallanes",
+    "count": 3432
+  },
+  {
     "id": "23",
     "label": "Museo de Artes Decorativas",
     "count": 3424
-  },
-  {
-    "id": "16",
-    "label": "Museo Regional de Magallanes",
-    "count": 3420
   },
   {
     "id": "11",
@@ -42,7 +42,7 @@
   {
     "id": "2",
     "label": "Museo Nacional de Historia Natural",
-    "count": 2421
+    "count": 2424
   },
   {
     "id": "26",

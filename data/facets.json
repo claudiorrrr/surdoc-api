@@ -3,7 +3,7 @@
     {
       "id": "4",
       "label": "Museo Histórico Nacional",
-      "count": 26254
+      "count": 26282
     },
     {
       "id": "3",
@@ -13,7 +13,7 @@
     {
       "id": "9",
       "label": "Museo Arqueológico de La Serena",
-      "count": 4287
+      "count": 4286
     },
     {
       "id": "5",
@@ -21,14 +21,14 @@
       "count": 4232
     },
     {
+      "id": "16",
+      "label": "Museo Regional de Magallanes",
+      "count": 3432
+    },
+    {
       "id": "23",
       "label": "Museo de Artes Decorativas",
       "count": 3424
-    },
-    {
-      "id": "16",
-      "label": "Museo Regional de Magallanes",
-      "count": 3420
     },
     {
       "id": "11",
@@ -43,7 +43,7 @@
     {
       "id": "2",
       "label": "Museo Nacional de Historia Natural",
-      "count": 2421
+      "count": 2424
     },
     {
       "id": "26",
@@ -230,7 +230,7 @@
     {
       "id": "551",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 20774
+      "count": 20775
     },
     {
       "id": "555",
@@ -240,17 +240,17 @@
     {
       "id": "567",
       "label": "Libros y Documentos",
-      "count": 8691
+      "count": 8700
     },
     {
       "id": "560",
       "label": "Numismática, Filatelia y Objetos conmemorativos",
-      "count": 7114
+      "count": 7142
     },
     {
       "id": "561",
       "label": "Textil, Vestuario y Adornos",
-      "count": 5917
+      "count": 5920
     },
     {
       "id": "558",
@@ -260,7 +260,7 @@
     {
       "id": "556",
       "label": "Artes Decorativas",
-      "count": 4761
+      "count": 4763
     },
     {
       "id": "557",
@@ -280,7 +280,7 @@
     {
       "id": "559",
       "label": "Mobiliario",
-      "count": 1300
+      "count": 1298
     },
     {
       "id": "562",
@@ -295,7 +295,7 @@
     {
       "id": "554",
       "label": "Otros",
-      "count": 586
+      "count": 587
     },
     {
       "id": "569",
@@ -826,7 +826,7 @@
     {
       "id": "8347",
       "label": "Hueso (material animal orgánico)",
-      "count": 2226
+      "count": 2227
     },
     {
       "id": "8533",
@@ -836,7 +836,7 @@
     {
       "id": "8447",
       "label": "Lana",
-      "count": 677
+      "count": 676
     },
     {
       "id": "8540",
@@ -856,7 +856,7 @@
     {
       "id": "8344",
       "label": "Madera",
-      "count": 6130
+      "count": 6131
     },
     {
       "id": "8353",
@@ -876,12 +876,12 @@
     {
       "id": "8339",
       "label": "Papel",
-      "count": 14361
+      "count": 14369
     },
     {
       "id": "8336",
       "label": "Piedra",
-      "count": 5298
+      "count": 5289
     },
     {
       "id": "8334",
@@ -943,7 +943,7 @@
     {
       "id": "12456",
       "label": "Abrasión",
-      "count": 765
+      "count": 779
     },
     {
       "id": "12345",
@@ -1278,7 +1278,7 @@
     {
       "id": "12350",
       "label": "Pulido",
-      "count": 3123
+      "count": 3137
     },
     {
       "id": "12388",
@@ -1308,7 +1308,7 @@
     {
       "id": "12420",
       "label": "Tallado",
-      "count": 8383
+      "count": 8384
     },
     {
       "id": "12383",
@@ -1323,7 +1323,7 @@
     {
       "id": "12343",
       "label": "Tejido",
-      "count": 1470
+      "count": 1471
     },
     {
       "id": "12429",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 79660
+      "count": 79702
     },
     {
       "id": "stolen",
