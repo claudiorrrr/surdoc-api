@@ -3,7 +3,7 @@
     {
       "id": "4",
       "label": "Museo Histórico Nacional",
-      "count": 26282
+      "count": 26304
     },
     {
       "id": "3",
@@ -23,7 +23,7 @@
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 3432
+      "count": 3440
     },
     {
       "id": "23",
@@ -240,12 +240,12 @@
     {
       "id": "567",
       "label": "Libros y Documentos",
-      "count": 8700
+      "count": 8708
     },
     {
       "id": "560",
       "label": "Numismática, Filatelia y Objetos conmemorativos",
-      "count": 7142
+      "count": 7164
     },
     {
       "id": "561",
@@ -741,7 +741,7 @@
     {
       "id": "8425",
       "label": "Cartón",
-      "count": 2300
+      "count": 2299
     },
     {
       "id": "8360",
@@ -856,7 +856,7 @@
     {
       "id": "8344",
       "label": "Madera",
-      "count": 6131
+      "count": 6132
     },
     {
       "id": "8353",
@@ -876,7 +876,7 @@
     {
       "id": "8339",
       "label": "Papel",
-      "count": 14369
+      "count": 14376
     },
     {
       "id": "8336",
@@ -886,7 +886,7 @@
     {
       "id": "8334",
       "label": "Pintura al óleo",
-      "count": 3100
+      "count": 3103
     },
     {
       "id": "8387",
@@ -896,7 +896,7 @@
     {
       "id": "8337",
       "label": "Plata",
-      "count": 2175
+      "count": 2176
     },
     {
       "id": "8398",
@@ -916,7 +916,7 @@
     {
       "id": "8335",
       "label": "Tela",
-      "count": 4105
+      "count": 4109
     },
     {
       "id": "8449",
@@ -953,7 +953,7 @@
     {
       "id": "12366",
       "label": "Acuñación",
-      "count": 2694
+      "count": 2695
     },
     {
       "id": "12356",
@@ -1253,7 +1253,7 @@
     {
       "id": "12414",
       "label": "Pintura al óleo",
-      "count": 1432
+      "count": 1435
     },
     {
       "id": "12475",
@@ -1425,12 +1425,12 @@
     {
       "id": "474",
       "label": "Cultura Arica: Fase Gentilar",
-      "count": 61
+      "count": 60
     },
     {
       "id": "504",
       "label": "Cultura Arica: Fase San Miguel",
-      "count": 163
+      "count": 164
     },
     {
       "id": "479",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 79702
+      "count": 79732
     },
     {
       "id": "stolen",
