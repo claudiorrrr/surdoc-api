@@ -3,12 +3,12 @@
     {
       "id": "4",
       "label": "Museo Histórico Nacional",
-      "count": 26304
+      "count": 26314
     },
     {
       "id": "3",
       "label": "Museo Nacional de Bellas Artes",
-      "count": 6107
+      "count": 6106
     },
     {
       "id": "9",
@@ -23,12 +23,12 @@
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 3440
+      "count": 3451
     },
     {
       "id": "23",
       "label": "Museo de Artes Decorativas",
-      "count": 3424
+      "count": 3425
     },
     {
       "id": "11",
@@ -73,7 +73,7 @@
     {
       "id": "8",
       "label": "Museo O'Higginiano y de Bellas Artes de Talca",
-      "count": 1607
+      "count": 1605
     },
     {
       "id": "17",
@@ -235,7 +235,7 @@
     {
       "id": "555",
       "label": "Artes Visuales",
-      "count": 14034
+      "count": 14032
     },
     {
       "id": "567",
@@ -245,22 +245,22 @@
     {
       "id": "560",
       "label": "Numismática, Filatelia y Objetos conmemorativos",
-      "count": 7164
+      "count": 7176
     },
     {
       "id": "561",
       "label": "Textil, Vestuario y Adornos",
-      "count": 5920
+      "count": 5922
     },
     {
       "id": "558",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 5210
+      "count": 5211
     },
     {
       "id": "556",
       "label": "Artes Decorativas",
-      "count": 4763
+      "count": 4764
     },
     {
       "id": "557",
@@ -280,7 +280,7 @@
     {
       "id": "559",
       "label": "Mobiliario",
-      "count": 1298
+      "count": 1303
     },
     {
       "id": "562",
@@ -474,7 +474,7 @@
     {
       "id": "1553",
       "label": "Desconocido/a",
-      "count": 4856
+      "count": 4859
     },
     {
       "id": "12825",
@@ -856,7 +856,7 @@
     {
       "id": "8344",
       "label": "Madera",
-      "count": 6132
+      "count": 6135
     },
     {
       "id": "8353",
@@ -886,7 +886,7 @@
     {
       "id": "8334",
       "label": "Pintura al óleo",
-      "count": 3103
+      "count": 3102
     },
     {
       "id": "8387",
@@ -901,7 +901,7 @@
     {
       "id": "8398",
       "label": "Porcelana",
-      "count": 456
+      "count": 457
     },
     {
       "id": "8426",
@@ -916,7 +916,7 @@
     {
       "id": "8335",
       "label": "Tela",
-      "count": 4109
+      "count": 4108
     },
     {
       "id": "8449",
@@ -1053,7 +1053,7 @@
     {
       "id": "12362",
       "label": "Dorado",
-      "count": 472
+      "count": 473
     },
     {
       "id": "12415",
@@ -1213,7 +1213,7 @@
     {
       "id": "12368",
       "label": "Moldeado",
-      "count": 1458
+      "count": 1459
     },
     {
       "id": "12470",
@@ -1268,7 +1268,7 @@
     {
       "id": "12360",
       "label": "Policromía",
-      "count": 589
+      "count": 590
     },
     {
       "id": "12453",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 79732
+      "count": 79751
     },
     {
       "id": "stolen",
