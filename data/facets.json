@@ -3,7 +3,7 @@
     {
       "id": "4",
       "label": "Museo Histórico Nacional",
-      "count": 26314
+      "count": 26327
     },
     {
       "id": "3",
@@ -23,7 +23,7 @@
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 3454
+      "count": 3470
     },
     {
       "id": "23",
@@ -73,7 +73,7 @@
     {
       "id": "8",
       "label": "Museo O'Higginiano y de Bellas Artes de Talca",
-      "count": 1605
+      "count": 1604
     },
     {
       "id": "17",
@@ -133,7 +133,7 @@
     {
       "id": "34",
       "label": "Museo Marítimo Nacional",
-      "count": 426
+      "count": 427
     },
     {
       "id": "20",
@@ -235,32 +235,32 @@
     {
       "id": "555",
       "label": "Artes Visuales",
-      "count": 14032
+      "count": 14031
     },
     {
       "id": "567",
       "label": "Libros y Documentos",
-      "count": 8710
+      "count": 8712
     },
     {
       "id": "560",
       "label": "Numismática, Filatelia y Objetos conmemorativos",
-      "count": 7176
+      "count": 7191
     },
     {
       "id": "561",
       "label": "Textil, Vestuario y Adornos",
-      "count": 5922
+      "count": 5932
     },
     {
       "id": "558",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 5211
+      "count": 5212
     },
     {
       "id": "556",
       "label": "Artes Decorativas",
-      "count": 4765
+      "count": 4766
     },
     {
       "id": "557",
@@ -280,7 +280,7 @@
     {
       "id": "559",
       "label": "Mobiliario",
-      "count": 1303
+      "count": 1304
     },
     {
       "id": "562",
@@ -474,7 +474,7 @@
     {
       "id": "1553",
       "label": "Desconocido/a",
-      "count": 4859
+      "count": 4860
     },
     {
       "id": "12825",
@@ -751,7 +751,7 @@
     {
       "id": "8349",
       "label": "Cerámica",
-      "count": 5324
+      "count": 5325
     },
     {
       "id": "8352",
@@ -856,12 +856,12 @@
     {
       "id": "8344",
       "label": "Madera",
-      "count": 6135
+      "count": 6136
     },
     {
       "id": "8353",
       "label": "Metal",
-      "count": 3835
+      "count": 3836
     },
     {
       "id": "8529",
@@ -876,7 +876,7 @@
     {
       "id": "8339",
       "label": "Papel",
-      "count": 14378
+      "count": 14380
     },
     {
       "id": "8336",
@@ -1133,7 +1133,7 @@
     {
       "id": "12465",
       "label": "Fundición",
-      "count": 2374
+      "count": 2375
     },
     {
       "id": "12464",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 79754
+      "count": 79783
     },
     {
       "id": "stolen",
