@@ -23,7 +23,7 @@
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 3470
+      "count": 3474
     },
     {
       "id": "23",
@@ -58,7 +58,7 @@
     {
       "id": "14",
       "label": "Museo de Arte y Artesanía de Linares",
-      "count": 1706
+      "count": 1713
     },
     {
       "id": "7",
@@ -235,7 +235,7 @@
     {
       "id": "555",
       "label": "Artes Visuales",
-      "count": 14031
+      "count": 14032
     },
     {
       "id": "567",
@@ -255,17 +255,17 @@
     {
       "id": "558",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 5212
+      "count": 5213
     },
     {
       "id": "556",
       "label": "Artes Decorativas",
-      "count": 4766
+      "count": 4764
     },
     {
       "id": "557",
       "label": "Artes Populares y Artesanía",
-      "count": 3769
+      "count": 3776
     },
     {
       "id": "552",
@@ -280,7 +280,7 @@
     {
       "id": "559",
       "label": "Mobiliario",
-      "count": 1304
+      "count": 1308
     },
     {
       "id": "562",
@@ -474,7 +474,7 @@
     {
       "id": "1553",
       "label": "Desconocido/a",
-      "count": 4860
+      "count": 4862
     },
     {
       "id": "12825",
@@ -716,7 +716,7 @@
     {
       "id": "8508",
       "label": "Anilina",
-      "count": 307
+      "count": 314
     },
     {
       "id": "8342",
@@ -736,7 +736,7 @@
     {
       "id": "8343",
       "label": "Bronce",
-      "count": 1822
+      "count": 1821
     },
     {
       "id": "8425",
@@ -756,7 +756,7 @@
     {
       "id": "8352",
       "label": "Cobre (metal)",
-      "count": 1182
+      "count": 1183
     },
     {
       "id": "8370",
@@ -766,7 +766,7 @@
     {
       "id": "8532",
       "label": "Crin",
-      "count": 464
+      "count": 471
     },
     {
       "id": "8522",
@@ -776,7 +776,7 @@
     {
       "id": "8355",
       "label": "Cuero (material animal)",
-      "count": 1368
+      "count": 1367
     },
     {
       "id": "8373",
@@ -786,7 +786,7 @@
     {
       "id": "8359",
       "label": "Fibra vegetal",
-      "count": 1106
+      "count": 1107
     },
     {
       "id": "8510",
@@ -831,7 +831,7 @@
     {
       "id": "8533",
       "label": "Ixtle",
-      "count": 301
+      "count": 308
     },
     {
       "id": "8447",
@@ -886,7 +886,7 @@
     {
       "id": "8334",
       "label": "Pintura al óleo",
-      "count": 3102
+      "count": 3101
     },
     {
       "id": "8387",
@@ -1178,7 +1178,7 @@
     {
       "id": "12365",
       "label": "Labrado",
-      "count": 85
+      "count": 84
     },
     {
       "id": "12371",
@@ -1288,7 +1288,7 @@
     {
       "id": "12364",
       "label": "Repujado",
-      "count": 313
+      "count": 314
     },
     {
       "id": "12353",
@@ -1323,12 +1323,12 @@
     {
       "id": "12343",
       "label": "Tejido",
-      "count": 1471
+      "count": 1478
     },
     {
       "id": "12429",
       "label": "Teñido",
-      "count": 408
+      "count": 415
     },
     {
       "id": "12342",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 79783
+      "count": 79794
     },
     {
       "id": "stolen",
