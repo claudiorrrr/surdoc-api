@@ -8,7 +8,7 @@
     {
       "id": "3",
       "label": "Museo Nacional de Bellas Artes",
-      "count": 6106
+      "count": 6105
     },
     {
       "id": "9",
@@ -23,7 +23,7 @@
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 3474
+      "count": 3483
     },
     {
       "id": "23",
@@ -58,7 +58,7 @@
     {
       "id": "14",
       "label": "Museo de Arte y Artesanía de Linares",
-      "count": 1713
+      "count": 1716
     },
     {
       "id": "7",
@@ -235,7 +235,7 @@
     {
       "id": "555",
       "label": "Artes Visuales",
-      "count": 14032
+      "count": 14034
     },
     {
       "id": "567",
@@ -250,12 +250,12 @@
     {
       "id": "561",
       "label": "Textil, Vestuario y Adornos",
-      "count": 5932
+      "count": 5934
     },
     {
       "id": "558",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 5213
+      "count": 5214
     },
     {
       "id": "556",
@@ -280,7 +280,7 @@
     {
       "id": "559",
       "label": "Mobiliario",
-      "count": 1308
+      "count": 1314
     },
     {
       "id": "562",
@@ -639,7 +639,7 @@
     {
       "id": "1761",
       "label": "Pilar Domínguez Fuenzalida",
-      "count": 121
+      "count": 120
     },
     {
       "id": "1545",
@@ -649,7 +649,7 @@
     {
       "id": "2337",
       "label": "Roberto  Matta",
-      "count": 82
+      "count": 85
     },
     {
       "id": "2926",
@@ -856,7 +856,7 @@
     {
       "id": "8344",
       "label": "Madera",
-      "count": 6136
+      "count": 6138
     },
     {
       "id": "8353",
@@ -876,7 +876,7 @@
     {
       "id": "8339",
       "label": "Papel",
-      "count": 14380
+      "count": 14382
     },
     {
       "id": "8336",
@@ -926,7 +926,7 @@
     {
       "id": "8346",
       "label": "Tinta",
-      "count": 6857
+      "count": 6860
     },
     {
       "id": "8351",
@@ -958,17 +958,17 @@
     {
       "id": "12356",
       "label": "Aguafuerte",
-      "count": 626
+      "count": 629
     },
     {
       "id": "12348",
       "label": "Aguatinta",
-      "count": 180
+      "count": 183
     },
     {
       "id": "12447",
       "label": "Alisado",
-      "count": 1107
+      "count": 1109
     },
     {
       "id": "12400",
@@ -1208,7 +1208,7 @@
     {
       "id": "12338",
       "label": "Modelado de cerámica",
-      "count": 4341
+      "count": 4342
     },
     {
       "id": "12368",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 79794
+      "count": 79805
     },
     {
       "id": "stolen",
