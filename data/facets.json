@@ -23,7 +23,7 @@
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 3488
+      "count": 3495
     },
     {
       "id": "23",
@@ -310,7 +310,7 @@
     {
       "id": "565",
       "label": "Deportes, Juguetes y Juegos",
-      "count": 290
+      "count": 297
     },
     {
       "id": "553",
@@ -639,7 +639,7 @@
     {
       "id": "1761",
       "label": "Pilar Domínguez Fuenzalida",
-      "count": 120
+      "count": 121
     },
     {
       "id": "1545",
@@ -721,7 +721,7 @@
     {
       "id": "8342",
       "label": "Arcilla",
-      "count": 1687
+      "count": 1688
     },
     {
       "id": "8416",
@@ -876,7 +876,7 @@
     {
       "id": "8339",
       "label": "Papel",
-      "count": 14382
+      "count": 14383
     },
     {
       "id": "8336",
@@ -886,7 +886,7 @@
     {
       "id": "8334",
       "label": "Pintura al óleo",
-      "count": 3101
+      "count": 3099
     },
     {
       "id": "8387",
@@ -916,7 +916,7 @@
     {
       "id": "8335",
       "label": "Tela",
-      "count": 4108
+      "count": 4107
     },
     {
       "id": "8449",
@@ -1213,7 +1213,7 @@
     {
       "id": "12368",
       "label": "Moldeado",
-      "count": 1459
+      "count": 1460
     },
     {
       "id": "12470",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 79817
+      "count": 79824
     },
     {
       "id": "stolen",
