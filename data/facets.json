@@ -3,7 +3,7 @@
     {
       "id": "4",
       "label": "Museo Histórico Nacional",
-      "count": 26334
+      "count": 26363
     },
     {
       "id": "3",
@@ -245,7 +245,7 @@
     {
       "id": "560",
       "label": "Numismática, Filatelia y Objetos conmemorativos",
-      "count": 7198
+      "count": 7227
     },
     {
       "id": "561",
@@ -255,7 +255,7 @@
     {
       "id": "558",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 5215
+      "count": 5214
     },
     {
       "id": "556",
@@ -325,7 +325,7 @@
     {
       "id": "566",
       "label": "Medios de transporte",
-      "count": 23
+      "count": 24
     }
   ],
   "factory": [
@@ -968,7 +968,7 @@
     {
       "id": "12447",
       "label": "Alisado",
-      "count": 1109
+      "count": 1110
     },
     {
       "id": "12400",
@@ -1425,12 +1425,12 @@
     {
       "id": "474",
       "label": "Cultura Arica: Fase Gentilar",
-      "count": 60
+      "count": 59
     },
     {
       "id": "504",
       "label": "Cultura Arica: Fase San Miguel",
-      "count": 163
+      "count": 164
     },
     {
       "id": "479",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 79824
+      "count": 79853
     },
     {
       "id": "stolen",
