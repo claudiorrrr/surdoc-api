@@ -3,7 +3,7 @@
     {
       "id": "4",
       "label": "Museo Histórico Nacional",
-      "count": 26363
+      "count": 26377
     },
     {
       "id": "3",
@@ -28,7 +28,7 @@
     {
       "id": "23",
       "label": "Museo de Artes Decorativas",
-      "count": 3425
+      "count": 3424
     },
     {
       "id": "11",
@@ -43,7 +43,7 @@
     {
       "id": "2",
       "label": "Museo Nacional de Historia Natural",
-      "count": 2424
+      "count": 2426
     },
     {
       "id": "26",
@@ -73,7 +73,7 @@
     {
       "id": "8",
       "label": "Museo O'Higginiano y de Bellas Artes de Talca",
-      "count": 1604
+      "count": 1605
     },
     {
       "id": "17",
@@ -88,7 +88,7 @@
     {
       "id": "30",
       "label": "Pinacoteca Universidad de Concepción",
-      "count": 1464
+      "count": 1465
     },
     {
       "id": "31",
@@ -230,12 +230,12 @@
     {
       "id": "551",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 20775
+      "count": 20776
     },
     {
       "id": "555",
       "label": "Artes Visuales",
-      "count": 14034
+      "count": 14035
     },
     {
       "id": "567",
@@ -245,7 +245,7 @@
     {
       "id": "560",
       "label": "Numismática, Filatelia y Objetos conmemorativos",
-      "count": 7227
+      "count": 7241
     },
     {
       "id": "561",
@@ -260,7 +260,7 @@
     {
       "id": "556",
       "label": "Artes Decorativas",
-      "count": 4764
+      "count": 4763
     },
     {
       "id": "557",
@@ -270,7 +270,7 @@
     {
       "id": "552",
       "label": "Textil, Vestuario y Adornos",
-      "count": 3148
+      "count": 3149
     },
     {
       "id": "563",
@@ -295,7 +295,7 @@
     {
       "id": "554",
       "label": "Otros",
-      "count": 587
+      "count": 588
     },
     {
       "id": "569",
@@ -751,7 +751,7 @@
     {
       "id": "8349",
       "label": "Cerámica",
-      "count": 5325
+      "count": 5326
     },
     {
       "id": "8352",
@@ -786,7 +786,7 @@
     {
       "id": "8359",
       "label": "Fibra vegetal",
-      "count": 1107
+      "count": 1108
     },
     {
       "id": "8510",
@@ -881,7 +881,7 @@
     {
       "id": "8336",
       "label": "Piedra",
-      "count": 5289
+      "count": 5290
     },
     {
       "id": "8334",
@@ -901,7 +901,7 @@
     {
       "id": "8398",
       "label": "Porcelana",
-      "count": 457
+      "count": 456
     },
     {
       "id": "8426",
@@ -1098,7 +1098,7 @@
     {
       "id": "12397",
       "label": "Esmaltado",
-      "count": 583
+      "count": 582
     },
     {
       "id": "12477",
@@ -1168,7 +1168,7 @@
     {
       "id": "12385",
       "label": "Incisión",
-      "count": 391
+      "count": 392
     },
     {
       "id": "12387",
@@ -1208,12 +1208,12 @@
     {
       "id": "12338",
       "label": "Modelado de cerámica",
-      "count": 4342
+      "count": 4343
     },
     {
       "id": "12368",
       "label": "Moldeado",
-      "count": 1460
+      "count": 1459
     },
     {
       "id": "12470",
@@ -1308,7 +1308,7 @@
     {
       "id": "12420",
       "label": "Tallado",
-      "count": 8384
+      "count": 8385
     },
     {
       "id": "12383",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 79853
+      "count": 79870
     },
     {
       "id": "stolen",
