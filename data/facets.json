@@ -3,7 +3,7 @@
     {
       "id": "4",
       "label": "Museo Histórico Nacional",
-      "count": 26377
+      "count": 26388
     },
     {
       "id": "3",
@@ -23,7 +23,7 @@
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 3495
+      "count": 3505
     },
     {
       "id": "23",
@@ -43,7 +43,7 @@
     {
       "id": "2",
       "label": "Museo Nacional de Historia Natural",
-      "count": 2426
+      "count": 2439
     },
     {
       "id": "26",
@@ -230,7 +230,7 @@
     {
       "id": "551",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 20776
+      "count": 20787
     },
     {
       "id": "555",
@@ -245,7 +245,7 @@
     {
       "id": "560",
       "label": "Numismática, Filatelia y Objetos conmemorativos",
-      "count": 7241
+      "count": 7252
     },
     {
       "id": "561",
@@ -255,7 +255,7 @@
     {
       "id": "558",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 5214
+      "count": 5215
     },
     {
       "id": "556",
@@ -270,7 +270,7 @@
     {
       "id": "552",
       "label": "Textil, Vestuario y Adornos",
-      "count": 3149
+      "count": 3150
     },
     {
       "id": "563",
@@ -295,7 +295,7 @@
     {
       "id": "554",
       "label": "Otros",
-      "count": 588
+      "count": 589
     },
     {
       "id": "569",
@@ -310,7 +310,7 @@
     {
       "id": "565",
       "label": "Deportes, Juguetes y Juegos",
-      "count": 297
+      "count": 306
     },
     {
       "id": "553",
@@ -741,7 +741,7 @@
     {
       "id": "8425",
       "label": "Cartón",
-      "count": 2299
+      "count": 2300
     },
     {
       "id": "8360",
@@ -751,7 +751,7 @@
     {
       "id": "8349",
       "label": "Cerámica",
-      "count": 5326
+      "count": 5337
     },
     {
       "id": "8352",
@@ -786,7 +786,7 @@
     {
       "id": "8359",
       "label": "Fibra vegetal",
-      "count": 1108
+      "count": 1109
     },
     {
       "id": "8510",
@@ -881,7 +881,7 @@
     {
       "id": "8336",
       "label": "Piedra",
-      "count": 5290
+      "count": 5291
     },
     {
       "id": "8334",
@@ -968,7 +968,7 @@
     {
       "id": "12447",
       "label": "Alisado",
-      "count": 1110
+      "count": 1111
     },
     {
       "id": "12400",
@@ -1033,7 +1033,7 @@
     {
       "id": "12413",
       "label": "Cosido",
-      "count": 861
+      "count": 862
     },
     {
       "id": "12425",
@@ -1073,7 +1073,7 @@
     {
       "id": "12377",
       "label": "Engobe",
-      "count": 642
+      "count": 652
     },
     {
       "id": "12460",
@@ -1208,7 +1208,7 @@
     {
       "id": "12338",
       "label": "Modelado de cerámica",
-      "count": 4343
+      "count": 4354
     },
     {
       "id": "12368",
@@ -1248,7 +1248,7 @@
     {
       "id": "12378",
       "label": "Pintura",
-      "count": 1331
+      "count": 1338
     },
     {
       "id": "12414",
@@ -1278,7 +1278,7 @@
     {
       "id": "12350",
       "label": "Pulido",
-      "count": 3137
+      "count": 3145
     },
     {
       "id": "12388",
@@ -1323,7 +1323,7 @@
     {
       "id": "12343",
       "label": "Tejido",
-      "count": 1478
+      "count": 1479
     },
     {
       "id": "12429",
@@ -1420,7 +1420,7 @@
     {
       "id": "483",
       "label": "Cultura Aconcagua",
-      "count": 105
+      "count": 115
     },
     {
       "id": "474",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 79870
+      "count": 79903
     },
     {
       "id": "stolen",
