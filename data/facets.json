@@ -3,12 +3,12 @@
     {
       "id": "4",
       "label": "Museo Histórico Nacional",
-      "count": 26388
+      "count": 26397
     },
     {
       "id": "3",
       "label": "Museo Nacional de Bellas Artes",
-      "count": 6105
+      "count": 6106
     },
     {
       "id": "9",
@@ -23,7 +23,7 @@
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 3505
+      "count": 3517
     },
     {
       "id": "23",
@@ -235,7 +235,7 @@
     {
       "id": "555",
       "label": "Artes Visuales",
-      "count": 14035
+      "count": 14036
     },
     {
       "id": "567",
@@ -245,7 +245,7 @@
     {
       "id": "560",
       "label": "Numismática, Filatelia y Objetos conmemorativos",
-      "count": 7252
+      "count": 7261
     },
     {
       "id": "561",
@@ -310,7 +310,7 @@
     {
       "id": "565",
       "label": "Deportes, Juguetes y Juegos",
-      "count": 306
+      "count": 318
     },
     {
       "id": "553",
@@ -701,7 +701,7 @@
     {
       "id": "8390",
       "label": "Acrílico",
-      "count": 213
+      "count": 214
     },
     {
       "id": "8341",
@@ -741,7 +741,7 @@
     {
       "id": "8425",
       "label": "Cartón",
-      "count": 2300
+      "count": 2301
     },
     {
       "id": "8360",
@@ -916,7 +916,7 @@
     {
       "id": "8335",
       "label": "Tela",
-      "count": 4107
+      "count": 4108
     },
     {
       "id": "8449",
@@ -1248,7 +1248,7 @@
     {
       "id": "12378",
       "label": "Pintura",
-      "count": 1338
+      "count": 1339
     },
     {
       "id": "12414",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 79903
+      "count": 79925
     },
     {
       "id": "stolen",
