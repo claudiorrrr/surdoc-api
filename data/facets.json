@@ -18,12 +18,12 @@
     {
       "id": "5",
       "label": "Museo Historia Natural de Valparaíso",
-      "count": 4232
+      "count": 4224
     },
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 3523
+      "count": 3533
     },
     {
       "id": "23",
@@ -43,7 +43,7 @@
     {
       "id": "2",
       "label": "Museo Nacional de Historia Natural",
-      "count": 2439
+      "count": 2437
     },
     {
       "id": "26",
@@ -83,7 +83,7 @@
     {
       "id": "24",
       "label": "Museo de Antofagasta",
-      "count": 1487
+      "count": 1486
     },
     {
       "id": "30",
@@ -168,7 +168,7 @@
     {
       "id": "89",
       "label": "Villa Cultural Huilquilemu Hernán Correa de la Cerda",
-      "count": 214
+      "count": 213
     },
     {
       "id": "25",
@@ -230,7 +230,7 @@
     {
       "id": "551",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 20787
+      "count": 20778
     },
     {
       "id": "555",
@@ -270,7 +270,7 @@
     {
       "id": "552",
       "label": "Textil, Vestuario y Adornos",
-      "count": 3150
+      "count": 3147
     },
     {
       "id": "563",
@@ -310,7 +310,7 @@
     {
       "id": "565",
       "label": "Deportes, Juguetes y Juegos",
-      "count": 324
+      "count": 334
     },
     {
       "id": "553",
@@ -761,7 +761,7 @@
     {
       "id": "8370",
       "label": "Concha",
-      "count": 511
+      "count": 509
     },
     {
       "id": "8532",
@@ -776,7 +776,7 @@
     {
       "id": "8355",
       "label": "Cuero (material animal)",
-      "count": 1367
+      "count": 1366
     },
     {
       "id": "8373",
@@ -826,7 +826,7 @@
     {
       "id": "8347",
       "label": "Hueso (material animal orgánico)",
-      "count": 2227
+      "count": 2223
     },
     {
       "id": "8533",
@@ -856,7 +856,7 @@
     {
       "id": "8344",
       "label": "Madera",
-      "count": 6140
+      "count": 6142
     },
     {
       "id": "8353",
@@ -881,7 +881,7 @@
     {
       "id": "8336",
       "label": "Piedra",
-      "count": 5291
+      "count": 5287
     },
     {
       "id": "8334",
@@ -943,7 +943,7 @@
     {
       "id": "12456",
       "label": "Abrasión",
-      "count": 779
+      "count": 778
     },
     {
       "id": "12345",
@@ -1238,7 +1238,7 @@
     {
       "id": "12428",
       "label": "Perforado",
-      "count": 1067
+      "count": 1066
     },
     {
       "id": "12474",
@@ -1278,7 +1278,7 @@
     {
       "id": "12350",
       "label": "Pulido",
-      "count": 3145
+      "count": 3141
     },
     {
       "id": "12388",
@@ -1308,7 +1308,7 @@
     {
       "id": "12420",
       "label": "Tallado",
-      "count": 8385
+      "count": 8381
     },
     {
       "id": "12383",
@@ -1360,7 +1360,7 @@
     {
       "id": "14425",
       "label": "Arica",
-      "count": 122
+      "count": 123
     },
     {
       "id": "6378",
@@ -1375,7 +1375,7 @@
     {
       "id": "518",
       "label": "Cazadores-recolectores",
-      "count": 167
+      "count": 166
     },
     {
       "id": "488",
@@ -1385,7 +1385,7 @@
     {
       "id": "6377",
       "label": "Changos, Camanchacas o Uros",
-      "count": 423
+      "count": 421
     },
     {
       "id": "486",
@@ -1430,7 +1430,7 @@
     {
       "id": "504",
       "label": "Cultura Arica: Fase San Miguel",
-      "count": 164
+      "count": 163
     },
     {
       "id": "479",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 79931
+      "count": 79929
     },
     {
       "id": "stolen",
