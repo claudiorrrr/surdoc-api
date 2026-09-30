@@ -3,7 +3,7 @@
     {
       "id": "4",
       "label": "Museo Histórico Nacional",
-      "count": 26397
+      "count": 26399
     },
     {
       "id": "3",
@@ -23,7 +23,7 @@
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 3533
+      "count": 3542
     },
     {
       "id": "23",
@@ -38,7 +38,7 @@
     {
       "id": "6",
       "label": "Museo Historia Natural de Concepción",
-      "count": 2497
+      "count": 2473
     },
     {
       "id": "2",
@@ -73,7 +73,7 @@
     {
       "id": "8",
       "label": "Museo O'Higginiano y de Bellas Artes de Talca",
-      "count": 1605
+      "count": 1606
     },
     {
       "id": "17",
@@ -230,7 +230,7 @@
     {
       "id": "551",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 20778
+      "count": 20756
     },
     {
       "id": "555",
@@ -240,12 +240,12 @@
     {
       "id": "567",
       "label": "Libros y Documentos",
-      "count": 8712
+      "count": 8713
     },
     {
       "id": "560",
       "label": "Numismática, Filatelia y Objetos conmemorativos",
-      "count": 7261
+      "count": 7263
     },
     {
       "id": "561",
@@ -255,7 +255,7 @@
     {
       "id": "558",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 5215
+      "count": 5216
     },
     {
       "id": "556",
@@ -270,7 +270,7 @@
     {
       "id": "552",
       "label": "Textil, Vestuario y Adornos",
-      "count": 3147
+      "count": 3145
     },
     {
       "id": "563",
@@ -303,14 +303,14 @@
       "count": 482
     },
     {
+      "id": "565",
+      "label": "Deportes, Juguetes y Juegos",
+      "count": 342
+    },
+    {
       "id": "568",
       "label": "Estructuras, Edificios y Partes",
       "count": 335
-    },
-    {
-      "id": "565",
-      "label": "Deportes, Juguetes y Juegos",
-      "count": 334
     },
     {
       "id": "553",
@@ -474,7 +474,7 @@
     {
       "id": "1553",
       "label": "Desconocido/a",
-      "count": 4862
+      "count": 4863
     },
     {
       "id": "12825",
@@ -756,12 +756,12 @@
     {
       "id": "8352",
       "label": "Cobre (metal)",
-      "count": 1183
+      "count": 1182
     },
     {
       "id": "8370",
       "label": "Concha",
-      "count": 509
+      "count": 505
     },
     {
       "id": "8532",
@@ -826,7 +826,7 @@
     {
       "id": "8347",
       "label": "Hueso (material animal orgánico)",
-      "count": 2223
+      "count": 2221
     },
     {
       "id": "8533",
@@ -856,7 +856,7 @@
     {
       "id": "8344",
       "label": "Madera",
-      "count": 6142
+      "count": 6145
     },
     {
       "id": "8353",
@@ -881,7 +881,7 @@
     {
       "id": "8336",
       "label": "Piedra",
-      "count": 5287
+      "count": 5271
     },
     {
       "id": "8334",
@@ -1083,7 +1083,7 @@
     {
       "id": "12369",
       "label": "Ensamblado",
-      "count": 1738
+      "count": 1739
     },
     {
       "id": "12461",
@@ -1308,7 +1308,7 @@
     {
       "id": "12420",
       "label": "Tallado",
-      "count": 8381
+      "count": 8361
     },
     {
       "id": "12383",
@@ -1370,7 +1370,7 @@
     {
       "id": "485",
       "label": "Cazadores-recolectores",
-      "count": 712
+      "count": 698
     },
     {
       "id": "518",
@@ -1435,7 +1435,7 @@
     {
       "id": "479",
       "label": "Cultura Diaguita",
-      "count": 2215
+      "count": 2214
     },
     {
       "id": "477",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 79929
+      "count": 79917
     },
     {
       "id": "stolen",
