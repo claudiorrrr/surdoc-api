@@ -8,7 +8,7 @@
     {
       "id": "3",
       "label": "Museo Nacional de Bellas Artes",
-      "count": 6106
+      "count": 6107
     },
     {
       "id": "9",
@@ -23,7 +23,7 @@
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 3542
+      "count": 3548
     },
     {
       "id": "23",
@@ -235,7 +235,7 @@
     {
       "id": "555",
       "label": "Artes Visuales",
-      "count": 14036
+      "count": 14037
     },
     {
       "id": "567",
@@ -305,7 +305,7 @@
     {
       "id": "565",
       "label": "Deportes, Juguetes y Juegos",
-      "count": 342
+      "count": 348
     },
     {
       "id": "568",
@@ -936,7 +936,7 @@
     {
       "id": "8340",
       "label": "Yeso",
-      "count": 480
+      "count": 481
     }
   ],
   "technique": [
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 79917
+      "count": 79924
     },
     {
       "id": "stolen",
