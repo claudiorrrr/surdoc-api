@@ -3,12 +3,12 @@
     {
       "id": "4",
       "label": "Museo Histórico Nacional",
-      "count": 26399
+      "count": 26402
     },
     {
       "id": "3",
       "label": "Museo Nacional de Bellas Artes",
-      "count": 6100
+      "count": 6111
     },
     {
       "id": "9",
@@ -235,7 +235,7 @@
     {
       "id": "555",
       "label": "Artes Visuales",
-      "count": 14031
+      "count": 14044
     },
     {
       "id": "567",
@@ -260,7 +260,7 @@
     {
       "id": "556",
       "label": "Artes Decorativas",
-      "count": 4763
+      "count": 4764
     },
     {
       "id": "557",
@@ -474,7 +474,7 @@
     {
       "id": "1553",
       "label": "Desconocido/a",
-      "count": 4863
+      "count": 4864
     },
     {
       "id": "12825",
@@ -706,7 +706,7 @@
     {
       "id": "8341",
       "label": "Acuarela",
-      "count": 1317
+      "count": 1318
     },
     {
       "id": "8368",
@@ -841,12 +841,12 @@
     {
       "id": "8540",
       "label": "Lápiz",
-      "count": 242
+      "count": 243
     },
     {
       "id": "8539",
       "label": "Lápiz de grafito",
-      "count": 314
+      "count": 321
     },
     {
       "id": "8367",
@@ -856,7 +856,7 @@
     {
       "id": "8344",
       "label": "Madera",
-      "count": 6145
+      "count": 6146
     },
     {
       "id": "8353",
@@ -876,7 +876,7 @@
     {
       "id": "8339",
       "label": "Papel",
-      "count": 14376
+      "count": 14387
     },
     {
       "id": "8336",
@@ -886,7 +886,7 @@
     {
       "id": "8334",
       "label": "Pintura al óleo",
-      "count": 3099
+      "count": 3101
     },
     {
       "id": "8387",
@@ -916,7 +916,7 @@
     {
       "id": "8335",
       "label": "Tela",
-      "count": 4108
+      "count": 4110
     },
     {
       "id": "8449",
@@ -1043,7 +1043,7 @@
     {
       "id": "12375",
       "label": "Dibujo",
-      "count": 2004
+      "count": 2010
     },
     {
       "id": "12449",
@@ -1253,7 +1253,7 @@
     {
       "id": "12414",
       "label": "Pintura al óleo",
-      "count": 1436
+      "count": 1438
     },
     {
       "id": "12475",
@@ -1308,7 +1308,7 @@
     {
       "id": "12420",
       "label": "Tallado",
-      "count": 8362
+      "count": 8363
     },
     {
       "id": "12383",
@@ -1360,7 +1360,7 @@
     {
       "id": "14425",
       "label": "Arica",
-      "count": 126
+      "count": 127
     },
     {
       "id": "6378",
@@ -1430,7 +1430,7 @@
     {
       "id": "504",
       "label": "Cultura Arica: Fase San Miguel",
-      "count": 162
+      "count": 161
     },
     {
       "id": "479",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 79922
+      "count": 79936
     },
     {
       "id": "stolen",
