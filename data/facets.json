@@ -8,7 +8,7 @@
     {
       "id": "3",
       "label": "Museo Nacional de Bellas Artes",
-      "count": 6111
+      "count": 6116
     },
     {
       "id": "9",
@@ -23,7 +23,7 @@
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 3561
+      "count": 3574
     },
     {
       "id": "23",
@@ -235,7 +235,7 @@
     {
       "id": "555",
       "label": "Artes Visuales",
-      "count": 14044
+      "count": 14049
     },
     {
       "id": "567",
@@ -250,12 +250,12 @@
     {
       "id": "561",
       "label": "Textil, Vestuario y Adornos",
-      "count": 5935
+      "count": 5936
     },
     {
       "id": "558",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 5216
+      "count": 5217
     },
     {
       "id": "556",
@@ -280,7 +280,7 @@
     {
       "id": "559",
       "label": "Mobiliario",
-      "count": 1316
+      "count": 1317
     },
     {
       "id": "562",
@@ -305,7 +305,7 @@
     {
       "id": "565",
       "label": "Deportes, Juguetes y Juegos",
-      "count": 360
+      "count": 369
     },
     {
       "id": "568",
@@ -320,7 +320,7 @@
     {
       "id": "564",
       "label": "Instrumentos Musicales",
-      "count": 93
+      "count": 94
     },
     {
       "id": "566",
@@ -741,7 +741,7 @@
     {
       "id": "8425",
       "label": "Cartón",
-      "count": 2301
+      "count": 2302
     },
     {
       "id": "8360",
@@ -856,7 +856,7 @@
     {
       "id": "8344",
       "label": "Madera",
-      "count": 6146
+      "count": 6147
     },
     {
       "id": "8353",
@@ -886,7 +886,7 @@
     {
       "id": "8334",
       "label": "Pintura al óleo",
-      "count": 3101
+      "count": 3104
     },
     {
       "id": "8387",
@@ -916,7 +916,7 @@
     {
       "id": "8335",
       "label": "Tela",
-      "count": 4110
+      "count": 4112
     },
     {
       "id": "8449",
@@ -1128,7 +1128,7 @@
     {
       "id": "12417",
       "label": "Fotografía",
-      "count": 896
+      "count": 897
     },
     {
       "id": "12465",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 79948
+      "count": 79966
     },
     {
       "id": "stolen",
