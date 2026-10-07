@@ -13,7 +13,7 @@
     {
       "id": "9",
       "label": "Museo Arqueológico de La Serena",
-      "count": 4286
+      "count": 4290
     },
     {
       "id": "5",
@@ -23,7 +23,7 @@
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 3574
+      "count": 3586
     },
     {
       "id": "23",
@@ -63,7 +63,7 @@
     {
       "id": "7",
       "label": "Museo Regional de La Araucanía de Temuco",
-      "count": 1656
+      "count": 1670
     },
     {
       "id": "12",
@@ -230,7 +230,7 @@
     {
       "id": "551",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 20757
+      "count": 20773
     },
     {
       "id": "555",
@@ -245,7 +245,7 @@
     {
       "id": "560",
       "label": "Numismática, Filatelia y Objetos conmemorativos",
-      "count": 7263
+      "count": 7270
     },
     {
       "id": "561",
@@ -255,7 +255,7 @@
     {
       "id": "558",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 5217
+      "count": 5220
     },
     {
       "id": "556",
@@ -270,7 +270,7 @@
     {
       "id": "552",
       "label": "Textil, Vestuario y Adornos",
-      "count": 3147
+      "count": 3148
     },
     {
       "id": "563",
@@ -280,7 +280,7 @@
     {
       "id": "559",
       "label": "Mobiliario",
-      "count": 1317
+      "count": 1316
     },
     {
       "id": "562",
@@ -305,7 +305,7 @@
     {
       "id": "565",
       "label": "Deportes, Juguetes y Juegos",
-      "count": 369
+      "count": 373
     },
     {
       "id": "568",
@@ -736,7 +736,7 @@
     {
       "id": "8343",
       "label": "Bronce",
-      "count": 1821
+      "count": 1822
     },
     {
       "id": "8425",
@@ -751,7 +751,7 @@
     {
       "id": "8349",
       "label": "Cerámica",
-      "count": 5338
+      "count": 5346
     },
     {
       "id": "8352",
@@ -856,7 +856,7 @@
     {
       "id": "8344",
       "label": "Madera",
-      "count": 6147
+      "count": 6148
     },
     {
       "id": "8353",
@@ -931,7 +931,7 @@
     {
       "id": "8351",
       "label": "Vidrio",
-      "count": 1688
+      "count": 1690
     },
     {
       "id": "8340",
@@ -943,7 +943,7 @@
     {
       "id": "12456",
       "label": "Abrasión",
-      "count": 778
+      "count": 779
     },
     {
       "id": "12345",
@@ -1208,7 +1208,7 @@
     {
       "id": "12338",
       "label": "Modelado de cerámica",
-      "count": 4355
+      "count": 4362
     },
     {
       "id": "12368",
@@ -1233,12 +1233,12 @@
     {
       "id": "12410",
       "label": "Percusión",
-      "count": 82
+      "count": 85
     },
     {
       "id": "12428",
       "label": "Perforado",
-      "count": 1066
+      "count": 1067
     },
     {
       "id": "12474",
@@ -1278,7 +1278,7 @@
     {
       "id": "12350",
       "label": "Pulido",
-      "count": 3143
+      "count": 3144
     },
     {
       "id": "12388",
@@ -1308,7 +1308,7 @@
     {
       "id": "12420",
       "label": "Tallado",
-      "count": 8363
+      "count": 8364
     },
     {
       "id": "12383",
@@ -1465,7 +1465,7 @@
     {
       "id": "487",
       "label": "Cultura Mapuche",
-      "count": 701
+      "count": 710
     },
     {
       "id": "6398",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 79966
+      "count": 79996
     },
     {
       "id": "stolen",
