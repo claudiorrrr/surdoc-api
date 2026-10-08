@@ -8,12 +8,12 @@
     {
       "id": "3",
       "label": "Museo Nacional de Bellas Artes",
-      "count": 6116
+      "count": 6120
     },
     {
       "id": "9",
       "label": "Museo Arqueológico de La Serena",
-      "count": 4290
+      "count": 4303
     },
     {
       "id": "5",
@@ -23,7 +23,7 @@
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 3586
+      "count": 3590
     },
     {
       "id": "23",
@@ -63,7 +63,7 @@
     {
       "id": "7",
       "label": "Museo Regional de La Araucanía de Temuco",
-      "count": 1670
+      "count": 1674
     },
     {
       "id": "12",
@@ -230,12 +230,12 @@
     {
       "id": "551",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 20773
+      "count": 20787
     },
     {
       "id": "555",
       "label": "Artes Visuales",
-      "count": 14049
+      "count": 14050
     },
     {
       "id": "567",
@@ -245,7 +245,7 @@
     {
       "id": "560",
       "label": "Numismática, Filatelia y Objetos conmemorativos",
-      "count": 7270
+      "count": 7273
     },
     {
       "id": "561",
@@ -255,12 +255,12 @@
     {
       "id": "558",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 5220
+      "count": 5223
     },
     {
       "id": "556",
       "label": "Artes Decorativas",
-      "count": 4764
+      "count": 4766
     },
     {
       "id": "557",
@@ -275,12 +275,12 @@
     {
       "id": "563",
       "label": "Armas y Armamentos",
-      "count": 1403
+      "count": 1404
     },
     {
       "id": "559",
       "label": "Mobiliario",
-      "count": 1316
+      "count": 1317
     },
     {
       "id": "562",
@@ -736,7 +736,7 @@
     {
       "id": "8343",
       "label": "Bronce",
-      "count": 1822
+      "count": 1823
     },
     {
       "id": "8425",
@@ -751,7 +751,7 @@
     {
       "id": "8349",
       "label": "Cerámica",
-      "count": 5346
+      "count": 5347
     },
     {
       "id": "8352",
@@ -781,7 +781,7 @@
     {
       "id": "8373",
       "label": "Esmalte",
-      "count": 613
+      "count": 614
     },
     {
       "id": "8359",
@@ -811,7 +811,7 @@
     {
       "id": "8354",
       "label": "Hierro",
-      "count": 1102
+      "count": 1103
     },
     {
       "id": "8357",
@@ -856,7 +856,7 @@
     {
       "id": "8344",
       "label": "Madera",
-      "count": 6148
+      "count": 6150
     },
     {
       "id": "8353",
@@ -886,7 +886,7 @@
     {
       "id": "8334",
       "label": "Pintura al óleo",
-      "count": 3104
+      "count": 3105
     },
     {
       "id": "8387",
@@ -916,7 +916,7 @@
     {
       "id": "8335",
       "label": "Tela",
-      "count": 4112
+      "count": 4113
     },
     {
       "id": "8449",
@@ -943,7 +943,7 @@
     {
       "id": "12456",
       "label": "Abrasión",
-      "count": 779
+      "count": 788
     },
     {
       "id": "12345",
@@ -968,7 +968,7 @@
     {
       "id": "12447",
       "label": "Alisado",
-      "count": 1111
+      "count": 1115
     },
     {
       "id": "12400",
@@ -1133,7 +1133,7 @@
     {
       "id": "12465",
       "label": "Fundición",
-      "count": 2375
+      "count": 2377
     },
     {
       "id": "12464",
@@ -1208,7 +1208,7 @@
     {
       "id": "12338",
       "label": "Modelado de cerámica",
-      "count": 4362
+      "count": 4363
     },
     {
       "id": "12368",
@@ -1233,7 +1233,7 @@
     {
       "id": "12410",
       "label": "Percusión",
-      "count": 85
+      "count": 89
     },
     {
       "id": "12428",
@@ -1243,7 +1243,7 @@
     {
       "id": "12474",
       "label": "Pintado a mano",
-      "count": 769
+      "count": 770
     },
     {
       "id": "12378",
@@ -1253,7 +1253,7 @@
     {
       "id": "12414",
       "label": "Pintura al óleo",
-      "count": 1438
+      "count": 1439
     },
     {
       "id": "12475",
@@ -1278,7 +1278,7 @@
     {
       "id": "12350",
       "label": "Pulido",
-      "count": 3144
+      "count": 3152
     },
     {
       "id": "12388",
@@ -1308,7 +1308,7 @@
     {
       "id": "12420",
       "label": "Tallado",
-      "count": 8364
+      "count": 8372
     },
     {
       "id": "12383",
@@ -1420,7 +1420,7 @@
     {
       "id": "483",
       "label": "Cultura Aconcagua",
-      "count": 115
+      "count": 114
     },
     {
       "id": "474",
@@ -1445,7 +1445,7 @@
     {
       "id": "484",
       "label": "Cultura Inca",
-      "count": 157
+      "count": 158
     },
     {
       "id": "475",
@@ -1465,7 +1465,7 @@
     {
       "id": "487",
       "label": "Cultura Mapuche",
-      "count": 710
+      "count": 711
     },
     {
       "id": "6398",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 79996
+      "count": 80021
     },
     {
       "id": "stolen",
