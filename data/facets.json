@@ -3,7 +3,7 @@
     {
       "id": "4",
       "label": "Museo Histórico Nacional",
-      "count": 26402
+      "count": 26408
     },
     {
       "id": "3",
@@ -63,7 +63,7 @@
     {
       "id": "7",
       "label": "Museo Regional de La Araucanía de Temuco",
-      "count": 1674
+      "count": 1684
     },
     {
       "id": "12",
@@ -73,7 +73,7 @@
     {
       "id": "8",
       "label": "Museo O'Higginiano y de Bellas Artes de Talca",
-      "count": 1606
+      "count": 1608
     },
     {
       "id": "17",
@@ -118,7 +118,7 @@
     {
       "id": "105",
       "label": "Museo Andino",
-      "count": 693
+      "count": 694
     },
     {
       "id": "15",
@@ -230,12 +230,12 @@
     {
       "id": "551",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 20787
+      "count": 20789
     },
     {
       "id": "555",
       "label": "Artes Visuales",
-      "count": 14050
+      "count": 14052
     },
     {
       "id": "567",
@@ -255,7 +255,7 @@
     {
       "id": "558",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 5223
+      "count": 5235
     },
     {
       "id": "556",
@@ -275,7 +275,7 @@
     {
       "id": "563",
       "label": "Armas y Armamentos",
-      "count": 1404
+      "count": 1407
     },
     {
       "id": "559",
@@ -474,7 +474,7 @@
     {
       "id": "1553",
       "label": "Desconocido/a",
-      "count": 4864
+      "count": 4867
     },
     {
       "id": "12825",
@@ -756,7 +756,7 @@
     {
       "id": "8352",
       "label": "Cobre (metal)",
-      "count": 1182
+      "count": 1183
     },
     {
       "id": "8370",
@@ -856,12 +856,12 @@
     {
       "id": "8344",
       "label": "Madera",
-      "count": 6150
+      "count": 6152
     },
     {
       "id": "8353",
       "label": "Metal",
-      "count": 3836
+      "count": 3845
     },
     {
       "id": "8529",
@@ -891,7 +891,7 @@
     {
       "id": "8387",
       "label": "Plástico",
-      "count": 642
+      "count": 645
     },
     {
       "id": "8337",
@@ -916,7 +916,7 @@
     {
       "id": "8335",
       "label": "Tela",
-      "count": 4113
+      "count": 4115
     },
     {
       "id": "8449",
@@ -931,7 +931,7 @@
     {
       "id": "8351",
       "label": "Vidrio",
-      "count": 1690
+      "count": 1691
     },
     {
       "id": "8340",
@@ -1033,7 +1033,7 @@
     {
       "id": "12413",
       "label": "Cosido",
-      "count": 862
+      "count": 863
     },
     {
       "id": "12425",
@@ -1083,7 +1083,7 @@
     {
       "id": "12369",
       "label": "Ensamblado",
-      "count": 1739
+      "count": 1744
     },
     {
       "id": "12461",
@@ -1093,7 +1093,7 @@
     {
       "id": "12406",
       "label": "Esculpir",
-      "count": 77
+      "count": 78
     },
     {
       "id": "12397",
@@ -1430,7 +1430,7 @@
     {
       "id": "504",
       "label": "Cultura Arica: Fase San Miguel",
-      "count": 161
+      "count": 162
     },
     {
       "id": "479",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 80021
+      "count": 80040
     },
     {
       "id": "stolen",
