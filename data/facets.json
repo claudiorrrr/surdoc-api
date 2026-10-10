@@ -3,12 +3,12 @@
     {
       "id": "4",
       "label": "Museo Histórico Nacional",
-      "count": 26408
+      "count": 26417
     },
     {
       "id": "3",
       "label": "Museo Nacional de Bellas Artes",
-      "count": 6120
+      "count": 6121
     },
     {
       "id": "9",
@@ -58,12 +58,12 @@
     {
       "id": "14",
       "label": "Museo de Arte y Artesanía de Linares",
-      "count": 1716
+      "count": 1717
     },
     {
       "id": "7",
       "label": "Museo Regional de La Araucanía de Temuco",
-      "count": 1684
+      "count": 1687
     },
     {
       "id": "12",
@@ -73,7 +73,7 @@
     {
       "id": "8",
       "label": "Museo O'Higginiano y de Bellas Artes de Talca",
-      "count": 1608
+      "count": 1619
     },
     {
       "id": "17",
@@ -235,7 +235,7 @@
     {
       "id": "555",
       "label": "Artes Visuales",
-      "count": 14052
+      "count": 14065
     },
     {
       "id": "567",
@@ -245,7 +245,7 @@
     {
       "id": "560",
       "label": "Numismática, Filatelia y Objetos conmemorativos",
-      "count": 7273
+      "count": 7281
     },
     {
       "id": "561",
@@ -275,7 +275,7 @@
     {
       "id": "563",
       "label": "Armas y Armamentos",
-      "count": 1407
+      "count": 1411
     },
     {
       "id": "559",
@@ -474,7 +474,7 @@
     {
       "id": "1553",
       "label": "Desconocido/a",
-      "count": 4867
+      "count": 4873
     },
     {
       "id": "12825",
@@ -861,7 +861,7 @@
     {
       "id": "8353",
       "label": "Metal",
-      "count": 3845
+      "count": 3847
     },
     {
       "id": "8529",
@@ -886,7 +886,7 @@
     {
       "id": "8334",
       "label": "Pintura al óleo",
-      "count": 3105
+      "count": 3106
     },
     {
       "id": "8387",
@@ -916,7 +916,7 @@
     {
       "id": "8335",
       "label": "Tela",
-      "count": 4115
+      "count": 4116
     },
     {
       "id": "8449",
@@ -936,7 +936,7 @@
     {
       "id": "8340",
       "label": "Yeso",
-      "count": 481
+      "count": 482
     }
   ],
   "technique": [
@@ -1213,7 +1213,7 @@
     {
       "id": "12368",
       "label": "Moldeado",
-      "count": 1459
+      "count": 1460
     },
     {
       "id": "12470",
@@ -1253,7 +1253,7 @@
     {
       "id": "12414",
       "label": "Pintura al óleo",
-      "count": 1439
+      "count": 1440
     },
     {
       "id": "12475",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 80040
+      "count": 80065
     },
     {
       "id": "stolen",
