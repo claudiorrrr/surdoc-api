@@ -23,7 +23,7 @@
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 3590
+      "count": 3591
     },
     {
       "id": "23",
@@ -255,12 +255,12 @@
     {
       "id": "558",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 5235
+      "count": 5234
     },
     {
       "id": "556",
       "label": "Artes Decorativas",
-      "count": 4766
+      "count": 4767
     },
     {
       "id": "557",
@@ -280,7 +280,7 @@
     {
       "id": "559",
       "label": "Mobiliario",
-      "count": 1317
+      "count": 1318
     },
     {
       "id": "562",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 80065
+      "count": 80066
     },
     {
       "id": "stolen",
