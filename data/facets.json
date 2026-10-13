@@ -63,7 +63,7 @@
     {
       "id": "7",
       "label": "Museo Regional de La Araucanía de Temuco",
-      "count": 1687
+      "count": 1690
     },
     {
       "id": "12",
@@ -255,7 +255,7 @@
     {
       "id": "558",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 5234
+      "count": 5236
     },
     {
       "id": "556",
@@ -270,7 +270,7 @@
     {
       "id": "552",
       "label": "Textil, Vestuario y Adornos",
-      "count": 3148
+      "count": 3149
     },
     {
       "id": "563",
@@ -756,7 +756,7 @@
     {
       "id": "8352",
       "label": "Cobre (metal)",
-      "count": 1183
+      "count": 1184
     },
     {
       "id": "8370",
@@ -786,7 +786,7 @@
     {
       "id": "8359",
       "label": "Fibra vegetal",
-      "count": 1109
+      "count": 1111
     },
     {
       "id": "8510",
@@ -811,7 +811,7 @@
     {
       "id": "8354",
       "label": "Hierro",
-      "count": 1103
+      "count": 1104
     },
     {
       "id": "8357",
@@ -1338,7 +1338,7 @@
     {
       "id": "12337",
       "label": "Trenzado",
-      "count": 195
+      "count": 196
     },
     {
       "id": "12396",
@@ -1425,12 +1425,12 @@
     {
       "id": "474",
       "label": "Cultura Arica: Fase Gentilar",
-      "count": 59
+      "count": 60
     },
     {
       "id": "504",
       "label": "Cultura Arica: Fase San Miguel",
-      "count": 162
+      "count": 161
     },
     {
       "id": "479",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 80066
+      "count": 80069
     },
     {
       "id": "stolen",
