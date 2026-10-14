@@ -3,7 +3,7 @@
     {
       "id": "4",
       "label": "Museo Histórico Nacional",
-      "count": 26417
+      "count": 26433
     },
     {
       "id": "3",
@@ -23,7 +23,7 @@
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 3591
+      "count": 3593
     },
     {
       "id": "23",
@@ -63,7 +63,7 @@
     {
       "id": "7",
       "label": "Museo Regional de La Araucanía de Temuco",
-      "count": 1690
+      "count": 1699
     },
     {
       "id": "12",
@@ -73,7 +73,7 @@
     {
       "id": "8",
       "label": "Museo O'Higginiano y de Bellas Artes de Talca",
-      "count": 1619
+      "count": 1620
     },
     {
       "id": "17",
@@ -103,7 +103,7 @@
     {
       "id": "19",
       "label": "Museo Regional de Atacama",
-      "count": 886
+      "count": 888
     },
     {
       "id": "13",
@@ -230,12 +230,12 @@
     {
       "id": "551",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 20789
+      "count": 20792
     },
     {
       "id": "555",
       "label": "Artes Visuales",
-      "count": 14065
+      "count": 14081
     },
     {
       "id": "567",
@@ -255,7 +255,7 @@
     {
       "id": "558",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 5236
+      "count": 5239
     },
     {
       "id": "556",
@@ -270,22 +270,22 @@
     {
       "id": "552",
       "label": "Textil, Vestuario y Adornos",
-      "count": 3149
+      "count": 3151
     },
     {
       "id": "563",
       "label": "Armas y Armamentos",
-      "count": 1411
+      "count": 1410
     },
     {
       "id": "559",
       "label": "Mobiliario",
-      "count": 1318
+      "count": 1319
     },
     {
       "id": "562",
       "label": "Culto y Liturgia",
-      "count": 1102
+      "count": 1106
     },
     {
       "id": "570",
@@ -310,7 +310,7 @@
     {
       "id": "568",
       "label": "Estructuras, Edificios y Partes",
-      "count": 335
+      "count": 337
     },
     {
       "id": "553",
@@ -484,7 +484,7 @@
     {
       "id": "3182",
       "label": "Elena Poirier",
-      "count": 713
+      "count": 729
     },
     {
       "id": "6121",
@@ -604,7 +604,7 @@
     {
       "id": "1945",
       "label": "Nemesio Antúnez",
-      "count": 126
+      "count": 128
     },
     {
       "id": "5569",
@@ -706,7 +706,7 @@
     {
       "id": "8341",
       "label": "Acuarela",
-      "count": 1318
+      "count": 1321
     },
     {
       "id": "8368",
@@ -721,7 +721,7 @@
     {
       "id": "8342",
       "label": "Arcilla",
-      "count": 1688
+      "count": 1690
     },
     {
       "id": "8416",
@@ -751,7 +751,7 @@
     {
       "id": "8349",
       "label": "Cerámica",
-      "count": 5347
+      "count": 5348
     },
     {
       "id": "8352",
@@ -796,7 +796,7 @@
     {
       "id": "8401",
       "label": "Grafito",
-      "count": 446
+      "count": 447
     },
     {
       "id": "8383",
@@ -811,7 +811,7 @@
     {
       "id": "8354",
       "label": "Hierro",
-      "count": 1104
+      "count": 1105
     },
     {
       "id": "8357",
@@ -826,7 +826,7 @@
     {
       "id": "8347",
       "label": "Hueso (material animal orgánico)",
-      "count": 2222
+      "count": 2223
     },
     {
       "id": "8533",
@@ -856,12 +856,12 @@
     {
       "id": "8344",
       "label": "Madera",
-      "count": 6152
+      "count": 6151
     },
     {
       "id": "8353",
       "label": "Metal",
-      "count": 3847
+      "count": 3849
     },
     {
       "id": "8529",
@@ -876,7 +876,7 @@
     {
       "id": "8339",
       "label": "Papel",
-      "count": 14387
+      "count": 14396
     },
     {
       "id": "8336",
@@ -886,7 +886,7 @@
     {
       "id": "8334",
       "label": "Pintura al óleo",
-      "count": 3106
+      "count": 3108
     },
     {
       "id": "8387",
@@ -916,7 +916,7 @@
     {
       "id": "8335",
       "label": "Tela",
-      "count": 4116
+      "count": 4118
     },
     {
       "id": "8449",
@@ -926,7 +926,7 @@
     {
       "id": "8346",
       "label": "Tinta",
-      "count": 6860
+      "count": 6862
     },
     {
       "id": "8351",
@@ -958,7 +958,7 @@
     {
       "id": "12356",
       "label": "Aguafuerte",
-      "count": 629
+      "count": 628
     },
     {
       "id": "12348",
@@ -1043,7 +1043,7 @@
     {
       "id": "12375",
       "label": "Dibujo",
-      "count": 2010
+      "count": 2014
     },
     {
       "id": "12449",
@@ -1208,7 +1208,7 @@
     {
       "id": "12338",
       "label": "Modelado de cerámica",
-      "count": 4363
+      "count": 4364
     },
     {
       "id": "12368",
@@ -1278,7 +1278,7 @@
     {
       "id": "12350",
       "label": "Pulido",
-      "count": 3152
+      "count": 3153
     },
     {
       "id": "12388",
@@ -1360,7 +1360,7 @@
     {
       "id": "14425",
       "label": "Arica",
-      "count": 127
+      "count": 128
     },
     {
       "id": "6378",
@@ -1425,12 +1425,12 @@
     {
       "id": "474",
       "label": "Cultura Arica: Fase Gentilar",
-      "count": 60
+      "count": 62
     },
     {
       "id": "504",
       "label": "Cultura Arica: Fase San Miguel",
-      "count": 161
+      "count": 158
     },
     {
       "id": "479",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 80069
+      "count": 80099
     },
     {
       "id": "stolen",
