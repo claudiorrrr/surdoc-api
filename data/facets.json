@@ -3,7 +3,7 @@
     {
       "id": "4",
       "label": "Museo Histórico Nacional",
-      "count": 26471
+      "count": 26478
     },
     {
       "id": "3",
@@ -73,7 +73,7 @@
     {
       "id": "8",
       "label": "Museo O'Higginiano y de Bellas Artes de Talca",
-      "count": 1621
+      "count": 1629
     },
     {
       "id": "17",
@@ -83,7 +83,7 @@
     {
       "id": "24",
       "label": "Museo de Antofagasta",
-      "count": 1486
+      "count": 1487
     },
     {
       "id": "30",
@@ -118,7 +118,7 @@
     {
       "id": "105",
       "label": "Museo Andino",
-      "count": 694
+      "count": 698
     },
     {
       "id": "15",
@@ -230,12 +230,12 @@
     {
       "id": "551",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 20793
+      "count": 20798
     },
     {
       "id": "555",
       "label": "Artes Visuales",
-      "count": 14097
+      "count": 14105
     },
     {
       "id": "567",
@@ -245,7 +245,7 @@
     {
       "id": "560",
       "label": "Numismática, Filatelia y Objetos conmemorativos",
-      "count": 7285
+      "count": 7292
     },
     {
       "id": "561",
@@ -332,7 +332,7 @@
     {
       "id": "7217",
       "label": "Casa de Moneda de Chile",
-      "count": 142
+      "count": 146
     },
     {
       "id": "6498",
@@ -736,7 +736,7 @@
     {
       "id": "8343",
       "label": "Bronce",
-      "count": 1824
+      "count": 1826
     },
     {
       "id": "8425",
@@ -856,12 +856,12 @@
     {
       "id": "8344",
       "label": "Madera",
-      "count": 6159
+      "count": 6160
     },
     {
       "id": "8353",
       "label": "Metal",
-      "count": 3851
+      "count": 3856
     },
     {
       "id": "8529",
@@ -891,7 +891,7 @@
     {
       "id": "8387",
       "label": "Plástico",
-      "count": 645
+      "count": 649
     },
     {
       "id": "8337",
@@ -921,7 +921,7 @@
     {
       "id": "8449",
       "label": "Terciopelo",
-      "count": 210
+      "count": 211
     },
     {
       "id": "8346",
@@ -953,7 +953,7 @@
     {
       "id": "12366",
       "label": "Acuñación",
-      "count": 2695
+      "count": 2702
     },
     {
       "id": "12356",
@@ -1028,7 +1028,7 @@
     {
       "id": "12405",
       "label": "Corte",
-      "count": 164
+      "count": 165
     },
     {
       "id": "12413",
@@ -1083,7 +1083,7 @@
     {
       "id": "12369",
       "label": "Ensamblado",
-      "count": 1747
+      "count": 1748
     },
     {
       "id": "12461",
@@ -1263,7 +1263,7 @@
     {
       "id": "12398",
       "label": "Pirograbado",
-      "count": 81
+      "count": 82
     },
     {
       "id": "12360",
@@ -1360,7 +1360,7 @@
     {
       "id": "14425",
       "label": "Arica",
-      "count": 129
+      "count": 131
     },
     {
       "id": "6378",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 80143
+      "count": 80163
     },
     {
       "id": "stolen",
