@@ -2,7 +2,7 @@
   {
     "id": "4",
     "label": "Museo Histórico Nacional",
-    "count": 26478
+    "count": 26487
   },
   {
     "id": "3",
@@ -22,7 +22,7 @@
   {
     "id": "16",
     "label": "Museo Regional de Magallanes",
-    "count": 3593
+    "count": 3594
   },
   {
     "id": "23",
@@ -65,13 +65,13 @@
     "count": 1702
   },
   {
-    "id": "12",
-    "label": "Museo del Limarí",
-    "count": 1629
-  },
-  {
     "id": "8",
     "label": "Museo O'Higginiano y de Bellas Artes de Talca",
+    "count": 1632
+  },
+  {
+    "id": "12",
+    "label": "Museo del Limarí",
     "count": 1629
   },
   {
@@ -87,7 +87,7 @@
   {
     "id": "30",
     "label": "Pinacoteca Universidad de Concepción",
-    "count": 1466
+    "count": 1467
   },
   {
     "id": "31",
