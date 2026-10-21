@@ -8,7 +8,7 @@
     {
       "id": "3",
       "label": "Museo Nacional de Bellas Artes",
-      "count": 6121
+      "count": 6119
     },
     {
       "id": "9",
@@ -23,7 +23,7 @@
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 3594
+      "count": 3596
     },
     {
       "id": "23",
@@ -43,7 +43,7 @@
     {
       "id": "2",
       "label": "Museo Nacional de Historia Natural",
-      "count": 2437
+      "count": 2444
     },
     {
       "id": "26",
@@ -68,7 +68,7 @@
     {
       "id": "8",
       "label": "Museo O'Higginiano y de Bellas Artes de Talca",
-      "count": 1632
+      "count": 1630
     },
     {
       "id": "12",
@@ -88,7 +88,7 @@
     {
       "id": "30",
       "label": "Pinacoteca Universidad de Concepción",
-      "count": 1467
+      "count": 1468
     },
     {
       "id": "31",
@@ -230,7 +230,7 @@
     {
       "id": "551",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 20798
+      "count": 20805
     },
     {
       "id": "555",
@@ -240,7 +240,7 @@
     {
       "id": "567",
       "label": "Libros y Documentos",
-      "count": 8715
+      "count": 8714
     },
     {
       "id": "560",
@@ -285,7 +285,7 @@
     {
       "id": "562",
       "label": "Culto y Liturgia",
-      "count": 1107
+      "count": 1106
     },
     {
       "id": "570",
@@ -313,13 +313,13 @@
       "count": 337
     },
     {
-      "id": "553",
-      "label": "Instrumentos musicales",
-      "count": 94
-    },
-    {
       "id": "564",
       "label": "Instrumentos Musicales",
+      "count": 95
+    },
+    {
+      "id": "553",
+      "label": "Instrumentos musicales",
       "count": 94
     },
     {
@@ -474,7 +474,7 @@
     {
       "id": "1553",
       "label": "Desconocido/a",
-      "count": 4874
+      "count": 4872
     },
     {
       "id": "12825",
@@ -736,7 +736,7 @@
     {
       "id": "8343",
       "label": "Bronce",
-      "count": 1829
+      "count": 1828
     },
     {
       "id": "8425",
@@ -876,12 +876,12 @@
     {
       "id": "8339",
       "label": "Papel",
-      "count": 14408
+      "count": 14407
     },
     {
       "id": "8336",
       "label": "Piedra",
-      "count": 5271
+      "count": 5270
     },
     {
       "id": "8334",
@@ -896,7 +896,7 @@
     {
       "id": "8337",
       "label": "Plata",
-      "count": 2176
+      "count": 2177
     },
     {
       "id": "8398",
@@ -916,7 +916,7 @@
     {
       "id": "8335",
       "label": "Tela",
-      "count": 4122
+      "count": 4123
     },
     {
       "id": "8449",
@@ -1163,7 +1163,7 @@
     {
       "id": "12363",
       "label": "Impresión (técnica gráfica)",
-      "count": 4504
+      "count": 4503
     },
     {
       "id": "12385",
@@ -1178,7 +1178,7 @@
     {
       "id": "12365",
       "label": "Labrado",
-      "count": 84
+      "count": 83
     },
     {
       "id": "12371",
@@ -1253,7 +1253,7 @@
     {
       "id": "12414",
       "label": "Pintura al óleo",
-      "count": 1445
+      "count": 1446
     },
     {
       "id": "12475",
@@ -1360,7 +1360,7 @@
     {
       "id": "14425",
       "label": "Arica",
-      "count": 131
+      "count": 133
     },
     {
       "id": "6378",
@@ -1430,7 +1430,7 @@
     {
       "id": "504",
       "label": "Cultura Arica: Fase San Miguel",
-      "count": 157
+      "count": 156
     },
     {
       "id": "479",
@@ -1485,7 +1485,7 @@
     {
       "id": "6387",
       "label": "Mapuche",
-      "count": 1044
+      "count": 1043
     },
     {
       "id": "6393",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 80178
+      "count": 80184
     },
     {
       "id": "stolen",
