@@ -3,12 +3,12 @@
     {
       "id": "4",
       "label": "Museo Histórico Nacional",
-      "count": 26487
+      "count": 26492
     },
     {
       "id": "3",
       "label": "Museo Nacional de Bellas Artes",
-      "count": 6119
+      "count": 6115
     },
     {
       "id": "9",
@@ -23,7 +23,7 @@
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 3596
+      "count": 3600
     },
     {
       "id": "23",
@@ -68,7 +68,7 @@
     {
       "id": "8",
       "label": "Museo O'Higginiano y de Bellas Artes de Talca",
-      "count": 1630
+      "count": 1631
     },
     {
       "id": "12",
@@ -235,12 +235,12 @@
     {
       "id": "555",
       "label": "Artes Visuales",
-      "count": 14110
+      "count": 14108
     },
     {
       "id": "567",
       "label": "Libros y Documentos",
-      "count": 8714
+      "count": 8719
     },
     {
       "id": "560",
@@ -255,7 +255,7 @@
     {
       "id": "558",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 5248
+      "count": 5250
     },
     {
       "id": "556",
@@ -280,7 +280,7 @@
     {
       "id": "559",
       "label": "Mobiliario",
-      "count": 1322
+      "count": 1323
     },
     {
       "id": "562",
@@ -377,7 +377,7 @@
     {
       "id": "6556",
       "label": "Editorial Zig-Zag",
-      "count": 295
+      "count": 299
     },
     {
       "id": "7823",
@@ -484,7 +484,7 @@
     {
       "id": "3182",
       "label": "Elena Poirier",
-      "count": 744
+      "count": 745
     },
     {
       "id": "6121",
@@ -706,7 +706,7 @@
     {
       "id": "8341",
       "label": "Acuarela",
-      "count": 1328
+      "count": 1329
     },
     {
       "id": "8368",
@@ -741,7 +741,7 @@
     {
       "id": "8425",
       "label": "Cartón",
-      "count": 2304
+      "count": 2310
     },
     {
       "id": "8360",
@@ -856,7 +856,7 @@
     {
       "id": "8344",
       "label": "Madera",
-      "count": 6163
+      "count": 6161
     },
     {
       "id": "8353",
@@ -876,7 +876,7 @@
     {
       "id": "8339",
       "label": "Papel",
-      "count": 14407
+      "count": 14416
     },
     {
       "id": "8336",
@@ -886,7 +886,7 @@
     {
       "id": "8334",
       "label": "Pintura al óleo",
-      "count": 3111
+      "count": 3103
     },
     {
       "id": "8387",
@@ -916,7 +916,7 @@
     {
       "id": "8335",
       "label": "Tela",
-      "count": 4123
+      "count": 4116
     },
     {
       "id": "8449",
@@ -926,7 +926,7 @@
     {
       "id": "8346",
       "label": "Tinta",
-      "count": 6866
+      "count": 6870
     },
     {
       "id": "8351",
@@ -948,7 +948,7 @@
     {
       "id": "12345",
       "label": "Acuarela",
-      "count": 264
+      "count": 268
     },
     {
       "id": "12366",
@@ -1068,7 +1068,7 @@
     {
       "id": "12455",
       "label": "Encuadernación",
-      "count": 1571
+      "count": 1575
     },
     {
       "id": "12377",
@@ -1163,7 +1163,7 @@
     {
       "id": "12363",
       "label": "Impresión (técnica gráfica)",
-      "count": 4503
+      "count": 4507
     },
     {
       "id": "12385",
@@ -1253,7 +1253,7 @@
     {
       "id": "12414",
       "label": "Pintura al óleo",
-      "count": 1446
+      "count": 1445
     },
     {
       "id": "12475",
@@ -1293,7 +1293,7 @@
     {
       "id": "12353",
       "label": "Serigrafía",
-      "count": 243
+      "count": 244
     },
     {
       "id": "12381",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 80184
+      "count": 80190
     },
     {
       "id": "stolen",
