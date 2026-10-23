@@ -3,12 +3,12 @@
     {
       "id": "4",
       "label": "Museo Histórico Nacional",
-      "count": 26492
+      "count": 26510
     },
     {
       "id": "3",
       "label": "Museo Nacional de Bellas Artes",
-      "count": 6115
+      "count": 6113
     },
     {
       "id": "9",
@@ -23,7 +23,7 @@
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 3600
+      "count": 3608
     },
     {
       "id": "23",
@@ -43,7 +43,7 @@
     {
       "id": "2",
       "label": "Museo Nacional de Historia Natural",
-      "count": 2444
+      "count": 2445
     },
     {
       "id": "26",
@@ -230,22 +230,22 @@
     {
       "id": "551",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 20805
+      "count": 20806
     },
     {
       "id": "555",
       "label": "Artes Visuales",
-      "count": 14108
+      "count": 14106
     },
     {
       "id": "567",
       "label": "Libros y Documentos",
-      "count": 8719
+      "count": 8733
     },
     {
       "id": "560",
       "label": "Numismática, Filatelia y Objetos conmemorativos",
-      "count": 7296
+      "count": 7307
     },
     {
       "id": "561",
@@ -255,7 +255,7 @@
     {
       "id": "558",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 5250
+      "count": 5252
     },
     {
       "id": "556",
@@ -280,7 +280,7 @@
     {
       "id": "559",
       "label": "Mobiliario",
-      "count": 1323
+      "count": 1322
     },
     {
       "id": "562",
@@ -377,7 +377,7 @@
     {
       "id": "6556",
       "label": "Editorial Zig-Zag",
-      "count": 299
+      "count": 306
     },
     {
       "id": "7823",
@@ -741,7 +741,7 @@
     {
       "id": "8425",
       "label": "Cartón",
-      "count": 2310
+      "count": 2317
     },
     {
       "id": "8360",
@@ -826,7 +826,7 @@
     {
       "id": "8347",
       "label": "Hueso (material animal orgánico)",
-      "count": 2223
+      "count": 2224
     },
     {
       "id": "8533",
@@ -856,7 +856,7 @@
     {
       "id": "8344",
       "label": "Madera",
-      "count": 6161
+      "count": 6162
     },
     {
       "id": "8353",
@@ -876,7 +876,7 @@
     {
       "id": "8339",
       "label": "Papel",
-      "count": 14416
+      "count": 14428
     },
     {
       "id": "8336",
@@ -916,7 +916,7 @@
     {
       "id": "8335",
       "label": "Tela",
-      "count": 4116
+      "count": 4115
     },
     {
       "id": "8449",
@@ -926,7 +926,7 @@
     {
       "id": "8346",
       "label": "Tinta",
-      "count": 6870
+      "count": 6877
     },
     {
       "id": "8351",
@@ -1068,7 +1068,7 @@
     {
       "id": "12455",
       "label": "Encuadernación",
-      "count": 1575
+      "count": 1582
     },
     {
       "id": "12377",
@@ -1163,7 +1163,7 @@
     {
       "id": "12363",
       "label": "Impresión (técnica gráfica)",
-      "count": 4507
+      "count": 4514
     },
     {
       "id": "12385",
@@ -1248,12 +1248,12 @@
     {
       "id": "12378",
       "label": "Pintura",
-      "count": 1339
+      "count": 1338
     },
     {
       "id": "12414",
       "label": "Pintura al óleo",
-      "count": 1445
+      "count": 1444
     },
     {
       "id": "12475",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 80190
+      "count": 80215
     },
     {
       "id": "stolen",
