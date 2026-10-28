@@ -73,7 +73,7 @@
     {
       "id": "8",
       "label": "Museo O'Higginiano y de Bellas Artes de Talca",
-      "count": 1627
+      "count": 1628
     },
     {
       "id": "17",
@@ -88,7 +88,7 @@
     {
       "id": "30",
       "label": "Pinacoteca Universidad de Concepción",
-      "count": 1468
+      "count": 1467
     },
     {
       "id": "31",
@@ -118,7 +118,7 @@
     {
       "id": "105",
       "label": "Museo Andino",
-      "count": 699
+      "count": 702
     },
     {
       "id": "15",
@@ -230,7 +230,7 @@
     {
       "id": "551",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 20807
+      "count": 20810
     },
     {
       "id": "555",
@@ -255,12 +255,12 @@
     {
       "id": "558",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 5252
+      "count": 5251
     },
     {
       "id": "556",
       "label": "Artes Decorativas",
-      "count": 4769
+      "count": 4770
     },
     {
       "id": "557",
@@ -474,7 +474,7 @@
     {
       "id": "1553",
       "label": "Desconocido/a",
-      "count": 4873
+      "count": 4870
     },
     {
       "id": "12825",
@@ -876,7 +876,7 @@
     {
       "id": "8339",
       "label": "Papel",
-      "count": 14432
+      "count": 14449
     },
     {
       "id": "8336",
@@ -886,7 +886,7 @@
     {
       "id": "8334",
       "label": "Pintura al óleo",
-      "count": 3102
+      "count": 3101
     },
     {
       "id": "8387",
@@ -968,7 +968,7 @@
     {
       "id": "12447",
       "label": "Alisado",
-      "count": 1117
+      "count": 1119
     },
     {
       "id": "12400",
@@ -1208,7 +1208,7 @@
     {
       "id": "12338",
       "label": "Modelado de cerámica",
-      "count": 4365
+      "count": 4368
     },
     {
       "id": "12368",
@@ -1253,7 +1253,7 @@
     {
       "id": "12414",
       "label": "Pintura al óleo",
-      "count": 1443
+      "count": 1442
     },
     {
       "id": "12475",
@@ -1278,7 +1278,7 @@
     {
       "id": "12350",
       "label": "Pulido",
-      "count": 3153
+      "count": 3154
     },
     {
       "id": "12388",
@@ -1425,7 +1425,7 @@
     {
       "id": "474",
       "label": "Cultura Arica: Fase Gentilar",
-      "count": 63
+      "count": 65
     },
     {
       "id": "504",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 80289
+      "count": 80292
     },
     {
       "id": "stolen",
