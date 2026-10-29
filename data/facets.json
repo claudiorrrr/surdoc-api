@@ -3,7 +3,7 @@
     {
       "id": "4",
       "label": "Museo Histórico Nacional",
-      "count": 26582
+      "count": 26606
     },
     {
       "id": "3",
@@ -23,7 +23,7 @@
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 3616
+      "count": 3617
     },
     {
       "id": "23",
@@ -63,7 +63,7 @@
     {
       "id": "7",
       "label": "Museo Regional de La Araucanía de Temuco",
-      "count": 1702
+      "count": 1703
     },
     {
       "id": "12",
@@ -88,7 +88,7 @@
     {
       "id": "30",
       "label": "Pinacoteca Universidad de Concepción",
-      "count": 1467
+      "count": 1469
     },
     {
       "id": "31",
@@ -118,7 +118,7 @@
     {
       "id": "105",
       "label": "Museo Andino",
-      "count": 702
+      "count": 703
     },
     {
       "id": "15",
@@ -230,12 +230,12 @@
     {
       "id": "551",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 20810
+      "count": 20812
     },
     {
       "id": "555",
       "label": "Artes Visuales",
-      "count": 14103
+      "count": 14105
     },
     {
       "id": "567",
@@ -245,12 +245,12 @@
     {
       "id": "560",
       "label": "Numismática, Filatelia y Objetos conmemorativos",
-      "count": 7379
+      "count": 7397
     },
     {
       "id": "561",
       "label": "Textil, Vestuario y Adornos",
-      "count": 5937
+      "count": 5938
     },
     {
       "id": "558",
@@ -275,7 +275,7 @@
     {
       "id": "563",
       "label": "Armas y Armamentos",
-      "count": 1418
+      "count": 1424
     },
     {
       "id": "559",
@@ -856,12 +856,12 @@
     {
       "id": "8344",
       "label": "Madera",
-      "count": 6160
+      "count": 6164
     },
     {
       "id": "8353",
       "label": "Metal",
-      "count": 3857
+      "count": 3862
     },
     {
       "id": "8529",
@@ -876,7 +876,7 @@
     {
       "id": "8339",
       "label": "Papel",
-      "count": 14449
+      "count": 14458
     },
     {
       "id": "8336",
@@ -916,7 +916,7 @@
     {
       "id": "8335",
       "label": "Tela",
-      "count": 4113
+      "count": 4115
     },
     {
       "id": "8449",
@@ -968,7 +968,7 @@
     {
       "id": "12447",
       "label": "Alisado",
-      "count": 1119
+      "count": 1120
     },
     {
       "id": "12400",
@@ -1118,7 +1118,7 @@
     {
       "id": "12370",
       "label": "Forjado",
-      "count": 753
+      "count": 758
     },
     {
       "id": "12459",
@@ -1208,7 +1208,7 @@
     {
       "id": "12338",
       "label": "Modelado de cerámica",
-      "count": 4368
+      "count": 4369
     },
     {
       "id": "12368",
@@ -1253,7 +1253,7 @@
     {
       "id": "12414",
       "label": "Pintura al óleo",
-      "count": 1442
+      "count": 1444
     },
     {
       "id": "12475",
@@ -1425,7 +1425,7 @@
     {
       "id": "474",
       "label": "Cultura Arica: Fase Gentilar",
-      "count": 65
+      "count": 66
     },
     {
       "id": "504",
@@ -1485,7 +1485,7 @@
     {
       "id": "6387",
       "label": "Mapuche",
-      "count": 1043
+      "count": 1042
     },
     {
       "id": "6393",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 80292
+      "count": 80321
     },
     {
       "id": "stolen",
