@@ -3,7 +3,7 @@
     {
       "id": "4",
       "label": "Museo Histórico Nacional",
-      "count": 26606
+      "count": 26624
     },
     {
       "id": "3",
@@ -13,7 +13,7 @@
     {
       "id": "9",
       "label": "Museo Arqueológico de La Serena",
-      "count": 4303
+      "count": 4304
     },
     {
       "id": "5",
@@ -23,7 +23,7 @@
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 3617
+      "count": 3626
     },
     {
       "id": "23",
@@ -73,7 +73,7 @@
     {
       "id": "8",
       "label": "Museo O'Higginiano y de Bellas Artes de Talca",
-      "count": 1628
+      "count": 1629
     },
     {
       "id": "17",
@@ -88,7 +88,7 @@
     {
       "id": "30",
       "label": "Pinacoteca Universidad de Concepción",
-      "count": 1469
+      "count": 1470
     },
     {
       "id": "31",
@@ -230,12 +230,12 @@
     {
       "id": "551",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 20812
+      "count": 20813
     },
     {
       "id": "555",
       "label": "Artes Visuales",
-      "count": 14105
+      "count": 14107
     },
     {
       "id": "567",
@@ -245,17 +245,17 @@
     {
       "id": "560",
       "label": "Numismática, Filatelia y Objetos conmemorativos",
-      "count": 7397
+      "count": 7415
     },
     {
       "id": "561",
       "label": "Textil, Vestuario y Adornos",
-      "count": 5938
+      "count": 5943
     },
     {
       "id": "558",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 5251
+      "count": 5253
     },
     {
       "id": "556",
@@ -310,7 +310,7 @@
     {
       "id": "568",
       "label": "Estructuras, Edificios y Partes",
-      "count": 337
+      "count": 339
     },
     {
       "id": "564",
@@ -474,7 +474,7 @@
     {
       "id": "1553",
       "label": "Desconocido/a",
-      "count": 4870
+      "count": 4868
     },
     {
       "id": "12825",
@@ -736,7 +736,7 @@
     {
       "id": "8343",
       "label": "Bronce",
-      "count": 1828
+      "count": 1827
     },
     {
       "id": "8425",
@@ -806,12 +806,12 @@
     {
       "id": "8338",
       "label": "Greda",
-      "count": 876
+      "count": 878
     },
     {
       "id": "8354",
       "label": "Hierro",
-      "count": 1104
+      "count": 1105
     },
     {
       "id": "8357",
@@ -856,7 +856,7 @@
     {
       "id": "8344",
       "label": "Madera",
-      "count": 6164
+      "count": 6165
     },
     {
       "id": "8353",
@@ -876,7 +876,7 @@
     {
       "id": "8339",
       "label": "Papel",
-      "count": 14458
+      "count": 14468
     },
     {
       "id": "8336",
@@ -916,7 +916,7 @@
     {
       "id": "8335",
       "label": "Tela",
-      "count": 4115
+      "count": 4116
     },
     {
       "id": "8449",
@@ -1133,7 +1133,7 @@
     {
       "id": "12465",
       "label": "Fundición",
-      "count": 2380
+      "count": 2379
     },
     {
       "id": "12464",
@@ -1253,7 +1253,7 @@
     {
       "id": "12414",
       "label": "Pintura al óleo",
-      "count": 1444
+      "count": 1445
     },
     {
       "id": "12475",
@@ -1425,12 +1425,12 @@
     {
       "id": "474",
       "label": "Cultura Arica: Fase Gentilar",
-      "count": 66
+      "count": 65
     },
     {
       "id": "504",
       "label": "Cultura Arica: Fase San Miguel",
-      "count": 155
+      "count": 157
     },
     {
       "id": "479",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 80321
+      "count": 80351
     },
     {
       "id": "stolen",
