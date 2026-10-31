@@ -8,7 +8,7 @@
     {
       "id": "3",
       "label": "Museo Nacional de Bellas Artes",
-      "count": 6110
+      "count": 6109
     },
     {
       "id": "9",
@@ -23,7 +23,7 @@
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 3626
+      "count": 3629
     },
     {
       "id": "23",
@@ -235,7 +235,7 @@
     {
       "id": "555",
       "label": "Artes Visuales",
-      "count": 14107
+      "count": 14106
     },
     {
       "id": "567",
@@ -255,7 +255,7 @@
     {
       "id": "558",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 5253
+      "count": 5256
     },
     {
       "id": "556",
@@ -474,7 +474,7 @@
     {
       "id": "1553",
       "label": "Desconocido/a",
-      "count": 4868
+      "count": 4867
     },
     {
       "id": "12825",
@@ -741,7 +741,7 @@
     {
       "id": "8425",
       "label": "Cartón",
-      "count": 2316
+      "count": 2315
     },
     {
       "id": "8360",
@@ -751,7 +751,7 @@
     {
       "id": "8349",
       "label": "Cerámica",
-      "count": 5349
+      "count": 5351
     },
     {
       "id": "8352",
@@ -876,7 +876,7 @@
     {
       "id": "8339",
       "label": "Papel",
-      "count": 14468
+      "count": 14484
     },
     {
       "id": "8336",
@@ -886,7 +886,7 @@
     {
       "id": "8334",
       "label": "Pintura al óleo",
-      "count": 3101
+      "count": 3100
     },
     {
       "id": "8387",
@@ -896,7 +896,7 @@
     {
       "id": "8337",
       "label": "Plata",
-      "count": 2177
+      "count": 2178
     },
     {
       "id": "8398",
@@ -1425,12 +1425,12 @@
     {
       "id": "474",
       "label": "Cultura Arica: Fase Gentilar",
-      "count": 65
+      "count": 67
     },
     {
       "id": "504",
       "label": "Cultura Arica: Fase San Miguel",
-      "count": 157
+      "count": 155
     },
     {
       "id": "479",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 80351
+      "count": 80353
     },
     {
       "id": "stolen",
