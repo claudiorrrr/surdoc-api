@@ -3,7 +3,7 @@
     {
       "id": "4",
       "label": "Museo Histórico Nacional",
-      "count": 26624
+      "count": 26629
     },
     {
       "id": "3",
@@ -23,7 +23,7 @@
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 3629
+      "count": 3634
     },
     {
       "id": "23",
@@ -83,7 +83,7 @@
     {
       "id": "24",
       "label": "Museo de Antofagasta",
-      "count": 1487
+      "count": 1491
     },
     {
       "id": "30",
@@ -118,7 +118,7 @@
     {
       "id": "105",
       "label": "Museo Andino",
-      "count": 707
+      "count": 711
     },
     {
       "id": "15",
@@ -230,7 +230,7 @@
     {
       "id": "551",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 20817
+      "count": 20825
     },
     {
       "id": "555",
@@ -245,17 +245,17 @@
     {
       "id": "560",
       "label": "Numismática, Filatelia y Objetos conmemorativos",
-      "count": 7415
+      "count": 7420
     },
     {
       "id": "561",
       "label": "Textil, Vestuario y Adornos",
-      "count": 5943
+      "count": 5942
     },
     {
       "id": "558",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 5256
+      "count": 5260
     },
     {
       "id": "556",
@@ -270,7 +270,7 @@
     {
       "id": "552",
       "label": "Textil, Vestuario y Adornos",
-      "count": 3152
+      "count": 3153
     },
     {
       "id": "563",
@@ -310,7 +310,7 @@
     {
       "id": "568",
       "label": "Estructuras, Edificios y Partes",
-      "count": 339
+      "count": 340
     },
     {
       "id": "564",
@@ -751,7 +751,7 @@
     {
       "id": "8349",
       "label": "Cerámica",
-      "count": 5351
+      "count": 5353
     },
     {
       "id": "8352",
@@ -761,7 +761,7 @@
     {
       "id": "8370",
       "label": "Concha",
-      "count": 505
+      "count": 506
     },
     {
       "id": "8532",
@@ -771,7 +771,7 @@
     {
       "id": "8522",
       "label": "Cuarzo",
-      "count": 209
+      "count": 210
     },
     {
       "id": "8355",
@@ -876,7 +876,7 @@
     {
       "id": "8339",
       "label": "Papel",
-      "count": 14486
+      "count": 14500
     },
     {
       "id": "8336",
@@ -911,7 +911,7 @@
     {
       "id": "8563",
       "label": "Sílice",
-      "count": 1413
+      "count": 1414
     },
     {
       "id": "8335",
@@ -943,7 +943,7 @@
     {
       "id": "12456",
       "label": "Abrasión",
-      "count": 788
+      "count": 789
     },
     {
       "id": "12345",
@@ -968,7 +968,7 @@
     {
       "id": "12447",
       "label": "Alisado",
-      "count": 1122
+      "count": 1123
     },
     {
       "id": "12400",
@@ -1208,7 +1208,7 @@
     {
       "id": "12338",
       "label": "Modelado de cerámica",
-      "count": 4372
+      "count": 4375
     },
     {
       "id": "12368",
@@ -1278,7 +1278,7 @@
     {
       "id": "12350",
       "label": "Pulido",
-      "count": 3155
+      "count": 3157
     },
     {
       "id": "12388",
@@ -1360,7 +1360,7 @@
     {
       "id": "14425",
       "label": "Arica",
-      "count": 134
+      "count": 136
     },
     {
       "id": "6378",
@@ -1395,7 +1395,7 @@
     {
       "id": "493",
       "label": "Complejo Huentelauquén",
-      "count": 449
+      "count": 450
     },
     {
       "id": "476",
@@ -1425,7 +1425,7 @@
     {
       "id": "474",
       "label": "Cultura Arica: Fase Gentilar",
-      "count": 67
+      "count": 69
     },
     {
       "id": "504",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 80357
+      "count": 80375
     },
     {
       "id": "stolen",
