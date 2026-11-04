@@ -2,12 +2,12 @@
   {
     "id": "4",
     "label": "Museo Histórico Nacional",
-    "count": 26629
+    "count": 26660
   },
   {
     "id": "3",
     "label": "Museo Nacional de Bellas Artes",
-    "count": 6109
+    "count": 6110
   },
   {
     "id": "9",
@@ -22,7 +22,7 @@
   {
     "id": "16",
     "label": "Museo Regional de Magallanes",
-    "count": 3634
+    "count": 3638
   },
   {
     "id": "23",
@@ -65,13 +65,13 @@
     "count": 1703
   },
   {
-    "id": "12",
-    "label": "Museo del Limarí",
-    "count": 1629
-  },
-  {
     "id": "8",
     "label": "Museo O'Higginiano y de Bellas Artes de Talca",
+    "count": 1630
+  },
+  {
+    "id": "12",
+    "label": "Museo del Limarí",
     "count": 1629
   },
   {
@@ -117,7 +117,7 @@
   {
     "id": "105",
     "label": "Museo Andino",
-    "count": 711
+    "count": 715
   },
   {
     "id": "15",

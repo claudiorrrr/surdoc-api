@@ -3,12 +3,12 @@
     {
       "id": "4",
       "label": "Museo Histórico Nacional",
-      "count": 26629
+      "count": 26660
     },
     {
       "id": "3",
       "label": "Museo Nacional de Bellas Artes",
-      "count": 6109
+      "count": 6110
     },
     {
       "id": "9",
@@ -23,7 +23,7 @@
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 3634
+      "count": 3638
     },
     {
       "id": "23",
@@ -66,13 +66,13 @@
       "count": 1703
     },
     {
-      "id": "12",
-      "label": "Museo del Limarí",
-      "count": 1629
-    },
-    {
       "id": "8",
       "label": "Museo O'Higginiano y de Bellas Artes de Talca",
+      "count": 1630
+    },
+    {
+      "id": "12",
+      "label": "Museo del Limarí",
       "count": 1629
     },
     {
@@ -118,7 +118,7 @@
     {
       "id": "105",
       "label": "Museo Andino",
-      "count": 711
+      "count": 715
     },
     {
       "id": "15",
@@ -230,22 +230,22 @@
     {
       "id": "551",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 20825
+      "count": 20829
     },
     {
       "id": "555",
       "label": "Artes Visuales",
-      "count": 14106
+      "count": 14107
     },
     {
       "id": "567",
       "label": "Libros y Documentos",
-      "count": 8738
+      "count": 8739
     },
     {
       "id": "560",
       "label": "Numismática, Filatelia y Objetos conmemorativos",
-      "count": 7420
+      "count": 7451
     },
     {
       "id": "561",
@@ -255,7 +255,7 @@
     {
       "id": "558",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 5260
+      "count": 5261
     },
     {
       "id": "556",
@@ -270,7 +270,7 @@
     {
       "id": "552",
       "label": "Textil, Vestuario y Adornos",
-      "count": 3153
+      "count": 3156
     },
     {
       "id": "563",
@@ -474,7 +474,7 @@
     {
       "id": "1553",
       "label": "Desconocido/a",
-      "count": 4867
+      "count": 4868
     },
     {
       "id": "12825",
@@ -826,7 +826,7 @@
     {
       "id": "8347",
       "label": "Hueso (material animal orgánico)",
-      "count": 2224
+      "count": 2226
     },
     {
       "id": "8533",
@@ -856,7 +856,7 @@
     {
       "id": "8344",
       "label": "Madera",
-      "count": 6165
+      "count": 6166
     },
     {
       "id": "8353",
@@ -866,7 +866,7 @@
     {
       "id": "8529",
       "label": "Obsidiana",
-      "count": 981
+      "count": 982
     },
     {
       "id": "8374",
@@ -876,12 +876,12 @@
     {
       "id": "8339",
       "label": "Papel",
-      "count": 14500
+      "count": 14501
     },
     {
       "id": "8336",
       "label": "Piedra",
-      "count": 5271
+      "count": 5272
     },
     {
       "id": "8334",
@@ -1208,7 +1208,7 @@
     {
       "id": "12338",
       "label": "Modelado de cerámica",
-      "count": 4375
+      "count": 4376
     },
     {
       "id": "12368",
@@ -1248,7 +1248,7 @@
     {
       "id": "12378",
       "label": "Pintura",
-      "count": 1337
+      "count": 1338
     },
     {
       "id": "12414",
@@ -1278,7 +1278,7 @@
     {
       "id": "12350",
       "label": "Pulido",
-      "count": 3157
+      "count": 3159
     },
     {
       "id": "12388",
@@ -1308,7 +1308,7 @@
     {
       "id": "12420",
       "label": "Tallado",
-      "count": 8373
+      "count": 8375
     },
     {
       "id": "12383",
@@ -1360,7 +1360,7 @@
     {
       "id": "14425",
       "label": "Arica",
-      "count": 136
+      "count": 139
     },
     {
       "id": "6378",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 80375
+      "count": 80416
     },
     {
       "id": "stolen",
