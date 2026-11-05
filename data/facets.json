@@ -23,12 +23,12 @@
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 3638
+      "count": 3639
     },
     {
       "id": "23",
       "label": "Museo de Artes Decorativas",
-      "count": 3424
+      "count": 3426
     },
     {
       "id": "11",
@@ -118,7 +118,7 @@
     {
       "id": "105",
       "label": "Museo Andino",
-      "count": 715
+      "count": 716
     },
     {
       "id": "15",
@@ -230,7 +230,7 @@
     {
       "id": "551",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 20829
+      "count": 20830
     },
     {
       "id": "555",
@@ -260,7 +260,7 @@
     {
       "id": "556",
       "label": "Artes Decorativas",
-      "count": 4770
+      "count": 4772
     },
     {
       "id": "557",
@@ -270,7 +270,7 @@
     {
       "id": "552",
       "label": "Textil, Vestuario y Adornos",
-      "count": 3156
+      "count": 3157
     },
     {
       "id": "563",
@@ -751,7 +751,7 @@
     {
       "id": "8349",
       "label": "Cerámica",
-      "count": 5353
+      "count": 5354
     },
     {
       "id": "8352",
@@ -876,12 +876,12 @@
     {
       "id": "8339",
       "label": "Papel",
-      "count": 14501
+      "count": 14504
     },
     {
       "id": "8336",
       "label": "Piedra",
-      "count": 5272
+      "count": 5273
     },
     {
       "id": "8334",
@@ -1360,7 +1360,7 @@
     {
       "id": "14425",
       "label": "Arica",
-      "count": 139
+      "count": 140
     },
     {
       "id": "6378",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 80416
+      "count": 80420
     },
     {
       "id": "stolen",
