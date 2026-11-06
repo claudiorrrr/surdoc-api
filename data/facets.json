@@ -8,7 +8,7 @@
     {
       "id": "3",
       "label": "Museo Nacional de Bellas Artes",
-      "count": 6110
+      "count": 6111
     },
     {
       "id": "9",
@@ -23,7 +23,7 @@
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 3639
+      "count": 3640
     },
     {
       "id": "23",
@@ -118,7 +118,7 @@
     {
       "id": "105",
       "label": "Museo Andino",
-      "count": 716
+      "count": 719
     },
     {
       "id": "15",
@@ -230,12 +230,12 @@
     {
       "id": "551",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 20830
+      "count": 20831
     },
     {
       "id": "555",
       "label": "Artes Visuales",
-      "count": 14107
+      "count": 14108
     },
     {
       "id": "567",
@@ -250,7 +250,7 @@
     {
       "id": "561",
       "label": "Textil, Vestuario y Adornos",
-      "count": 5942
+      "count": 5943
     },
     {
       "id": "558",
@@ -270,7 +270,7 @@
     {
       "id": "552",
       "label": "Textil, Vestuario y Adornos",
-      "count": 3157
+      "count": 3159
     },
     {
       "id": "563",
@@ -706,7 +706,7 @@
     {
       "id": "8341",
       "label": "Acuarela",
-      "count": 1329
+      "count": 1330
     },
     {
       "id": "8368",
@@ -826,7 +826,7 @@
     {
       "id": "8347",
       "label": "Hueso (material animal orgánico)",
-      "count": 2226
+      "count": 2229
     },
     {
       "id": "8533",
@@ -876,7 +876,7 @@
     {
       "id": "8339",
       "label": "Papel",
-      "count": 14504
+      "count": 14505
     },
     {
       "id": "8336",
@@ -1208,7 +1208,7 @@
     {
       "id": "12338",
       "label": "Modelado de cerámica",
-      "count": 4376
+      "count": 4377
     },
     {
       "id": "12368",
@@ -1278,7 +1278,7 @@
     {
       "id": "12350",
       "label": "Pulido",
-      "count": 3159
+      "count": 3163
     },
     {
       "id": "12388",
@@ -1308,7 +1308,7 @@
     {
       "id": "12420",
       "label": "Tallado",
-      "count": 8375
+      "count": 8378
     },
     {
       "id": "12383",
@@ -1360,7 +1360,7 @@
     {
       "id": "14425",
       "label": "Arica",
-      "count": 140
+      "count": 142
     },
     {
       "id": "6378",
@@ -1430,7 +1430,7 @@
     {
       "id": "504",
       "label": "Cultura Arica: Fase San Miguel",
-      "count": 155
+      "count": 156
     },
     {
       "id": "479",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 80420
+      "count": 80425
     },
     {
       "id": "stolen",
