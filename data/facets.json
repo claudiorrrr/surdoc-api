@@ -3,7 +3,7 @@
     {
       "id": "4",
       "label": "Museo Histórico Nacional",
-      "count": 26660
+      "count": 26668
     },
     {
       "id": "3",
@@ -23,7 +23,7 @@
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 3640
+      "count": 3643
     },
     {
       "id": "23",
@@ -230,7 +230,7 @@
     {
       "id": "551",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 20831
+      "count": 20832
     },
     {
       "id": "555",
@@ -245,7 +245,7 @@
     {
       "id": "560",
       "label": "Numismática, Filatelia y Objetos conmemorativos",
-      "count": 7451
+      "count": 7456
     },
     {
       "id": "561",
@@ -255,7 +255,7 @@
     {
       "id": "558",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 5261
+      "count": 5264
     },
     {
       "id": "556",
@@ -280,7 +280,7 @@
     {
       "id": "559",
       "label": "Mobiliario",
-      "count": 1323
+      "count": 1325
     },
     {
       "id": "562",
@@ -776,7 +776,7 @@
     {
       "id": "8355",
       "label": "Cuero (material animal)",
-      "count": 1366
+      "count": 1367
     },
     {
       "id": "8373",
@@ -811,7 +811,7 @@
     {
       "id": "8354",
       "label": "Hierro",
-      "count": 1105
+      "count": 1106
     },
     {
       "id": "8357",
@@ -861,7 +861,7 @@
     {
       "id": "8353",
       "label": "Metal",
-      "count": 3862
+      "count": 3864
     },
     {
       "id": "8529",
@@ -881,7 +881,7 @@
     {
       "id": "8336",
       "label": "Piedra",
-      "count": 5273
+      "count": 5274
     },
     {
       "id": "8334",
@@ -1083,7 +1083,7 @@
     {
       "id": "12369",
       "label": "Ensamblado",
-      "count": 1748
+      "count": 1749
     },
     {
       "id": "12461",
@@ -1118,7 +1118,7 @@
     {
       "id": "12370",
       "label": "Forjado",
-      "count": 758
+      "count": 759
     },
     {
       "id": "12459",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 80425
+      "count": 80436
     },
     {
       "id": "stolen",
