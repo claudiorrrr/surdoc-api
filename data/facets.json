@@ -3,12 +3,12 @@
     {
       "id": "4",
       "label": "Museo Histórico Nacional",
-      "count": 26681
+      "count": 26688
     },
     {
       "id": "3",
       "label": "Museo Nacional de Bellas Artes",
-      "count": 6113
+      "count": 6114
     },
     {
       "id": "9",
@@ -23,7 +23,7 @@
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 3643
+      "count": 3655
     },
     {
       "id": "23",
@@ -88,7 +88,7 @@
     {
       "id": "30",
       "label": "Pinacoteca Universidad de Concepción",
-      "count": 1470
+      "count": 1469
     },
     {
       "id": "31",
@@ -118,7 +118,7 @@
     {
       "id": "105",
       "label": "Museo Andino",
-      "count": 719
+      "count": 720
     },
     {
       "id": "15",
@@ -230,7 +230,7 @@
     {
       "id": "551",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 20832
+      "count": 20840
     },
     {
       "id": "555",
@@ -245,27 +245,27 @@
     {
       "id": "560",
       "label": "Numismática, Filatelia y Objetos conmemorativos",
-      "count": 7469
+      "count": 7476
     },
     {
       "id": "561",
       "label": "Textil, Vestuario y Adornos",
-      "count": 5943
+      "count": 5946
     },
     {
       "id": "558",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 5264
+      "count": 5261
     },
     {
       "id": "556",
       "label": "Artes Decorativas",
-      "count": 4772
+      "count": 4771
     },
     {
       "id": "557",
       "label": "Artes Populares y Artesanía",
-      "count": 3776
+      "count": 3779
     },
     {
       "id": "552",
@@ -275,7 +275,7 @@
     {
       "id": "563",
       "label": "Armas y Armamentos",
-      "count": 1424
+      "count": 1425
     },
     {
       "id": "559",
@@ -295,12 +295,12 @@
     {
       "id": "554",
       "label": "Otros",
-      "count": 589
+      "count": 592
     },
     {
       "id": "569",
       "label": "Otros",
-      "count": 482
+      "count": 481
     },
     {
       "id": "565",
@@ -474,7 +474,7 @@
     {
       "id": "1553",
       "label": "Desconocido/a",
-      "count": 4868
+      "count": 4867
     },
     {
       "id": "12825",
@@ -499,7 +499,7 @@
     {
       "id": "5570",
       "label": "Ernest Paulin Tasset",
-      "count": 109
+      "count": 114
     },
     {
       "id": "2199",
@@ -866,7 +866,7 @@
     {
       "id": "8529",
       "label": "Obsidiana",
-      "count": 982
+      "count": 984
     },
     {
       "id": "8374",
@@ -876,17 +876,17 @@
     {
       "id": "8339",
       "label": "Papel",
-      "count": 14505
+      "count": 14506
     },
     {
       "id": "8336",
       "label": "Piedra",
-      "count": 5274
+      "count": 5279
     },
     {
       "id": "8334",
       "label": "Pintura al óleo",
-      "count": 3101
+      "count": 3100
     },
     {
       "id": "8387",
@@ -948,7 +948,7 @@
     {
       "id": "12345",
       "label": "Acuarela",
-      "count": 268
+      "count": 269
     },
     {
       "id": "12366",
@@ -1208,7 +1208,7 @@
     {
       "id": "12338",
       "label": "Modelado de cerámica",
-      "count": 4377
+      "count": 4378
     },
     {
       "id": "12368",
@@ -1253,7 +1253,7 @@
     {
       "id": "12414",
       "label": "Pintura al óleo",
-      "count": 1445
+      "count": 1444
     },
     {
       "id": "12475",
@@ -1278,7 +1278,7 @@
     {
       "id": "12350",
       "label": "Pulido",
-      "count": 3163
+      "count": 3164
     },
     {
       "id": "12388",
@@ -1360,7 +1360,7 @@
     {
       "id": "14425",
       "label": "Arica",
-      "count": 142
+      "count": 143
     },
     {
       "id": "6378",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 80451
+      "count": 80471
     },
     {
       "id": "stolen",
