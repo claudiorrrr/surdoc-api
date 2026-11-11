@@ -8,7 +8,7 @@
     {
       "id": "3",
       "label": "Museo Nacional de Bellas Artes",
-      "count": 6114
+      "count": 6113
     },
     {
       "id": "9",
@@ -23,7 +23,7 @@
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 3655
+      "count": 3658
     },
     {
       "id": "23",
@@ -230,12 +230,12 @@
     {
       "id": "551",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 20840
+      "count": 20841
     },
     {
       "id": "555",
       "label": "Artes Visuales",
-      "count": 14110
+      "count": 14109
     },
     {
       "id": "567",
@@ -250,22 +250,22 @@
     {
       "id": "561",
       "label": "Textil, Vestuario y Adornos",
-      "count": 5946
+      "count": 5949
     },
     {
       "id": "558",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 5261
+      "count": 5260
     },
     {
       "id": "556",
       "label": "Artes Decorativas",
-      "count": 4771
+      "count": 4769
     },
     {
       "id": "557",
       "label": "Artes Populares y Artesanía",
-      "count": 3779
+      "count": 3780
     },
     {
       "id": "552",
@@ -315,7 +315,7 @@
     {
       "id": "564",
       "label": "Instrumentos Musicales",
-      "count": 95
+      "count": 96
     },
     {
       "id": "553",
@@ -876,7 +876,7 @@
     {
       "id": "8339",
       "label": "Papel",
-      "count": 14506
+      "count": 14505
     },
     {
       "id": "8336",
@@ -1188,7 +1188,7 @@
     {
       "id": "12340",
       "label": "Litografía",
-      "count": 796
+      "count": 795
     },
     {
       "id": "12361",
@@ -1425,12 +1425,12 @@
     {
       "id": "474",
       "label": "Cultura Arica: Fase Gentilar",
-      "count": 69
+      "count": 70
     },
     {
       "id": "504",
       "label": "Cultura Arica: Fase San Miguel",
-      "count": 156
+      "count": 155
     },
     {
       "id": "479",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 80471
+      "count": 80473
     },
     {
       "id": "stolen",
