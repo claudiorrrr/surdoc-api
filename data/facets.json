@@ -8,7 +8,7 @@
     {
       "id": "3",
       "label": "Museo Nacional de Bellas Artes",
-      "count": 6113
+      "count": 6115
     },
     {
       "id": "9",
@@ -63,12 +63,12 @@
     {
       "id": "7",
       "label": "Museo Regional de La Araucanía de Temuco",
-      "count": 1703
+      "count": 1715
     },
     {
       "id": "8",
       "label": "Museo O'Higginiano y de Bellas Artes de Talca",
-      "count": 1630
+      "count": 1631
     },
     {
       "id": "12",
@@ -118,7 +118,7 @@
     {
       "id": "105",
       "label": "Museo Andino",
-      "count": 720
+      "count": 725
     },
     {
       "id": "15",
@@ -230,17 +230,17 @@
     {
       "id": "551",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 20841
+      "count": 20852
     },
     {
       "id": "555",
       "label": "Artes Visuales",
-      "count": 14109
+      "count": 14111
     },
     {
       "id": "567",
       "label": "Libros y Documentos",
-      "count": 8739
+      "count": 8741
     },
     {
       "id": "560",
@@ -255,7 +255,7 @@
     {
       "id": "558",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 5260
+      "count": 5264
     },
     {
       "id": "556",
@@ -265,7 +265,7 @@
     {
       "id": "557",
       "label": "Artes Populares y Artesanía",
-      "count": 3780
+      "count": 3781
     },
     {
       "id": "552",
@@ -751,7 +751,7 @@
     {
       "id": "8349",
       "label": "Cerámica",
-      "count": 5354
+      "count": 5355
     },
     {
       "id": "8352",
@@ -776,7 +776,7 @@
     {
       "id": "8355",
       "label": "Cuero (material animal)",
-      "count": 1367
+      "count": 1369
     },
     {
       "id": "8373",
@@ -786,7 +786,7 @@
     {
       "id": "8359",
       "label": "Fibra vegetal",
-      "count": 1111
+      "count": 1112
     },
     {
       "id": "8510",
@@ -856,12 +856,12 @@
     {
       "id": "8344",
       "label": "Madera",
-      "count": 6167
+      "count": 6170
     },
     {
       "id": "8353",
       "label": "Metal",
-      "count": 3864
+      "count": 3870
     },
     {
       "id": "8529",
@@ -876,7 +876,7 @@
     {
       "id": "8339",
       "label": "Papel",
-      "count": 14505
+      "count": 14508
     },
     {
       "id": "8336",
@@ -886,7 +886,7 @@
     {
       "id": "8334",
       "label": "Pintura al óleo",
-      "count": 3100
+      "count": 3101
     },
     {
       "id": "8387",
@@ -916,7 +916,7 @@
     {
       "id": "8335",
       "label": "Tela",
-      "count": 4116
+      "count": 4118
     },
     {
       "id": "8449",
@@ -968,7 +968,7 @@
     {
       "id": "12447",
       "label": "Alisado",
-      "count": 1123
+      "count": 1125
     },
     {
       "id": "12400",
@@ -1188,7 +1188,7 @@
     {
       "id": "12340",
       "label": "Litografía",
-      "count": 795
+      "count": 796
     },
     {
       "id": "12361",
@@ -1208,7 +1208,7 @@
     {
       "id": "12338",
       "label": "Modelado de cerámica",
-      "count": 4378
+      "count": 4382
     },
     {
       "id": "12368",
@@ -1278,7 +1278,7 @@
     {
       "id": "12350",
       "label": "Pulido",
-      "count": 3164
+      "count": 3165
     },
     {
       "id": "12388",
@@ -1360,7 +1360,7 @@
     {
       "id": "14425",
       "label": "Arica",
-      "count": 143
+      "count": 144
     },
     {
       "id": "6378",
@@ -1430,7 +1430,7 @@
     {
       "id": "504",
       "label": "Cultura Arica: Fase San Miguel",
-      "count": 155
+      "count": 157
     },
     {
       "id": "479",
@@ -1485,7 +1485,7 @@
     {
       "id": "6387",
       "label": "Mapuche",
-      "count": 1042
+      "count": 1043
     },
     {
       "id": "6393",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 80473
+      "count": 80493
     },
     {
       "id": "stolen",
