@@ -7,7 +7,7 @@
   {
     "id": "3",
     "label": "Museo Nacional de Bellas Artes",
-    "count": 6115
+    "count": 6116
   },
   {
     "id": "9",
@@ -22,7 +22,7 @@
   {
     "id": "16",
     "label": "Museo Regional de Magallanes",
-    "count": 3658
+    "count": 3660
   },
   {
     "id": "23",
@@ -55,14 +55,14 @@
     "count": 1772
   },
   {
+    "id": "7",
+    "label": "Museo Regional de La Araucanía de Temuco",
+    "count": 1728
+  },
+  {
     "id": "14",
     "label": "Museo de Arte y Artesanía de Linares",
     "count": 1717
-  },
-  {
-    "id": "7",
-    "label": "Museo Regional de La Araucanía de Temuco",
-    "count": 1715
   },
   {
     "id": "8",
@@ -117,7 +117,7 @@
   {
     "id": "105",
     "label": "Museo Andino",
-    "count": 725
+    "count": 728
   },
   {
     "id": "15",

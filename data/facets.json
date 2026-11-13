@@ -8,7 +8,7 @@
     {
       "id": "3",
       "label": "Museo Nacional de Bellas Artes",
-      "count": 6115
+      "count": 6116
     },
     {
       "id": "9",
@@ -23,7 +23,7 @@
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 3658
+      "count": 3660
     },
     {
       "id": "23",
@@ -56,14 +56,14 @@
       "count": 1772
     },
     {
+      "id": "7",
+      "label": "Museo Regional de La Araucanía de Temuco",
+      "count": 1728
+    },
+    {
       "id": "14",
       "label": "Museo de Arte y Artesanía de Linares",
       "count": 1717
-    },
-    {
-      "id": "7",
-      "label": "Museo Regional de La Araucanía de Temuco",
-      "count": 1715
     },
     {
       "id": "8",
@@ -118,7 +118,7 @@
     {
       "id": "105",
       "label": "Museo Andino",
-      "count": 725
+      "count": 728
     },
     {
       "id": "15",
@@ -230,7 +230,7 @@
     {
       "id": "551",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 20852
+      "count": 20860
     },
     {
       "id": "555",
@@ -250,32 +250,32 @@
     {
       "id": "561",
       "label": "Textil, Vestuario y Adornos",
-      "count": 5949
+      "count": 5950
     },
     {
       "id": "558",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 5264
+      "count": 5266
     },
     {
       "id": "556",
       "label": "Artes Decorativas",
-      "count": 4769
+      "count": 4768
     },
     {
       "id": "557",
       "label": "Artes Populares y Artesanía",
-      "count": 3781
+      "count": 3785
     },
     {
       "id": "552",
       "label": "Textil, Vestuario y Adornos",
-      "count": 3159
+      "count": 3161
     },
     {
       "id": "563",
       "label": "Armas y Armamentos",
-      "count": 1425
+      "count": 1426
     },
     {
       "id": "559",
@@ -313,14 +313,14 @@
       "count": 340
     },
     {
-      "id": "564",
-      "label": "Instrumentos Musicales",
+      "id": "553",
+      "label": "Instrumentos musicales",
       "count": 96
     },
     {
-      "id": "553",
-      "label": "Instrumentos musicales",
-      "count": 94
+      "id": "564",
+      "label": "Instrumentos Musicales",
+      "count": 96
     },
     {
       "id": "566",
@@ -736,7 +736,7 @@
     {
       "id": "8343",
       "label": "Bronce",
-      "count": 1827
+      "count": 1828
     },
     {
       "id": "8425",
@@ -751,7 +751,7 @@
     {
       "id": "8349",
       "label": "Cerámica",
-      "count": 5355
+      "count": 5359
     },
     {
       "id": "8352",
@@ -776,7 +776,7 @@
     {
       "id": "8355",
       "label": "Cuero (material animal)",
-      "count": 1369
+      "count": 1370
     },
     {
       "id": "8373",
@@ -836,7 +836,7 @@
     {
       "id": "8447",
       "label": "Lana",
-      "count": 676
+      "count": 677
     },
     {
       "id": "8540",
@@ -856,12 +856,12 @@
     {
       "id": "8344",
       "label": "Madera",
-      "count": 6170
+      "count": 6172
     },
     {
       "id": "8353",
       "label": "Metal",
-      "count": 3870
+      "count": 3873
     },
     {
       "id": "8529",
@@ -886,7 +886,7 @@
     {
       "id": "8334",
       "label": "Pintura al óleo",
-      "count": 3101
+      "count": 3102
     },
     {
       "id": "8387",
@@ -916,7 +916,7 @@
     {
       "id": "8335",
       "label": "Tela",
-      "count": 4118
+      "count": 4119
     },
     {
       "id": "8449",
@@ -968,7 +968,7 @@
     {
       "id": "12447",
       "label": "Alisado",
-      "count": 1125
+      "count": 1126
     },
     {
       "id": "12400",
@@ -1208,7 +1208,7 @@
     {
       "id": "12338",
       "label": "Modelado de cerámica",
-      "count": 4382
+      "count": 4387
     },
     {
       "id": "12368",
@@ -1278,7 +1278,7 @@
     {
       "id": "12350",
       "label": "Pulido",
-      "count": 3165
+      "count": 3167
     },
     {
       "id": "12388",
@@ -1360,7 +1360,7 @@
     {
       "id": "14425",
       "label": "Arica",
-      "count": 144
+      "count": 145
     },
     {
       "id": "6378",
@@ -1410,7 +1410,7 @@
     {
       "id": "491",
       "label": "Complejo Pitrén",
-      "count": 433
+      "count": 434
     },
     {
       "id": "513",
@@ -1430,7 +1430,7 @@
     {
       "id": "504",
       "label": "Cultura Arica: Fase San Miguel",
-      "count": 157
+      "count": 158
     },
     {
       "id": "479",
@@ -1465,7 +1465,7 @@
     {
       "id": "487",
       "label": "Cultura Mapuche",
-      "count": 711
+      "count": 712
     },
     {
       "id": "6398",
@@ -1485,7 +1485,7 @@
     {
       "id": "6387",
       "label": "Mapuche",
-      "count": 1043
+      "count": 1044
     },
     {
       "id": "6393",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 80493
+      "count": 80512
     },
     {
       "id": "stolen",
