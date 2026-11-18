@@ -3,12 +3,12 @@
     {
       "id": "4",
       "label": "Museo Histórico Nacional",
-      "count": 26710
+      "count": 26721
     },
     {
       "id": "3",
       "label": "Museo Nacional de Bellas Artes",
-      "count": 6123
+      "count": 6125
     },
     {
       "id": "9",
@@ -118,7 +118,7 @@
     {
       "id": "105",
       "label": "Museo Andino",
-      "count": 728
+      "count": 730
     },
     {
       "id": "15",
@@ -230,22 +230,22 @@
     {
       "id": "551",
       "label": "Utensilios, Herramientas y Equipos",
-      "count": 20874
+      "count": 20876
     },
     {
       "id": "555",
       "label": "Artes Visuales",
-      "count": 14119
+      "count": 14121
     },
     {
       "id": "567",
       "label": "Libros y Documentos",
-      "count": 8740
+      "count": 8742
     },
     {
       "id": "560",
       "label": "Numismática, Filatelia y Objetos conmemorativos",
-      "count": 7498
+      "count": 7507
     },
     {
       "id": "561",
@@ -377,7 +377,7 @@
     {
       "id": "6556",
       "label": "Editorial Zig-Zag",
-      "count": 306
+      "count": 307
     },
     {
       "id": "7823",
@@ -741,7 +741,7 @@
     {
       "id": "8425",
       "label": "Cartón",
-      "count": 2313
+      "count": 2315
     },
     {
       "id": "8360",
@@ -876,7 +876,7 @@
     {
       "id": "8339",
       "label": "Papel",
-      "count": 14516
+      "count": 14518
     },
     {
       "id": "8336",
@@ -916,7 +916,7 @@
     {
       "id": "8335",
       "label": "Tela",
-      "count": 4124
+      "count": 4125
     },
     {
       "id": "8449",
@@ -926,7 +926,7 @@
     {
       "id": "8346",
       "label": "Tinta",
-      "count": 6878
+      "count": 6880
     },
     {
       "id": "8351",
@@ -1068,7 +1068,7 @@
     {
       "id": "12455",
       "label": "Encuadernación",
-      "count": 1582
+      "count": 1584
     },
     {
       "id": "12377",
@@ -1163,7 +1163,7 @@
     {
       "id": "12363",
       "label": "Impresión (técnica gráfica)",
-      "count": 4515
+      "count": 4517
     },
     {
       "id": "12385",
@@ -1248,12 +1248,12 @@
     {
       "id": "12378",
       "label": "Pintura",
-      "count": 1337
+      "count": 1338
     },
     {
       "id": "12414",
       "label": "Pintura al óleo",
-      "count": 1445
+      "count": 1446
     },
     {
       "id": "12475",
@@ -1360,7 +1360,7 @@
     {
       "id": "14425",
       "label": "Arica",
-      "count": 145
+      "count": 146
     },
     {
       "id": "6378",
@@ -1425,7 +1425,7 @@
     {
       "id": "474",
       "label": "Cultura Arica: Fase Gentilar",
-      "count": 70
+      "count": 71
     },
     {
       "id": "504",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 80561
+      "count": 80576
     },
     {
       "id": "stolen",
