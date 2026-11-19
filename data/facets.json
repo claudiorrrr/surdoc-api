@@ -3,12 +3,12 @@
     {
       "id": "4",
       "label": "Museo Histórico Nacional",
-      "count": 26721
+      "count": 26735
     },
     {
       "id": "3",
       "label": "Museo Nacional de Bellas Artes",
-      "count": 6125
+      "count": 6127
     },
     {
       "id": "9",
@@ -23,7 +23,7 @@
     {
       "id": "16",
       "label": "Museo Regional de Magallanes",
-      "count": 3659
+      "count": 3663
     },
     {
       "id": "23",
@@ -68,7 +68,7 @@
     {
       "id": "8",
       "label": "Museo O'Higginiano y de Bellas Artes de Talca",
-      "count": 1631
+      "count": 1632
     },
     {
       "id": "12",
@@ -235,7 +235,7 @@
     {
       "id": "555",
       "label": "Artes Visuales",
-      "count": 14121
+      "count": 14124
     },
     {
       "id": "567",
@@ -245,12 +245,12 @@
     {
       "id": "560",
       "label": "Numismática, Filatelia y Objetos conmemorativos",
-      "count": 7507
+      "count": 7521
     },
     {
       "id": "561",
       "label": "Textil, Vestuario y Adornos",
-      "count": 5951
+      "count": 5955
     },
     {
       "id": "558",
@@ -856,7 +856,7 @@
     {
       "id": "8344",
       "label": "Madera",
-      "count": 6179
+      "count": 6180
     },
     {
       "id": "8353",
@@ -886,7 +886,7 @@
     {
       "id": "8334",
       "label": "Pintura al óleo",
-      "count": 3102
+      "count": 3103
     },
     {
       "id": "8387",
@@ -983,7 +983,7 @@
     {
       "id": "12379",
       "label": "Bordado",
-      "count": 299
+      "count": 300
     },
     {
       "id": "12433",
@@ -1253,7 +1253,7 @@
     {
       "id": "12414",
       "label": "Pintura al óleo",
-      "count": 1446
+      "count": 1447
     },
     {
       "id": "12475",
@@ -1497,7 +1497,7 @@
     {
       "id": "exist",
       "label": "Existente",
-      "count": 80576
+      "count": 80597
     },
     {
       "id": "stolen",
